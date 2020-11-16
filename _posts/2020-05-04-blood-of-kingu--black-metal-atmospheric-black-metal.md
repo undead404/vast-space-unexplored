@@ -1,0 +1,14 @@
+---
+date: 2020-05-04T12:47:43
+layout: post
+tags: [black_metal, atmospheric_black_metal, Ukraine, 10s]
+title: "Blood of Kingu: #black_metal #atmospheric_black_metal"
+---
+![Blood of Kingu: #black_metal #atmospheric_black_metal](https://cdn4.telesco.pe/file/Xi-L_WpTDGnativ2yyUpE-S96ckrLYuUNDYrB5UhaGeH_0UdtNlnwt-GxyCMz0x5iRRsfihfT0o_-Yjj035Ol5vF-jeZmK30YIsVIJIx-rSWtC-oYV2fqoCPA5fXToMcr3v5_1q92rdERWZzZwbEQqHof2HosPSYuexmyecDTzGZlvNvHXD44B_CEpFSHMDiBO_zKpEOb1xnFbENwMasOJ7-L0VhOgV3VkfIyzdQnkAuGNpJeS2l1hmxJ-VFoj0bjk4lBBpsdVIA0vW4MjQyF4MqGxzBWEWxIre52t12jXO-FEgmX96t1U73-PIvxf-ZsJ9bahuTbNmtB6LOm6LaWA.jpg)
+Blood of Kingu: [#black_metal](/tags/#black_metal) [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
+
+Після успіху [першого альбому &quot;Окультна філософія&quot;](https://t.me/vast_space_unexplored/3311), Роман Саєнко (раніше [Hate Forest](https://t.me/vast_space_unexplored/3071)) перетворив своє нове сольне дітище на повноцінний гурт. Житомирський барабанник Юрій Синицький став постійним учасником, в якості другого гітариста долучився Роман &quot;Туріос&quot; Благих (донедавна лідер [Astrofaes](https://t.me/vast_space_unexplored/3307) і партнер Саєнка по **Hate Forest**), басистом - учасник останнього складу **Astrofaes** Тарас &quot;Кречет&quot;.
+
+Новооформлений квартет у 2009 році записав альбом &quot;Сонце в домі Скорпіона&quot;, на котрому розвинув розпочате Романом. Тексти знову не були оприлюднені, але принаймні на слух чути, що вони точно є. Низький гроул, талановитий гітарний рифінг та різноманіття барабанних ритмів створюють войовничо-медитативну атмосферу, хочеться більше крові богові крові і грати у ваху. Оформлення альбому створено Паном Ґорґоротом (працював із [Nokturnal Mortum](https://t.me/vast_space_unexplored/2931), [Hate Forest](https://t.me/vast_space_unexplored/3015), іншими українськими блек-метал та RAC виконавцями, а також над першим альбомом **Blood of Kingu**) на основі картини польського художника Здзіслава Бексиньського.
+
+[BANDCAMP](https://candlelightrecordsuk.bandcamp.com/album/sun-in-the-house-of-the-scorpion) | [APPLE MUSIC](https://music.apple.com/gb/album/sun-in-the-house-of-the-scorpion/1442242754) | [SPOTIFY](https://open.spotify.com/album/2jgH2JQEpLle8gbieqTOda) | [DEEZER](https://www.deezer.com/album/44671531?utm_source=deezer&amp;utm_content=album-44671531&amp;utm_term=1601611822_1588585528&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/Bma77tfdlr6ahvhouqmmjf7uvvi?t=Sun_In_The_House_Of_The_Scorpion_-_Blood_of_Kingu) | [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_klvvkLr8P9MNDclkO5w96umX9bIrQLYhg) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4093561)

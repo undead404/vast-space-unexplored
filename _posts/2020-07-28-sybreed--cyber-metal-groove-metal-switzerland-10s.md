@@ -1,0 +1,18 @@
+---
+date: 2020-07-28T14:15:58
+layout: post
+tags: [cyber_metal, groove_metal, Switzerland, 10s]
+title: "Sybreed: #cyber_metal #groove_metal #Switzerland #10s"
+---
+![Sybreed: #cyber_metal #groove_metal #Switzerland #10s](https://i.ytimg.com/vi/pHxnSmyj4S8/maxresdefault.jpg)
+Sybreed: [#cyber_metal](/tags/#cyber_metal) [#groove_metal](/tags/#groove_metal) [#Switzerland](/tags/#Switzerland) [#10s](/tags/#10s) [https://www.youtube.com/watch?v=pHxnSmyj4S8](https://www.youtube.com/watch?v=pHxnSmyj4S8)
+
+Четвертий альбом **синтетиків** став останнім. &quot;Бог то автоматон&quot; має на обкладинці ґротескну роботу Спіроса Антоніу (працював над обкладинкою [мого улюбленого альбому](https://t.me/vast_space_unexplored/3286) **Paradise Lost** і над [попередньою роботою](https://t.me/vast_space_unexplored/3553) **Sybreed**), богоподібна постать у одязі, схожому на священицький, має за спиною механічну конструкцію (крила?), руки її палають вогнем, а на задньому плані - вочевидь, могили дітей.
+
+Як я уже писав, для &quot;God Is an Automaton&quot; старались писати щось покачовіше і попростіше, щоб легше вивозити наживо. На мій простецький слух не дуже відрізняється: все той же гуркіт високотехнологічного виробництва вчувається в ритмах, все той же вокал а-ля **Emperor**, скомбінований із чистим вокалом, ну і дуже багато синтезатора, вокодера, оцього всього кібер-стаффу. Продюсер, звукоінженер і відповідальний за кібер-стафф - знову Різ Фалбер (також колишній продюсер [Paradise Lost](https://t.me/vast_space_unexplored/3286), мастеринг виконав Ґреґ Рілі (іще до Різа колись робив звук також для [Paradise Lost](https://t.me/vast_space_unexplored/3036)).
+
+2013 року вокаліст Бен з особистих причин відмовився від участі у великому турне **Sybreed** + **Soilwork**, що призвело спершу до замороження проекту, а 2014-го до оголошення остаточного кінця гурту. Всі колишні учасники, крім Бена (Томас, Кевін, Алес), продовжують грати кіберметал під назвою **Obsydians**, випускаючи синґли із запрошеними співаками, - всього кілька окремків за 6 років, негусто. Беньямін Номіне із одним талановитим американцем створив студійний проект **Shadow Domain**, котрий також продовжує справу **Sybreed** і навіть уже видав альбом 2 роки тому. Хоча мені **Obsydians** все-таки ближче до душі. До речі, якщо в стилістиці **Sybreed** ви більше по &quot;кібер&quot; і менше по &quot;металу&quot;, то раджу послухати інший гурт Томаса &quot;Дропа&quot; - **MXD**, там теж кіберметал, але металу куди менше, шалена гітарна електроніка.
+
+Пісня &quot;Жодна мудрість не приносить розради&quot; - про розчарування в пізнанні, в науці та у всіх вченнях, що вважають пізнання ключем до спасіння.
+
+[BANDCAMP](https://listenable-records.bandcamp.com/album/god-is-an-automaton) | [APPLE MUSIC](https://music.apple.com/ru/album/god-is-an-automaton/549110258) | [SPOTIFY](https://open.spotify.com/album/16JDZ1iKgT9pMU6nra4img) | [DEEZER](https://www.deezer.com/album/5175491?utm_source=deezer&amp;utm_content=album-5175491&amp;utm_term=1601611822_1595928556&amp;utm_medium=web) | [YOUTUBE MUSIC](https://music.youtube.com/playlist?list=OLAK5uy_mBmEpVbV1I10JpaCDrtGex4KDiC8QlnfY) | [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_mS4vI10IGbb7WNuu53OU8qPXddZKJpt8U) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4176155)А, до речі. Композитор і гітарист Sybreed Томас втілив свою дитячу мрію - грає в складі своїх кумирів Samael.
