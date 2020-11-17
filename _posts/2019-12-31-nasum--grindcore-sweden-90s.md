@@ -21,6 +21,6 @@ __Світ належить ТНК,
 Подумайте про світ, у котрому ми живемо,
 залишіть середовище чистим!__
 
-[BANDCAMP](https://nasum.bandcamp.com/album/grind-finale) | [APPLE MUSIC](https://music.apple.com/us/album/grind-finale/120316276) | [SPOTIFY](https://open.spotify.com/album/4WP5PYC8feRUh5Wyu703ep) | [DEEZER](https://www.deezer.com/album/1004095?utm_source=deezer&amp;utm_content=album-1004095&amp;utm_term=1601611822_1577803626&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/Bfvgi4hckp7f2f5wkriu62hhwta?t=Grind_Finale_-_Nasum) | [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_mxCzctMUHL2jOyjyYLeqbOx-f9eImqlzA) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3566713) 
+[BANDCAMP](https://nasum.bandcamp.com/album/grind-finale) \| [APPLE MUSIC](https://music.apple.com/us/album/grind-finale/120316276) \| [SPOTIFY](https://open.spotify.com/album/4WP5PYC8feRUh5Wyu703ep) \| [DEEZER](https://www.deezer.com/album/1004095?utm_source=deezer&amp;utm_content=album-1004095&amp;utm_term=1601611822_1577803626&amp;utm_medium=web) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bfvgi4hckp7f2f5wkriu62hhwta?t=Grind_Finale_-_Nasum) \| [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_mxCzctMUHL2jOyjyYLeqbOx-f9eImqlzA) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3566713) 
 
 P.S. ТНК - транснаціональна корпорація: компанія, що володіє виробництвом принаймні у одній країні, крім рідної.

@@ -4,7 +4,7 @@ layout: post
 tags: [deathcore, USA, New_Jersey, 10s]
 title: "Lorna Shore: #deathcore #USA #New_Jersey #10s"
 ---
-![Lorna Shore: #deathcore #USA #New_Jersey #10s](/assets/photos/photo_967@14-05-2020_17-53-36.jpg)
+![Lorna Shore: #deathcore #USA #New_Jersey #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_967_14-05-2020_17-53-36.jpg)
 Lorna Shore: [#deathcore](/tags/#deathcore) [#USA](/tags/#USA) [#New_Jersey](/tags/#New_Jersey) [#10s](/tags/#10s)
 
 Лорна Шор - героїня DC Comics третього плану, куратор Ґотемського музею мистецтв, короткий час дівчина Брюса Вейна. На її честь 2010 року назвався дезкор-гурт із берегів Нового Джерсі.
@@ -13,4 +13,4 @@ Lorna Shore: [#deathcore](/tags/#deathcore) [#USA](/tags/#USA) [#New_Jersey](/ta
 
 &quot;Інфекція&quot; - пісня про людство, в котрій намішані різні образи кінця світу.
 
-[YOUTUBE](https://www.youtube.com/playlist?list=PLViden6qCTvKH3F1oQULNUVULYrMQZQFM) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4620076)
+[YOUTUBE](https://www.youtube.com/playlist?list=PLViden6qCTvKH3F1oQULNUVULYrMQZQFM) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4620076)

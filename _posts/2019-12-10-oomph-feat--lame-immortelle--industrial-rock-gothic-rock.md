@@ -11,4 +11,4 @@ Oomph! feat. L&#39;Âme Immortelle: [#industrial_rock](/tags/#industrial_rock) [
 
 Незвична для **Oomph!** пісня із красивими жіночими й чоловічими співами.
 
-[APPLE MUSIC](https://music.apple.com/ru/album/delikatessen/206989718) | [SPOTIFY](https://open.spotify.com/album/4lL1hbZwXfpinIfkufMBjz) | [DEEZER](https://www.deezer.com/album/76680?utm_source=deezer&amp;utm_content=album-76680&amp;utm_term=1601611822_1575964442&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/Bg224amaa7l55uppssqclx6jpim?t=Delikatessen_-_Oomph) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2447683)
+[APPLE MUSIC](https://music.apple.com/ru/album/delikatessen/206989718) \| [SPOTIFY](https://open.spotify.com/album/4lL1hbZwXfpinIfkufMBjz) \| [DEEZER](https://www.deezer.com/album/76680?utm_source=deezer&amp;utm_content=album-76680&amp;utm_term=1601611822_1575964442&amp;utm_medium=web) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bg224amaa7l55uppssqclx6jpim?t=Delikatessen_-_Oomph) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2447683)

@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Ukraine, 90s]
 title: "Lucifugum: #black_metal #Ukraine #90s"
 ---
-![Lucifugum: #black_metal #Ukraine #90s](/assets/photos/photo_767@14-10-2019_16-56-47.jpg)
+![Lucifugum: #black_metal #Ukraine #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_767_14-10-2019_16-56-47.jpg)
 Lucifugum: [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#90s](/tags/#90s)
 
 В Україні в 90-х теж грали блек-метал, але не NM.  В 1995 році Баламут (гітара, бас) і Фаунус (вокал) у Житомирі почали   грати актуальний для того часу симфонічний блек-метал. Додана пісня - із демо-альбому 1997 року &quot;Сквозь равнодушное небо&quot;, на котрому серед інших грали Сатуріус і Князь Варґґот із Nokturnal Mortum. Між L. і N.M. у ті часи було міцне братерство, так, 1998 року Lucifugum зіграли на першій ітерації фестивалю &quot;Коловорот&quot;, 2001 року Баламут грав у складі гурту Munruthel, а іще був спільний проект Вече.

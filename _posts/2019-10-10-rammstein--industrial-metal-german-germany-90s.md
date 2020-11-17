@@ -11,4 +11,4 @@ Rammstein: [#industrial_metal](/tags/#industrial_metal) [#German](/tags/#German)
 
 Додана розширена версія узята із фанатського видання синглу &quot;Engel&quot;. Лінки дам на альбоми із звичайним варіантом.
 
-[ITUNES](https://music.apple.com/us/album/sehnsucht/1390562159) | [SPOTIFY](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | [DEEZER](https://www.deezer.com/album/86933302?utm_source=deezer&amp;utm_content=album-86933302&amp;utm_term=1601611822_1570719594&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLVkbIzK3vqPRrk8cRPGjq5GgVH2_3zM86) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323) (на рутрекері, звісно, всі версії є)
+[ITUNES](https://music.apple.com/us/album/sehnsucht/1390562159) \| [SPOTIFY](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) \| [DEEZER](https://www.deezer.com/album/86933302?utm_source=deezer&amp;utm_content=album-86933302&amp;utm_term=1601611822_1570719594&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLVkbIzK3vqPRrk8cRPGjq5GgVH2_3zM86) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323) (на рутрекері, звісно, всі версії є)

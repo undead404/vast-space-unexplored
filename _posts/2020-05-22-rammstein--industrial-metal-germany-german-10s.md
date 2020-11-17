@@ -13,4 +13,4 @@ Rammstein: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#German
 
 У відеокліпі герої пісні зображені в амплуа серф-рок гурту 60-х, грають в Каліфорнії на пляжі, а в кінці **Rammstein** показують в корпспейнті під час більш звичного музично-вогняного шоу.
 
-[APPLE MUSIC](https://music.apple.com/us/album/mein-land-ep/479060660) | [SPOTIFY](https://open.spotify.com/album/7DlkDvsOE2qYTMDCKOC9q8) | [DEEZER](https://www.deezer.com/album/1336799?utm_source=deezer&amp;utm_content=album-1336799&amp;utm_term=1601611822_1590145018&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLHNJ-KVQOW-Lm5ggblo1x8bfC8RVZZo3I) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)
+[APPLE MUSIC](https://music.apple.com/us/album/mein-land-ep/479060660) \| [SPOTIFY](https://open.spotify.com/album/7DlkDvsOE2qYTMDCKOC9q8) \| [DEEZER](https://www.deezer.com/album/1336799?utm_source=deezer&amp;utm_content=album-1336799&amp;utm_term=1601611822_1590145018&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLHNJ-KVQOW-Lm5ggblo1x8bfC8RVZZo3I) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)

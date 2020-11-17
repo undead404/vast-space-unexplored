@@ -11,4 +11,4 @@ Rammstein: [#industrial_rock](/tags/#industrial_rock) [#industrial_metal](/tags/
 
 Вісєла пісєнька &quot;Пограй зі мною&quot; - про інцест між двома хлопчиками-братами.
 
-[APPLE MUSIC](https://music.apple.com/us/album/sehnsucht/1390562159) | [SPOTIFY](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | [DEEZER](https://www.deezer.com/album/86933302?utm_source=deezer&amp;utm_content=album-86933302&amp;utm_term=1601611822_1571669150&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesDskxOhiJZbLuixuv-cf6j5) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)
+[APPLE MUSIC](https://music.apple.com/us/album/sehnsucht/1390562159) \| [SPOTIFY](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) \| [DEEZER](https://www.deezer.com/album/86933302?utm_source=deezer&amp;utm_content=album-86933302&amp;utm_term=1601611822_1571669150&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesDskxOhiJZbLuixuv-cf6j5) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)

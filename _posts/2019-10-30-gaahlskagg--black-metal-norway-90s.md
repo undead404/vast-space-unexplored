@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Norway, 90s]
 title: "Gaahlskagg: #black_metal #Norway #90s"
 ---
-![Gaahlskagg: #black_metal #Norway #90s](/assets/photos/photo_792@30-10-2019_11-17-47.jpg)
+![Gaahlskagg: #black_metal #Norway #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_792_30-10-2019_11-17-47.jpg)
 Gaahlskagg: [#black_metal](/tags/#black_metal) [#Norway](/tags/#Norway) [#90s](/tags/#90s)
 
 **Ґаалскаґґ** - я б сказав, це блек-метал, записаний норвежцями у шведському стилі. Проект-дует вокаліста Ґаала із **Trelldom** і гітариста Скаґґа випустив єдиний альбом - &quot;Еротичне поховання&quot; 2000 року. На обкладинці зображене зацензурений оголений андрогінний торс, що вельми пікантно, коли знати про інтерес Ґаала до своєї статі.

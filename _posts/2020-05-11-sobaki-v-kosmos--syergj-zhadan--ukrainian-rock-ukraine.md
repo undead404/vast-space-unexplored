@@ -11,4 +11,4 @@ title: "Собаки в космосі і Сергій Жадан: #Ukrainian_ro
 
 Текстово &quot;Триста китайців&quot; найбільше схожі на глузування з прибічників теорії змови для примусового заселення Європи чужинцями. Такий от колючий сарказм по-жаданівськи. Музично це український рок із голосом Жадана поверх, котрий іще не навчився бути вокалістом, але вже і не просто декламує.
 
-[BANDCAMP](https://34audio.bandcamp.com/album/2012-2) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=965359)
+[BANDCAMP](https://34audio.bandcamp.com/album/2012-2) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=965359)

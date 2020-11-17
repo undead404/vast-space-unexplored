@@ -1,19 +1,19 @@
 ---
 layout: page
 permalink: /tags/
-title: Tags
+title: Теґи
 ---
 
 <div>
-{% assign tags_sorted = site.tags | sort %}
-{% for tag in tags_sorted %}
+  {% assign tags_sorted = site.tags | sort %}
+  {% for tag in tags_sorted %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-	
+
     <div id="#{{ tag_name | slugize }}"></div>
+    <a name="{{ tag_name | slugize }}"></a>
 
     <h3 class="tag-head"><small>#{{ tag_name }}</small></h3>
-    <a name="{{ tag_name | slugize }}"></a>
 
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
@@ -21,5 +21,5 @@ title: Tags
     </article>
     {% endfor %}
   </div>
-{% endfor %}
+  {% endfor %}
 </div>

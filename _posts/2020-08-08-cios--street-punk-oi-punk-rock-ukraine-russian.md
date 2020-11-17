@@ -4,7 +4,7 @@ layout: post
 tags: [street_punk, oi, punk_rock, Ukraine, Russian, 10s]
 title: "Cios: #street_punk #oi #punk_rock #Ukraine #Russian"
 ---
-![Cios: #street_punk #oi #punk_rock #Ukraine #Russian](/assets/photos/photo_1034@08-08-2020_09-15-43.jpg)
+![Cios: #street_punk #oi #punk_rock #Ukraine #Russian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1034_08-08-2020_09-15-43.jpg)
 Cios: [#street_punk](/tags/#street_punk) [#oi](/tags/#oi) [#punk_rock](/tags/#punk_rock) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
 Важко переоцінити роль **Cios** (**Удар** польською) для мене у 2012 році. Ось він, нарешті, український рок такий, який він має бути, із козацькою гордістю та пролетарською люттю.
@@ -17,4 +17,4 @@ Cios: [#street_punk](/tags/#street_punk) [#oi](/tags/#oi) [#punk_rock](/tags/#pu
 
 Того ж таки 2012 року Олександр емігрував до Польщі, і близько року гурт репетирував дистанційно, але згодом Панкрат вирішив, що пора розвиватись, і замінив Сашка на гітарі й вокалі. Наступні альбоми виходили (і виходять досі) із завидною продуктивністю, і я не знаю напевне, але прикольно, якщо цей росіянин був змушений вивчити українську заради **Cios**. Але **Cios** без вокалу Олександра із **ТҐ** - для мене то вже трохи не те.
 
-[BANDCAMP](https://cios.bandcamp.com/album/cios) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5441364)
+[BANDCAMP](https://cios.bandcamp.com/album/cios) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5441364)

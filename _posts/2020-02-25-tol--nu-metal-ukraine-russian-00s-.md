@@ -29,4 +29,4 @@ __Я заебался снимать бронь на кладбище
 ФенШуй не соблюдает дистанцию дестроя
 __
 
-[APPLE MUSIC](https://music.apple.com/ag/album/%D0%BA%D0%BB%D0%B5%D0%B9-%D0%BC%D0%BE-ep/652965631) | [SPOTIFY](https://open.spotify.com/album/2RlL39bs5GvwTkelLXHEVU) | [DEEZER](https://www.deezer.com/album/6621200?utm_source=deezer&amp;utm_content=album-6621200&amp;utm_term=1601611822_1582628013&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/Bwgkaebivsy6wb74zac7wui722q) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=420771)
+[APPLE MUSIC](https://music.apple.com/ag/album/%D0%BA%D0%BB%D0%B5%D0%B9-%D0%BC%D0%BE-ep/652965631) \| [SPOTIFY](https://open.spotify.com/album/2RlL39bs5GvwTkelLXHEVU) \| [DEEZER](https://www.deezer.com/album/6621200?utm_source=deezer&amp;utm_content=album-6621200&amp;utm_term=1601611822_1582628013&amp;utm_medium=web) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bwgkaebivsy6wb74zac7wui722q) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=420771)

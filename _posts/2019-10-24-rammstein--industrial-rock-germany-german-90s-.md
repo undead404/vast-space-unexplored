@@ -13,4 +13,4 @@ Rammstein: [#industrial_rock](/tags/#industrial_rock) [#Germany](/tags/#Germany)
 
 Пісня просто оспівує романтичний порив пари провести еротичний день у відлюдному місці на природі.
 
-[APPLE MUSIC](https://music.apple.com/us/album/rarit%C3%A4ten-1994-2012/1443279770) | [SPOTIFY](https://open.spotify.com/album/5Wn5RVUvHDKi1saTjeQkyI) | [DEEZER](https://www.deezer.com/album/430798?utm_source=deezer&amp;utm_content=album-430798&amp;utm_term=1601611822_1571926405&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesB1HeLY8UIdiiSDO98X0YJf) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)
+[APPLE MUSIC](https://music.apple.com/us/album/rarit%C3%A4ten-1994-2012/1443279770) \| [SPOTIFY](https://open.spotify.com/album/5Wn5RVUvHDKi1saTjeQkyI) \| [DEEZER](https://www.deezer.com/album/430798?utm_source=deezer&amp;utm_content=album-430798&amp;utm_term=1601611822_1571926405&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesB1HeLY8UIdiiSDO98X0YJf) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)

@@ -15,4 +15,4 @@ title: "Лютомисл: #black_metal #Ukraine #Russian #00s"
 
 &quot;Відблиском ранкової зорі&quot; - сповідь люциперіанця, котрий відкидає все безглузде і неважливе, творячи Ідеал.
 
-[BANDCAMP](https://lutomysl.bandcamp.com/album/catharsis) | [APPLE MUSIC](https://music.apple.com/nl/album/catharsis/1488384848) | [GOOGLE MUSIC](https://play.google.com/music/m/Bkg4gwlh4r6k53lr5nr2fa257bu?t=Catharsis_-_) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3201429)
+[BANDCAMP](https://lutomysl.bandcamp.com/album/catharsis) \| [APPLE MUSIC](https://music.apple.com/nl/album/catharsis/1488384848) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bkg4gwlh4r6k53lr5nr2fa257bu?t=Catharsis_-_) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3201429)

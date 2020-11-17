@@ -4,7 +4,7 @@ layout: post
 tags: [pagan_metal, symphonic_black_metal, Ukraine, 90s]
 title: "Great Horn: #pagan_metal #symphonic_black_metal #Ukraine"
 ---
-![Great Horn: #pagan_metal #symphonic_black_metal #Ukraine](/assets/photos/photo_773@17-10-2019_12-00-15.jpg)
+![Great Horn: #pagan_metal #symphonic_black_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_773_17-10-2019_12-00-15.jpg)
 Great Horn: [#pagan_metal](/tags/#pagan_metal) [#symphonic_black_metal](/tags/#symphonic_black_metal) [#Ukraine](/tags/#Ukraine) [#90s](/tags/#90s)
 
 Нарешті! Ось воно! В славетному Ніжині Чернігівської області на межі тисячоліть існував істинний український блек-метал гурт, котрий подобається мені куди більше за NM, із справді проймаючими текстами.

@@ -15,4 +15,4 @@ Pain: [#industrial_metal](/tags/#industrial_metal) [#Sweden](/tags/#Sweden) [#90
 
 Пісня &quot;Жадібність&quot; - про пістолет як засіб встановлення справедливості щодо зажерливих представників правлячого класу.
 
-[YOUTUBE](https://www.youtube.com/playlist?list=PLCeqflf6R2wCNkysIRSpA1TihJzcDqzf_) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3979386) (вочевидь, Петер не займається дистрибуцією першого альбому як політично некоректного)
+[YOUTUBE](https://www.youtube.com/playlist?list=PLCeqflf6R2wCNkysIRSpA1TihJzcDqzf_) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3979386) (вочевидь, Петер не займається дистрибуцією першого альбому як політично некоректного)

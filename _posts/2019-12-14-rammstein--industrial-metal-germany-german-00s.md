@@ -17,4 +17,4 @@ Rammstein: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#German
 
 Відеокліп - просто сумбурне збочення.
 
-[APPLE MUSIC](https://music.apple.com/ru/album/reise-reise/1440734479) | [SPOTIFY](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | [DEEZER](https://www.deezer.com/album/701863?utm_source=deezer&amp;utm_content=album-701863&amp;utm_term=1601611822_1576350657&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesAxvc2UI7zzYrPeWIKBChx0) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)
+[APPLE MUSIC](https://music.apple.com/ru/album/reise-reise/1440734479) \| [SPOTIFY](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) \| [DEEZER](https://www.deezer.com/album/701863?utm_source=deezer&amp;utm_content=album-701863&amp;utm_term=1601611822_1576350657&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesAxvc2UI7zzYrPeWIKBChx0) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)

@@ -13,4 +13,4 @@ title: "НеГрузовики: #trip_hop #electronic #Ukraine #Russian"
 
 Пісня &quot;Мой знакомый&quot; - про таку безглузду і невмирущу дружбу між геть різними, але колись такими близькими людьми.
 
-[BANDCAMP](https://idmg.bandcamp.com/album/--7) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=1863681)
+[BANDCAMP](https://idmg.bandcamp.com/album/--7) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=1863681)

@@ -4,7 +4,7 @@ layout: post
 tags: [screamo, female_vocalists, female_fronted_punk, Bosnia_and_Herzegovina, 10s]
 title: "Deer in the Headlights: #screamo #female_vocalists"
 ---
-![Deer in the Headlights: #screamo #female_vocalists](/assets/photos/photo_931@02-04-2020_16-34-50.jpg)
+![Deer in the Headlights: #screamo #female_vocalists](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_931_02-04-2020_16-34-50.jpg)
 Deer in the Headlights: [#screamo](/tags/#screamo) [#female_vocalists](/tags/#female_vocalists) [#female_fronted_punk](/tags/#female_fronted_punk) [#Bosnia_and_Herzegovina](/tags/#Bosnia_and_Herzegovina) [#10s](/tags/#10s)
 
 Знаю, що тут немало скрімо-аудиторії (з опитування), і я її так рідко тішу. Цього разу допис - для вас.

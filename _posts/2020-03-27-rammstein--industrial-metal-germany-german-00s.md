@@ -11,10 +11,10 @@ Rammstein: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#German
 
 Альбом &quot;Любов для всіх&quot; вийшов у 2009 році - коли я до них інтерес уже втратив, а вони до себе - іще ні.
 
-Уже за [синглом &quot;Розкішниця&quot;](https://t.me/vast_space_unexplored/3539) стало ясно, якого спрямування буде альбом. Йшлося про видання альбому з набором секс-іграшок: шість фалоімітаторів, про котрі заявлено, що вони повторюють форми статевих членів учасників гурту, наручниками і секс-мастилом.
+Уже за [синглом &quot;Розкішниця&quot;](/2020-03-22-rammstein--industrial-metal-germany-german-00s) стало ясно, якого спрямування буде альбом. Йшлося про видання альбому з набором секс-іграшок: шість фалоімітаторів, про котрі заявлено, що вони повторюють форми статевих членів учасників гурту, наручниками і секс-мастилом.
 
 Пісня &quot;Я завдаю тобі болю&quot; та деякі елементи буклету зазнали критики з боку влади Німеччини, альбом заборонили до поширення в її кордонах, хоч пізніше заборона була знята в судовому порядку.
 
 Додана пісня &quot;Успішного полювання&quot; - про полювання на лань, котра, мабуть, є метафорою жінки. В доданому концертному відео Тіль співає із велетенською подобою рушниці на плечі.
 
-[APPLE MUSIC](https://music.apple.com/ua/album/liebe-ist-f%C3%BCr-alle-da/1440735807?l=ru) | [SPOTIFY](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) | [DEEZER](https://www.deezer.com/album/422033?utm_source=deezer&amp;utm_content=album-422033&amp;utm_term=1601611822_1585303844&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesAcD4hDX_W8BTcaJFfx7D30) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)До речі, кажуть, Тілля сьогодні госпіталізували у Берліні з коронавірусом. Мема не буде
+[APPLE MUSIC](https://music.apple.com/ua/album/liebe-ist-f%C3%BCr-alle-da/1440735807?l=ru) \| [SPOTIFY](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) \| [DEEZER](https://www.deezer.com/album/422033?utm_source=deezer&amp;utm_content=album-422033&amp;utm_term=1601611822_1585303844&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesAcD4hDX_W8BTcaJFfx7D30) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)До речі, кажуть, Тілля сьогодні госпіталізували у Берліні з коронавірусом. Мема не буде

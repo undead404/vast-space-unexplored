@@ -4,7 +4,7 @@ layout: post
 tags: [pop_rock, hard_rock, Russian_rock, Ukraine, Russian, 00s, heavy_metal]
 title: "Т.О.К.: #pop_rock #hard_rock #Russian_rock #Ukraine"
 ---
-![Т.О.К.: #pop_rock #hard_rock #Russian_rock #Ukraine](/assets/photos/photo_817@14-12-2019_08-59-33.jpg)
+![Т.О.К.: #pop_rock #hard_rock #Russian_rock #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_817_14-12-2019_08-59-33.jpg)
 Т.О.К.: [#pop_rock](/tags/#pop_rock) [#hard_rock](/tags/#hard_rock) [#Russian_rock](/tags/#Russian_rock) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#00s](/tags/#00s)
 
 Колись **Ток** були перебудовним радянським [#heavy_metal](/tags/#heavy_metal) гуртом із Дніпропетровська, однак в кінці 80-х переформатувались на англомовний хард-рок; саме в ті часи кілька років їх продюсером був Дмитро Костюк, котрий набагато пізніше створив **ВІА Гра**. До речі, оці потворні точки в назві гурту - наслідок спроби убезпечитись від перекладу назви на українську (називатись в україномовних виданнях &quot;Струм&quot; не хотілося).

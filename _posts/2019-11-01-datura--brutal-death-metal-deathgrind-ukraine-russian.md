@@ -4,7 +4,7 @@ layout: post
 tags: [brutal_death_metal, deathgrind, Ukraine, Russian, 00s]
 title: "Datura: #brutal_death_metal #deathgrind #Ukraine #Russian"
 ---
-![Datura: #brutal_death_metal #deathgrind #Ukraine #Russian](/assets/photos/photo_795@01-11-2019_16-52-35.jpg)
+![Datura: #brutal_death_metal #deathgrind #Ukraine #Russian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_795_01-11-2019_16-52-35.jpg)
 Datura: [#brutal_death_metal](/tags/#brutal_death_metal) [#deathgrind](/tags/#deathgrind) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#00s](/tags/#00s)
 
 **Дурман** раніше були культовим брутал-дез-грайнд гуртом України. Тепер, мабуть, вельми культові на сцені ДНР: гітарист Боб і драммер Дімас продовжують там свою справу.

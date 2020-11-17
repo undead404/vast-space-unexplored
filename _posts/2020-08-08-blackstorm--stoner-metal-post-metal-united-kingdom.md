@@ -4,7 +4,7 @@ layout: post
 tags: [stoner_metal, post_metal, United_Kingdom, England, 10s]
 title: "Blackstorm: #stoner_metal #post_metal #United_Kingdom"
 ---
-![Blackstorm: #stoner_metal #post_metal #United_Kingdom](/assets/photos/photo_1033@08-08-2020_02-06-41.jpg)
+![Blackstorm: #stoner_metal #post_metal #United_Kingdom](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1033_08-08-2020_02-06-41.jpg)
 Blackstorm: [#stoner_metal](/tags/#stoner_metal) [#post_metal](/tags/#post_metal) [#United_Kingdom](/tags/#United_Kingdom) [#England](/tags/#England) [#10s](/tags/#10s)
 
 **Чорнобуря** - гурт із англійської провінції, котрий грає, як вони самі пишуть, &quot;найтяжчу рок-музику з можливих&quot;, суміш стоунеру, гранжу та сладжевого пост-металу. Випустили не так багато пісень, і у 2014 році пішли у безстрокову відпустку: вокаліст Карл одружився і переїхав з Брайтона...

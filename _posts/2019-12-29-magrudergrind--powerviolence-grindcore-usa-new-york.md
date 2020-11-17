@@ -9,4 +9,4 @@ Magrudergrind: [#powerviolence](/tags/#powerviolence) [#grindcore](/tags/#grindc
 
 2005 року **М&#39;ясорубка Маґрудера** випустила компіляцію, названу &quot;Шістдесят двома стежинами луплення&quot;. Це пісні зі сплітів, демо-альбомів та інші раритети. Серед них - &quot;Вибух Касабланки&quot;.  Ця пісня - засудження бомбування мирного населення. Думаю, &quot;Касабланка&quot; - гра слів, адже &quot;Casa blanca&quot; іспанською - &quot;Білий дім&quot;.
 
-[BANDCAMP](https://music.tolivealie.com/album/sixty-two-trax-of-thrash-cd) | [YOUTUBE](https://www.youtube.com/playlist?list=PL6F10C3C593A24884) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4037917)
+[BANDCAMP](https://music.tolivealie.com/album/sixty-two-trax-of-thrash-cd) \| [YOUTUBE](https://www.youtube.com/playlist?list=PL6F10C3C593A24884) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4037917)

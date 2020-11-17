@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore, USA, Nebraska, 10s]
 title: "Bent Life: #hardcore #USA #Nebraska #10s"
 ---
-![Bent Life: #hardcore #USA #Nebraska #10s](/assets/photos/photo_1054@21-09-2020_11-31-23.jpg)
+![Bent Life: #hardcore #USA #Nebraska #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1054_21-09-2020_11-31-23.jpg)
 Bent Life: [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#Nebraska](/tags/#Nebraska) [#10s](/tags/#10s)
 
 Нафіг нам панк-рок із світових столиць? Я хочу панк-рок із якоїсь дупи. Небраска, штат Німеччини нового світу, можна легко вважати дупою США, - це сільськогосподарський штат, де виробляють яловичину, свинину, кукурудзу. Із столиці Небраски, міста Лінкольна, хардкор-гурт **Збочене життя**.
@@ -15,4 +15,4 @@ Bent Life: [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#Nebraska](/tags/#Ne
 
 Пісня &quot;Хворий намір / Ріж мотузку&quot; взята із міні-альбому &quot;Цілий череп&quot; 2013 року.
 
-[BANDCAMP ($4)](https://bentlifehc.bandcamp.com/album/full-skull) | [APPLE MUSIC](https://music.apple.com/us/album/full-skull-ep/1009731057) | [SPOTIFY](https://open.spotify.com/album/0BnIj0RJWRpL1qn8Sa4sUX) | [DEEZER](https://open.spotify.com/album/0BnIj0RJWRpL1qn8Sa4sUX) | [YOUTUBE MUSIC](https://music.youtube.com/playlist?list=OLAK5uy_nuuo6AhwYIYKTG-1V-NQMGLh-xCGx3MB4)
+[BANDCAMP ($4)](https://bentlifehc.bandcamp.com/album/full-skull) \| [APPLE MUSIC](https://music.apple.com/us/album/full-skull-ep/1009731057) \| [SPOTIFY](https://open.spotify.com/album/0BnIj0RJWRpL1qn8Sa4sUX) \| [DEEZER](https://open.spotify.com/album/0BnIj0RJWRpL1qn8Sa4sUX) \| [YOUTUBE MUSIC](https://music.youtube.com/playlist?list=OLAK5uy_nuuo6AhwYIYKTG-1V-NQMGLh-xCGx3MB4)

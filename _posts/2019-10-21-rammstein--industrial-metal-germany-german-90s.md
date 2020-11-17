@@ -11,4 +11,4 @@ Rammstein: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#German
 
 Новий кліп - найдорожчий в історії гурту. Палац Бабельсберґ, костюми, спецефекти - недивно. Відео гармонізує з піснею - зображає гурт в якості вовків-перевертнів у антуражі 18 чи 19 ст..
 
-[SPOTIFY](https://open.spotify.com/album/7aC0RZ6wsDXWF3RP2Pvu5o) | [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesD03T2Tr2l5nH0awpr_V6VW) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)
+[SPOTIFY](https://open.spotify.com/album/7aC0RZ6wsDXWF3RP2Pvu5o) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLFI4qRuYmesD03T2Tr2l5nH0awpr_V6VW) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)

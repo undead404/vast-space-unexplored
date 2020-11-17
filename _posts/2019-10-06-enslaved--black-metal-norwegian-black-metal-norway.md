@@ -11,4 +11,4 @@ Enslaved 1992 року. Примітив у порівнянні з вищена
 
 Зате звук - мощ.
 
-[ITUNES](https://music.apple.com/us/album/yggdrasill/673995986) | [SPOTIFY](https://open.spotify.com/album/1B5HzrwnYTpqqt3F02zadr) | [DEEZER](https://www.deezer.com/album/6775201?utm_source=deezer&amp;utm_content=album-6775201&amp;utm_term=1601611822_1570378148&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/Bn6bhhpyg6fsrr47kh5iwzmuc2i?t=Yggdrasill_-_Enslaved) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3410807)
+[ITUNES](https://music.apple.com/us/album/yggdrasill/673995986) \| [SPOTIFY](https://open.spotify.com/album/1B5HzrwnYTpqqt3F02zadr) \| [DEEZER](https://www.deezer.com/album/6775201?utm_source=deezer&amp;utm_content=album-6775201&amp;utm_term=1601611822_1570378148&amp;utm_medium=web) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bn6bhhpyg6fsrr47kh5iwzmuc2i?t=Yggdrasill_-_Enslaved) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3410807)

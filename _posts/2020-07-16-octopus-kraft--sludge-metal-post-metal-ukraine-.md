@@ -13,4 +13,4 @@ Octopus Kraft: [#sludge_metal](/tags/#sludge_metal) [#post_metal](/tags/#post_me
 
 **O.K.** пережив прощання із фронтменом і переходом лідер-вокалу до гітариста Юрія Дубровського, нестачу барабанників і зрештою перейшов у напівзаморожений стан. В Юрія тепер нові гурти, також пост-метальні.
 
-[BANDCAMP](https://octopuskraft.bandcamp.com/album/the-inner-side) | [SPOTIFY](https://open.spotify.com/album/0srZ2Ju2q2wa14YxyzZGQQ?si=i2uYei_FRyOjTYgOmYWXcQ) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4111372)
+[BANDCAMP](https://octopuskraft.bandcamp.com/album/the-inner-side) \| [SPOTIFY](https://open.spotify.com/album/0srZ2Ju2q2wa14YxyzZGQQ?si=i2uYei_FRyOjTYgOmYWXcQ) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4111372)

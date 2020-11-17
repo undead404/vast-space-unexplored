@@ -7,7 +7,7 @@ title: "ТОЛ: #nu_metal #math_metal #Ukraine #Russian #10s "
 ![ТОЛ: #nu_metal #math_metal #Ukraine #Russian #10s ](https://i.ytimg.com/vi/ZbOs4GB6Zqo/maxresdefault.jpg)
 ТОЛ: [#nu_metal](/tags/#nu_metal) [#math_metal](/tags/#math_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s) [https://www.youtube.com/watch?v=ZbOs4GB6Zqo](https://www.youtube.com/watch?v=ZbOs4GB6Zqo)
 
-[Минулого разу я писав про ТОЛ](https://t.me/vast_space_unexplored/3453) в загальному розрізі ню-металу взагалі і ню-металу України, тепер давайте докладніше про сам **ТОЛ**.
+[Минулого разу я писав про ТОЛ](/2020-02-25-tol--nu-metal-ukraine-russian-00s-) в загальному розрізі ню-металу взагалі і ню-металу України, тепер давайте докладніше про сам **ТОЛ**.
 
 З&#39;явився гурт у 2003. Тол - скорочена назва вибухової речовини, тринітротолуолу. Най-найпершою їх піснею стала &quot;Самознищення&quot;, на неї ж пізніше створили найперший кліп; якщо пам&#39;ятаєте - там все чорне, а на чорному червоне з синім й білим. Важливо додати, що з найперших років у секстету був продюсер, а кліпи знімав Віктор Придувалов. Зрештою був навіть телеканал, котрий крутив кліп &quot;Самознищення&quot; - Enter Music. Ох, пригадую, як мене шокувало, що в Україні таке є, хоча б по кабельному.
 
@@ -21,4 +21,4 @@ title: "ТОЛ: #nu_metal #math_metal #Ukraine #Russian #10s "
 
 &quot;Флаг&quot; - пісня про пошук місця в світі, про незалежність та боротьбу, трохи дитячу, але непримиренну.
 
-[YOUTUBE](https://www.youtube.com/watch?v=ZbOs4GB6Zqo) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=420771)
+[YOUTUBE](https://www.youtube.com/watch?v=ZbOs4GB6Zqo) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=420771)

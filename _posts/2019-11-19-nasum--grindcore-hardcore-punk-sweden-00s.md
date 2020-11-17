@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, hardcore_punk, Sweden, 00s]
 title: "Nasum: #grindcore #hardcore_punk #Sweden #00s"
 ---
-![Nasum: #grindcore #hardcore_punk #Sweden #00s](/assets/photos/photo_808@19-11-2019_11-57-33.jpg)
+![Nasum: #grindcore #hardcore_punk #Sweden #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_808_19-11-2019_11-57-33.jpg)
 Nasum: [#grindcore](/tags/#grindcore) [#hardcore_punk](/tags/#hardcore_punk) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s)
 
 Цього разу знайшов нормальне фото **Назум** складу тих років. Зліва направо.
@@ -17,4 +17,4 @@ Nasum: [#grindcore](/tags/#grindcore) [#hardcore_punk](/tags/#hardcore_punk) [#S
 
 Пісня &quot;Доброго ранку, ідіоте&quot; - написана Андерсом. Звертається до безтурботних людей, котрі не помічають глобальних проблем, поки вони не постукають у двері. Вийшла на спліт-альбомі із **Skitsystem**.
 
-[BANDCAMP](https://nasum.bandcamp.com/album/grind-finale) | [APPLE MUSIC](https://music.apple.com/ru/album/grind-finale/120316276) | [SPOTIFY](https://open.spotify.com/album/4WP5PYC8feRUh5Wyu703ep) | [DEEZER](https://www.deezer.com/album/1004095?utm_source=deezer&amp;utm_content=album-1004095&amp;utm_term=1601611822_1574157259&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/Bfvgi4hckp7f2f5wkriu62hhwta?t=Grind_Finale_-_Nasum) | [YOUTUBE](https://www.youtube.com/playlist?list=PLB99FA4A206E21E60) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2053363)
+[BANDCAMP](https://nasum.bandcamp.com/album/grind-finale) \| [APPLE MUSIC](https://music.apple.com/ru/album/grind-finale/120316276) \| [SPOTIFY](https://open.spotify.com/album/4WP5PYC8feRUh5Wyu703ep) \| [DEEZER](https://www.deezer.com/album/1004095?utm_source=deezer&amp;utm_content=album-1004095&amp;utm_term=1601611822_1574157259&amp;utm_medium=web) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bfvgi4hckp7f2f5wkriu62hhwta?t=Grind_Finale_-_Nasum) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLB99FA4A206E21E60) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2053363)

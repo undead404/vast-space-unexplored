@@ -13,4 +13,4 @@ Deathspell Omega: [#black_metal](/tags/#black_metal) [#France](/tags/#France) [#
 
 Пісня &quot;Прадавня присутність розкрита&quot; - про пришестя демононародженого у смертний світ.
 
-[BANDCAMP](https://deathspellomega.bandcamp.com/album/infernal-battles) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2974278)
+[BANDCAMP](https://deathspellomega.bandcamp.com/album/infernal-battles) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2974278)

@@ -4,7 +4,7 @@ layout: post
 tags: [pagan_black_metal, Ukraine, Ukrainian, 00s]
 title: "Ruina: #pagan_black_metal #Ukraine #Ukrainian 🇺🇦 #00s"
 ---
-![Ruina: #pagan_black_metal #Ukraine #Ukrainian 🇺🇦 #00s](/assets/photos/photo_868@30-01-2020_17-18-00.jpg)
+![Ruina: #pagan_black_metal #Ukraine #Ukrainian 🇺🇦 #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_868_30-01-2020_17-18-00.jpg)
 Ruina: [#pagan_black_metal](/tags/#pagan_black_metal) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) 🇺🇦 [#00s](/tags/#00s)
 
 __«Наш Рід зруйновано. Дерево Роду є вирване з корінням і віддане на поталу червам, що точать його зсередини. Руїна в душах і серцях людей, руїна навколо них. Ні честі, ні надії, ні совісті. Тільки чорні щурі ненависті живуть на уламках Старовинної Країни»__

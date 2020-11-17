@@ -4,7 +4,7 @@ layout: post
 tags: [pagan_black_metal, symphonic_black_metal, Ukraine, 90s, pagan_metal]
 title: "Astrofaes: #pagan_black_metal #symphonic_black_metal"
 ---
-![Astrofaes: #pagan_black_metal #symphonic_black_metal](/assets/photos/photo_770@16-10-2019_09-26-58.jpg)
+![Astrofaes: #pagan_black_metal #symphonic_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_770_16-10-2019_09-26-58.jpg)
 Astrofaes: [#pagan_black_metal](/tags/#pagan_black_metal) [#symphonic_black_metal](/tags/#symphonic_black_metal) [#Ukraine](/tags/#Ukraine) [#90s](/tags/#90s)
 
 У 90-х блек-метал зухвало крокував світом: сувора музика, заснована на атмосфері морозної півночі, дохристиянських віруваннях германських народів та хеві-метал структурі. В Україні його переосмислили, замість германських традицій додавши особливий слов&#39;янський колорит. Так з&#39;явилось те, що тепер звемо [#pagan_metal](/tags/#pagan_metal), і харківський гурт Astrofaes явно був на передньому краю того руху.

@@ -11,4 +11,4 @@ Massenhinrichtung: [#pagan_black_metal](/tags/#pagan_black_metal) [#pagan_metal]
 
 Співають **Массенгінріхтунґ** про білоруську національну історію, природу і патріотизм, а іще часом каверять НСБМ гурти, так що слухайте на свій страх і ризик.
 
-[BANDCAMP](https://massen.bandcamp.com/album/adzinota-kruka) | [SPOTIFY](https://open.spotify.com/album/3aNoOsz680UT5NgFObemaI) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5575121)
+[BANDCAMP](https://massen.bandcamp.com/album/adzinota-kruka) \| [SPOTIFY](https://open.spotify.com/album/3aNoOsz680UT5NgFObemaI) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5575121)

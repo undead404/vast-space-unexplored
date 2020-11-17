@@ -4,7 +4,7 @@ layout: post
 tags: [groove_metal, thrash_metal, Ukraine, 10s]
 title: "Fleshgore: #groove_metal #thrash_metal #Ukraine #10s"
 ---
-![Fleshgore: #groove_metal #thrash_metal #Ukraine #10s](/assets/photos/photo_1041@21-08-2020_02-42-09.jpg)
+![Fleshgore: #groove_metal #thrash_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1041_21-08-2020_02-42-09.jpg)
 Fleshgore: [#groove_metal](/tags/#groove_metal) [#thrash_metal](/tags/#thrash_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Уже на третьому альбомі &quot;May God Strike Me Dead&quot; 2008 року київського гурту **Fleshgore** було чути експерименти, для когось дивні, для когось цікаві: електронні звучки, ухил до більш м&#39;якого, модернового звучання. А колись **Fleshgore** грали брутал-дез-метал!
@@ -13,4 +13,4 @@ Fleshgore: [#groove_metal](/tags/#groove_metal) [#thrash_metal](/tags/#thrash_me
 
 Пісня &quot;Доктор Шипмен&quot; - про британського серійного вбивцю Гарольда Шипмена, котрий був лікарем у передмісті Манчестера, убивав літніх жінок передозуванням знеболювального і підробляв їх заповіти. Лікар Смерть мав таку добру репутацію, що убив навіть кількох родичок власної секретарки; перед співкамерником хвалився 508 убивствами; підозрілих смертей було зареєстровано понад 200. На шостому році ув&#39;язнення повісився.
 
-[BANDCAMP ($7.99)](https://fleshgore.bandcamp.com/album/defiance-to-evil) | [APPLE MUSIC](https://music.apple.com/us/album/defiance-to-evil/1498966244) | [SPOTIFY](https://open.spotify.com/album/3X0K4Y0lWxny4NZOahe5Yz) | [DEEZER](https://deezer.page.link/veqSMJUr1oNGfgcV7) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5181318)
+[BANDCAMP ($7.99)](https://fleshgore.bandcamp.com/album/defiance-to-evil) \| [APPLE MUSIC](https://music.apple.com/us/album/defiance-to-evil/1498966244) \| [SPOTIFY](https://open.spotify.com/album/3X0K4Y0lWxny4NZOahe5Yz) \| [DEEZER](https://deezer.page.link/veqSMJUr1oNGfgcV7) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5181318)

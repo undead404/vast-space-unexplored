@@ -15,4 +15,4 @@ Morphine Suffering: [#metalcore](/tags/#metalcore) [#post_hardcore](/tags/#post_
 
 2020 року **Morphine Suffering** вирішили попрощатись з аудиторією, Розпочали всеукраїнський тур, але після кількох концертів розпочався карантин і скасували майже всі дати, а Львів та Київ перенесені на осінь. Отак помирає історія.
 
-[YOUTUBE](https://www.youtube.com/playlist?list=PLTAJsjqVdQg_89K-t7CEg5lXmK6EcDQUE) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3840430)
+[YOUTUBE](https://www.youtube.com/playlist?list=PLTAJsjqVdQg_89K-t7CEg5lXmK6EcDQUE) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3840430)

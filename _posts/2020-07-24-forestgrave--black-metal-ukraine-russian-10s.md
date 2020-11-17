@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Ukraine, Russian, 10s]
 title: "ForestGrave: #black_metal #Ukraine #Russian #10s"
 ---
-![ForestGrave: #black_metal #Ukraine #Russian #10s](/assets/photos/photo_1027@24-07-2020_11-01-40.jpg)
+![ForestGrave: #black_metal #Ukraine #Russian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1027_24-07-2020_11-01-40.jpg)
 ForestGrave: [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
 **ЛісоМогила** - під такою вивіскою грав своє мізантропічне музло донбащанин із кумедним псевдонімом Варагян, уродженець Макіївки. Його музло - типовий russian black metal, злий, але дуже розбірливий на слух.

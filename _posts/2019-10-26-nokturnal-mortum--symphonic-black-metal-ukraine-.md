@@ -13,4 +13,4 @@ Nokturnal Mortum: [#symphonic_black_metal](/tags/#symphonic_black_metal) [#Ukrai
 
 Пісня &quot;Звірячий поклик&quot; - про шаманський обряд єднання ліричного героя з його тваринним єством.
 
-[BANDCAMP](https://nokturnalmortum1.bandcamp.com/album/to-the-gates-of-blasphemous-fire) | [SPOTIFY](https://open.spotify.com/album/37r4n1zryF9o1cm7iHjweu) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5505953)
+[BANDCAMP](https://nokturnalmortum1.bandcamp.com/album/to-the-gates-of-blasphemous-fire) \| [SPOTIFY](https://open.spotify.com/album/37r4n1zryF9o1cm7iHjweu) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5505953)

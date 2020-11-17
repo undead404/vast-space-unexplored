@@ -15,4 +15,4 @@ Amenra: [#post_metal](/tags/#post_metal) [#sludgecore](/tags/#sludgecore) [#Belg
 
 Пісня &quot;Молитва десята: Ритуал&quot; - про ритуал самокатування, котрий веде до виходу з тілесної оболонки.
 
-[BANDCAMP](https://amenra.bandcamp.com/album/mass-ii) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3839799)
+[BANDCAMP](https://amenra.bandcamp.com/album/mass-ii) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3839799)

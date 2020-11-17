@@ -4,7 +4,7 @@ layout: post
 tags: [depressive_black_metal, Ukraine, 10s]
 title: "Hexenmeister: #depressive_black_metal #Ukraine #10s"
 ---
-![Hexenmeister: #depressive_black_metal #Ukraine #10s](/assets/photos/photo_950@28-04-2020_17-33-19.jpg)
+![Hexenmeister: #depressive_black_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_950_28-04-2020_17-33-19.jpg)
 Hexenmeister: [#depressive_black_metal](/tags/#depressive_black_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 **Чаклун** - чергове обличчя Володимира &quot;Брана&quot; Соколова із Донецька, котрий із початку нульових грає та пише чорну музику. &quot;...і життя в безсонні&quot; - не перший його реліз, зате перший повноформат.
@@ -15,4 +15,4 @@ Hexenmeister: [#depressive_black_metal](/tags/#depressive_black_metal) [#Ukraine
 
 Текстові здібності Володимира також перевершують банальні депроблекові стогони, чого тільки варте __я танцюю танго з оголеними нервами__.
 
-[BANDCAMP](https://hexenmeister.bandcamp.com/album/and-life-in-insomnia) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3074839)
+[BANDCAMP](https://hexenmeister.bandcamp.com/album/and-life-in-insomnia) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3074839)

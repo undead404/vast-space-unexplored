@@ -4,7 +4,7 @@ layout: post
 tags: [dark_hardcore, Germany, 10s]
 title: "Henry Fonda: #dark_hardcore #Germany #10s"
 ---
-![Henry Fonda: #dark_hardcore #Germany #10s](/assets/photos/photo_1055@23-09-2020_21-29-22.jpg)
+![Henry Fonda: #dark_hardcore #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1055_23-09-2020_21-29-22.jpg)
 Henry Fonda: [#dark_hardcore](/tags/#dark_hardcore) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 Металхеди, не спішіть прогортувати. Я звернув увагу на **Генрі Фонду**, бо їхній вокаліст - Том Шмідт, відомий також як блек-метал митець **Ancst**; в **Henry Fonda** він виконує екстремальний панк-рок, що тяжіє до скрімо та павервайоленсу. На додачу - Том має стосунок до антифа-анархо-комуністів, і це має яскравий відбиток у його творчості. Так, додана пісня взята із міні-альбому &quot;Німеччино, ти винна!&quot; 2013 року.

@@ -13,4 +13,4 @@ Rammstein: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#German
 
 Відеокліп був знятий аж 2012 року, і щоб зберегти атмосферу нульових, додаю відео концерту 2001 року.
 
-[APPLE MUSIC](https://music.apple.com/ru/album/mutter/1440770702) | [SPOTIFY](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | [DEEZER](https://www.deezer.com/album/1703280?utm_source=deezer&amp;utm_content=album-1703280&amp;utm_term=1601611822_1573721760&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLBzBwYhHpqLJpxLwf-RXX4FZ8NEc-bn4k) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)
+[APPLE MUSIC](https://music.apple.com/ru/album/mutter/1440770702) \| [SPOTIFY](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) \| [DEEZER](https://www.deezer.com/album/1703280?utm_source=deezer&amp;utm_content=album-1703280&amp;utm_term=1601611822_1573721760&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLBzBwYhHpqLJpxLwf-RXX4FZ8NEc-bn4k) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)

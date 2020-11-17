@@ -4,7 +4,7 @@ layout: post
 tags: [gothic_doom_metal, gothic_metal, Ukrainian, Ukraine, 00s]
 title: "Полинове поле: #gothic_doom_metal #gothic_metal #Ukrainian"
 ---
-![Полинове поле: #gothic_doom_metal #gothic_metal #Ukrainian](/assets/photos/photo_875@06-02-2020_10-54-52.jpg)
+![Полинове поле: #gothic_doom_metal #gothic_metal #Ukrainian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_875_06-02-2020_10-54-52.jpg)
 Полинове поле: [#gothic_doom_metal](/tags/#gothic_doom_metal) [#gothic_metal](/tags/#gothic_metal) [#Ukrainian](/tags/#Ukrainian) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 Ну, що готика гарно звучить українською - всім давно показали **Кому вниз**. А от готичний метал - це у 2004 році було куди цікавіше й оригінальніше. Так з&#39;явилось **Полинове поле**, що уже в 2005 році записало демо і виборювало призові місця на конкурсах українських фестивалів. Гроул плюс жіночий голос на такому рівні до них в Україні, ще й українською мовою, ніхто не використовував. Ядром колективу став басист та поет Андрій &quot;Малий Джон&quot; Кіндратович, котрий перед тим мав колектив куди ніжнішого звучання - фольк-готичний **Ірій**, із жіночим вокалом. Захотілось потяжче і поцікавіше, вочевидь.У 2007 році співачкою гурту стала Маріанна Лаба - фахова вокалістка сопрано, солістка Львівської обласної філармонії та незліченних тематичних установ та ансамблів, а екстрим-вокалістом - Юрій Круп&#39;як (відомий за дез-метал гуртом **Ambivalence** та симфоблековими **Lamia Culta**). Звук на міні-альбомі &quot;Чисті душі&quot; робив Максим Кернер із середньовічно-фолькового ансамблю **Kings &amp; Beggars**. Отака от суміш персоналій та стилістик.
@@ -13,4 +13,4 @@ title: "Полинове поле: #gothic_doom_metal #gothic_metal #Ukrainian"
 
 Попереду в Полинового поля були ще більше десятка пісень матеріалу, шестилітнє мовчання і реюніон.
 
-[BANDCAMP](https://polynovepole.bandcamp.com/album/pure-souls) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=1922258)
+[BANDCAMP](https://polynovepole.bandcamp.com/album/pure-souls) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=1922258)

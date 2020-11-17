@@ -13,4 +13,4 @@ Hate Forest: [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#90s
 
 До пісні &quot;Сяюча безодня&quot; немає текстів у мережі (здогадуюсь, в буклетах альбомів їх також немає), однак загальна тематика робіт Hate Forest - морок, творення ніцшеанської надлюдини, українсько-слов&#39;янський патріотизм. (Так, існують натяки на те, що HF - неонацистський гурт, але прямих доказів тому я не маю.)
 
-[BANDCAMP](https://osmoseproductions.bandcamp.com/album/scythia) | [GOOGLE MUSIC](https://play.google.com/music/m/Bmxupwidhcxkiazai7sx4sq7saa?t=Scythia_-_Hate_Forest) | [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_mhSwmuZ-6bTw-kEp-Jwcy1Aj7r_yXTL-c) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3312488)
+[BANDCAMP](https://osmoseproductions.bandcamp.com/album/scythia) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bmxupwidhcxkiazai7sx4sq7saa?t=Scythia_-_Hate_Forest) \| [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_mhSwmuZ-6bTw-kEp-Jwcy1Aj7r_yXTL-c) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3312488)

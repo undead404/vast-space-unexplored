@@ -13,4 +13,4 @@ Annihilator: [#thrash_metal](/tags/#thrash_metal) [#technical_thrash_metal](/tag
 
 Пісня &quot;Убивства прайм-тайму&quot; - іще одна пісня про четверту владу - ЗМІ, котра живиться болем за допомогою телекамер.
 
-[SPOTIFY](https://open.spotify.com/album/03QYTsKtUQRyqtzjH0dq72) | [APPLE MUSIC](https://music.apple.com/kz/album/waking-the-fury/164973346) | [YOUTUBE](https://www.youtube.com/playlist?list=PLC7B45706F7A1E93E) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5550042)
+[SPOTIFY](https://open.spotify.com/album/03QYTsKtUQRyqtzjH0dq72) \| [APPLE MUSIC](https://music.apple.com/kz/album/waking-the-fury/164973346) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLC7B45706F7A1E93E) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5550042)

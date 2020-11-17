@@ -4,7 +4,7 @@ layout: post
 tags: [d_beat, crust_punk, Sweden, Swedish, 90s]
 title: "Skitsystem: #d_beat #crust_punk #Sweden #Swedish #90s"
 ---
-![Skitsystem: #d_beat #crust_punk #Sweden #Swedish #90s](/assets/photos/photo_759@09-10-2019_11-08-52.jpg)
+![Skitsystem: #d_beat #crust_punk #Sweden #Swedish #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_759_09-10-2019_11-08-52.jpg)
 Skitsystem: [#d_beat](/tags/#d_beat) [#crust_punk](/tags/#crust_punk) [#Sweden](/tags/#Sweden) [#Swedish](/tags/#Swedish) [#90s](/tags/#90s)
 
 Панки, радійте. Знову вам класики красту приніс.

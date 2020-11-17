@@ -4,10 +4,10 @@ layout: post
 tags: [neocrust, dark_hardcore, Ukraine, Russian, 10s]
 title: "Avrora6542: #neocrust #dark_hardcore #Ukraine #Russian"
 ---
-![Avrora6542: #neocrust #dark_hardcore #Ukraine #Russian](/assets/photos/photo_935@04-04-2020_21-16-21.jpg)
+![Avrora6542: #neocrust #dark_hardcore #Ukraine #Russian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_935_04-04-2020_21-16-21.jpg)
 Avrora6542: [#neocrust](/tags/#neocrust) [#dark_hardcore](/tags/#dark_hardcore) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
-А от для **Аврори6542** цей [спліт із The Symbioz](https://t.me/vast_space_unexplored/3591) - єдиний справжній реліз.
+А от для **Аврори6542** цей [спліт із The Symbioz](/2020-04-04-the-symbioz--hardcore-punk-grindcore-ukraine-10s) - єдиний справжній реліз.
 
 В 2005 році колишні учасники гурту **ЗалУПА** (Зал українських партизан-анархістів) вирішили закинути старе і взятись за нове.
 

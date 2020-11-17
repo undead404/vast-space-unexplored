@@ -13,4 +13,4 @@ Stoned Jesus: [#stoner_rock](/tags/#stoner_rock) [#Ukraine](/tags/#Ukraine) [#10
 
 &quot;П&#39;яний і збуджений&quot; - пісня про статеві зносини на тлі алкоголю 😊
 
-[BANDCAMP](https://stonedjesus.bandcamp.com/album/stormy-monday-ep) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5058450) (Додана пісня взята з міні-альбому 2011 року &quot;Бурхливий понеділок&quot;, і щось його мало поширюють)
+[BANDCAMP](https://stonedjesus.bandcamp.com/album/stormy-monday-ep) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5058450) (Додана пісня взята з міні-альбому 2011 року &quot;Бурхливий понеділок&quot;, і щось його мало поширюють)

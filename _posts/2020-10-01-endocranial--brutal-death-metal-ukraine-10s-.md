@@ -11,4 +11,4 @@ Endocranial: [#brutal_death_metal](/tags/#brutal_death_metal) [#Ukraine](/tags/#
 
 Музло **Індрокреніел** - неспішний брутальний дез-метал, все як треба, із ґуттурал-вокалом, бластбітами, запілами, але найбільше в їх творчості вставляють, напевне, текстові вставки, ну і тематика пісень. Іще на тому  ж альбомі є трек &quot;Соціалізм&quot;!
 
-[BANDCAMP ($4.99)](https://endocranialkiev.bandcamp.com/album/impact-of-change) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4577901)
+[BANDCAMP ($4.99)](https://endocranialkiev.bandcamp.com/album/impact-of-change) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4577901)

@@ -4,7 +4,7 @@ layout: post
 tags: [folk_metal, power_metal, Ukraine, Ukrainian, 00s]
 title: "Реанимация: #folk_metal #power_metal #Ukraine #Ukrainian"
 ---
-![Реанимация: #folk_metal #power_metal #Ukraine #Ukrainian](/assets/photos/photo_869@31-01-2020_08-19-14.jpg)
+![Реанимация: #folk_metal #power_metal #Ukraine #Ukrainian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_869_31-01-2020_08-19-14.jpg)
 Реанимация: [#folk_metal](/tags/#folk_metal) [#power_metal](/tags/#power_metal) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) 🇺🇦 [#00s](/tags/#00s)
 
 **Реанимация** - одеський гурт, котрий поєднує три компоненти: павер-метал, слов&#39;янський фольк, мелодику радянських гімнів. А оскільки їх співак Денис Хотячук - майстер академічного вокалу ([отут](https://www.youtube.com/watch?v=7h_77Ywqxko&amp;feature=related) його можна побачити в складі хору &quot;Квінта&quot;, отой хітмен в задньому ряду; а ще він кіноактор), то звучить все на високому рівні.

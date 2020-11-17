@@ -13,4 +13,4 @@ Plaag: [#black_n_roll](/tags/#black_n_roll) [#Belgium](/tags/#Belgium) [#Flander
 
 Нині проект відродився, на бендкемпі є нові пісні.
 
-[BANDCAMP](https://waragainstyourself.bandcamp.com/album/ugh) | [YOUTUBE](https://www.youtube.com/playlist?list=PL94gOvpr5yt04jq9DCrlYQhKs5NZQpsCp) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3389638)
+[BANDCAMP](https://waragainstyourself.bandcamp.com/album/ugh) \| [YOUTUBE](https://www.youtube.com/playlist?list=PL94gOvpr5yt04jq9DCrlYQhKs5NZQpsCp) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3389638)

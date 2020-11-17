@@ -11,4 +11,4 @@ Nice Wings, Icarus!: [#post_rock](/tags/#post_rock) [#instrumental](/tags/#instr
 
 Музично це звичний пост-рок із ділеями і шуґейзами, зате зі скрипкою. Перед концертами вони &quot;мучились кляту годину: жодний київський звукореж не знав, що робити зі скрипкою&quot;.
 
-[BANDCAMP](https://nicewingsicarus.bandcamp.com/album/nice-wings-icarus) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3031229)
+[BANDCAMP](https://nicewingsicarus.bandcamp.com/album/nice-wings-icarus) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3031229)

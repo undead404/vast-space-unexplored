@@ -4,7 +4,7 @@ layout: post
 tags: [old_school_death_metal, thrash_metal, Ukraine, Russian, 00s]
 title: "Лектор: #old_school_death_metal #thrash_metal #Ukraine"
 ---
-![Лектор: #old_school_death_metal #thrash_metal #Ukraine](/assets/photos/photo_904@26-02-2020_11-21-40.jpg)
+![Лектор: #old_school_death_metal #thrash_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_904_26-02-2020_11-21-40.jpg)
 Лектор: [#old_school_death_metal](/tags/#old_school_death_metal) [#thrash_metal](/tags/#thrash_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#00s](/tags/#00s)
 
 **Лектор** - гурт з України, однак такий совіцький, що совіцькіше тільки московський **Эшелон**. Співати про війну для треш-метал гурту - норма, однак **Лектор** співають згідно штампів радянської історіографії. Чого вартий тільки пропагандистський гімн &quot;Сталінград&quot;.

@@ -11,4 +11,4 @@ Bury Tomorrow: [#metalcore](/tags/#metalcore) [#post_hardcore](/tags/#post_hardc
 
 Пісня &quot;Цей ліс небезпечний для нас&quot; - якась хоррор-казка про небезпеку, через котру треба збирати речі й тікати світ поза очі.
 
-[BANDCAMP](https://basickrecords.bandcamp.com/album/portraits) | [SPOTIFY](https://open.spotify.com/album/3Yj0ZJVzzeM6GshPy45kSA) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2897844)
+[BANDCAMP](https://basickrecords.bandcamp.com/album/portraits) \| [SPOTIFY](https://open.spotify.com/album/3Yj0ZJVzzeM6GshPy45kSA) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2897844)

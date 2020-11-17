@@ -15,4 +15,4 @@ Deathspell Omega: [#black_metal](/tags/#black_metal) [#raw_black_metal](/tags/#r
 
 Барабанить тут бездушний автомат, але вас же це не засмучує, правда?
 
-[BANDCAMP](https://deathspellomega.bandcamp.com/album/infernal-battles) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2974278)
+[BANDCAMP](https://deathspellomega.bandcamp.com/album/infernal-battles) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=2974278)

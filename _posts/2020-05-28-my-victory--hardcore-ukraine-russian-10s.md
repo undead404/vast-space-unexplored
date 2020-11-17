@@ -4,10 +4,10 @@ layout: post
 tags: [hardcore, Ukraine, Russian, 10s]
 title: "My Victory: #hardcore #Ukraine #Russian #10s"
 ---
-![My Victory: #hardcore #Ukraine #Russian #10s](/assets/photos/photo_979@28-05-2020_13-01-46.jpg)
+![My Victory: #hardcore #Ukraine #Russian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_979_28-05-2020_13-01-46.jpg)
 My Victory: [#hardcore](/tags/#hardcore) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
-**Моя перемога** - хардкор гурт, що з&#39;явився у Києві навесні 2009-го року. Як орієнтир хлопці та дівчата називають, серед інших, [First Blood](https://t.me/vast_space_unexplored/3585), але на слух більше схоже на російський хардкор тих років.
+**Моя перемога** - хардкор гурт, що з&#39;явився у Києві навесні 2009-го року. Як орієнтир хлопці та дівчата називають, серед інших, [First Blood](/2020-04-03-first-blood--hardcore-usa-california-10s-), але на слух більше схоже на російський хардкор тих років.
 
 Візуально **My Victory** сильно виділяються тим, що на гітарі й на басу в них грали дівчата Ліля та Влада. Таке собі феміністичне &quot;а що? так можна було!&quot;
 

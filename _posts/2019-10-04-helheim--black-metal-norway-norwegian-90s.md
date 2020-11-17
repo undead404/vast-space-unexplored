@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Norway, Norwegian, 90s]
 title: "Helheim: #black_metal #Norway #Norwegian #90s"
 ---
-![Helheim: #black_metal #Norway #Norwegian #90s](/assets/photos/photo_752@04-10-2019_17-55-59.jpg)
+![Helheim: #black_metal #Norway #Norwegian #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_752_04-10-2019_17-55-59.jpg)
 Helheim: [#black_metal](/tags/#black_metal) [#Norway](/tags/#Norway) [#Norwegian](/tags/#Norwegian) [#90s](/tags/#90s)
 
 Хельхейм здаються типовим гуртом норвезької другої хвилі, але є певні важливі особливості, котрі, можливо, змусять таки їх послухати.
@@ -17,4 +17,4 @@ Helheim: [#black_metal](/tags/#black_metal) [#Norway](/tags/#Norway) [#Norwegian
 
 По-четверте, пісні Хельхейму - це не короткі вигуки, а повноцінні вірші - відповідь рівневі тодішньої Bathory.
 
-Таким чином, тріо Helheim уже тоді складало конкуренцію Enslaved.[BANDCAMP](https://helheim.bandcamp.com/album/jormundgand) | [SPOTIFY](https://open.spotify.com/album/7FORhgqt3hTfirVJDcWDv5) | [ITUNES](https://music.apple.com/us/album/jormundgand/1070443594) | [GOOGLE MUSIC](https://play.google.com/music/m/Bmp3df3eglbcf2nyyfn5sl6jwee?t=Jormundgand_-_Helheim) | [DEEZER](https://www.deezer.com/album/78032712?utm_source=deezer&amp;utm_content=album-78032712&amp;utm_term=1601611822_1570200895&amp;utm_medium=web) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3117910)
+Таким чином, тріо Helheim уже тоді складало конкуренцію Enslaved.[BANDCAMP](https://helheim.bandcamp.com/album/jormundgand) \| [SPOTIFY](https://open.spotify.com/album/7FORhgqt3hTfirVJDcWDv5) \| [ITUNES](https://music.apple.com/us/album/jormundgand/1070443594) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bmp3df3eglbcf2nyyfn5sl6jwee?t=Jormundgand_-_Helheim) \| [DEEZER](https://www.deezer.com/album/78032712?utm_source=deezer&amp;utm_content=album-78032712&amp;utm_term=1601611822_1570200895&amp;utm_medium=web) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3117910)

@@ -13,4 +13,4 @@ Insect Warfare: [#grindcore](/tags/#grindcore) [#deathgrind](/tags/#deathgrind) 
 
 Пісня &quot;Місто ворогів&quot; має типову антисоціальну тематику: ненависть до капіталістичних взаємин. Взята із спліта з японцями **Carcass Grinder** 2007 року. Оформлення сторони **IW** феєрично ілюструє назву гурту.
 
-[BANDCAMP](https://psychocontrolrecords.bandcamp.com/album/psycho-001-insect-warfare-carcass-grinder-split-7) | [YOUTUBE](https://www.youtube.com/playlist?list=PL66F7BBB5F81CEE5B) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4881669)
+[BANDCAMP](https://psychocontrolrecords.bandcamp.com/album/psycho-001-insect-warfare-carcass-grinder-split-7) \| [YOUTUBE](https://www.youtube.com/playlist?list=PL66F7BBB5F81CEE5B) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4881669)

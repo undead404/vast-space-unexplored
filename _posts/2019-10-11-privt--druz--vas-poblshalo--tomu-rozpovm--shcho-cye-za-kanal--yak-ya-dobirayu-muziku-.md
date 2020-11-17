@@ -4,7 +4,7 @@ layout: post
 tags: []
 title: "Привіт, друзі, вас побільшало, тому розповім, що це за канал і як я добираю музику."
 ---
-![Привіт, друзі, вас побільшало, тому розповім, що це за канал і як я добираю музику.](https://i.ytimg.com/vi/tyrc7Fl2myA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLCvqIlH_pn-8xB99C6lgiUdJrmsLA&amp;days_since_epoch=18582)
+![Привіт, друзі, вас побільшало, тому розповім, що це за канал і як я добираю музику.](https://i.ytimg.com/vi/tyrc7Fl2myA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLCvqIlH_pn-8xB99C6lgiUdJrmsLA&amp;days_since_epoch=18583)
 Привіт, друзі, вас побільшало, тому розповім, що це за канал і як я добираю музику.
 
 Так вже склалось, що музики я слухаю дуже багато, постійно нову і практично не ганяю нічого по колу, тому час від часу віднаходжу діаманти, і щоб ділитись ними - створив цей канал. Крім каналу, я іще додаю усі відео, котрі тут поширюю, до [плейлиста на YOUTUBE](https://www.youtube.com/playlist?list=PL9npiDX-0py0F0UPugLucH_rQugLHKxAp) (там понад 1000 відео уже) - стараюсь віднаходити офіційні відеокліпи або хоча б більш-менш якісні відео з концертів.

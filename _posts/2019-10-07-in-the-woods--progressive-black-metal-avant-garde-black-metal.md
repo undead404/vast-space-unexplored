@@ -4,7 +4,7 @@ layout: post
 tags: [progressive_black_metal, avant_garde_black_metal, Norway, 90s]
 title: "In the Woods: #progressive_black_metal #avant_garde_black_metal"
 ---
-![In the Woods: #progressive_black_metal #avant_garde_black_metal](/assets/photos/photo_756@07-10-2019_17-38-33.jpg)
+![In the Woods: #progressive_black_metal #avant_garde_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_756_07-10-2019_17-38-33.jpg)
 In the Woods: [#progressive_black_metal](/tags/#progressive_black_metal) [#avant_garde_black_metal](/tags/#avant_garde_black_metal) [#Norway](/tags/#Norway) [#90s](/tags/#90s)
 
 Ніякого блекґейзу, У лісах... - гурт, котрий комбінував блек-метал із неофольком та ембієнтом, використовував чистий вокал, до того ж поруч із Helheim чи не перші, хто використав шрайк-вокал (фальцет-скримінг).
@@ -15,4 +15,4 @@ In the Woods: [#progressive_black_metal](/tags/#progressive_black_metal) [#avant
 
 Наполягаю: навіть якщо не любите блек-метал - дайте In the Woods... шанс, ця медитативна північна музика причаровує.
 
-[SPOTIFY](https://open.spotify.com/album/0VJxhRCUT7xu8mBmTJUAqG) | [GOOGLE MUSIC](https://play.google.com/music/m/Boetollnoo2yklenyini5a3dc34?t=Heart_of_the_Ages_-_In_the_Woods) | [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_n1MdwVPyry9x-ReTPfGT8NUlVBWLn6rHs) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3310301)
+[SPOTIFY](https://open.spotify.com/album/0VJxhRCUT7xu8mBmTJUAqG) \| [GOOGLE MUSIC](https://play.google.com/music/m/Boetollnoo2yklenyini5a3dc34?t=Heart_of_the_Ages_-_In_the_Woods) \| [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_n1MdwVPyry9x-ReTPfGT8NUlVBWLn6rHs) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3310301)

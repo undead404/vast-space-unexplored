@@ -11,4 +11,4 @@ Hate Forest: [#black_metal](/tags/#black_metal) [#atmospheric_black_metal](/tags
 
 Оригінальне видання включає на обкладинці українські ялини, а на перевиданнях - якась норвегія. Нащо то було робити...
 
-[BANDCAMP](https://osmoseproductions.bandcamp.com/album/purity) | [SPOTIFY](https://open.spotify.com/album/3qft5lvHaxPwX6UwmXgbiC) | [GOOGLE MUSIC](https://play.google.com/music/m/Bppus5kjfof6y5lk5qrtzvhubsm?t=Purity_-_Hate_Forest) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3312488)
+[BANDCAMP](https://osmoseproductions.bandcamp.com/album/purity) \| [SPOTIFY](https://open.spotify.com/album/3qft5lvHaxPwX6UwmXgbiC) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bppus5kjfof6y5lk5qrtzvhubsm?t=Purity_-_Hate_Forest) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3312488)

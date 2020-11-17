@@ -17,4 +17,4 @@ Megaherz: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#Germany
 
 ПІсня &quot;Божественна&quot; - звеличує Жінку, її Жіночність та красу.
 
-[SPOTIFY](https://open.spotify.com/album/212I6MR7iCPtzDWw4i0Y3N) | [DEEZER](https://www.deezer.com/album/6071616?utm_source=deezer&amp;utm_content=album-6071616&amp;utm_term=1601611822_1575453440&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/B3a5yo3b7kdtkxq6kzcrt7tce6i?t=5_-_Megaherz) | [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_lfs_v0sCSCrmS9pWQUkF2Hfen3TLxFdgs) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5401770)
+[SPOTIFY](https://open.spotify.com/album/212I6MR7iCPtzDWw4i0Y3N) \| [DEEZER](https://www.deezer.com/album/6071616?utm_source=deezer&amp;utm_content=album-6071616&amp;utm_term=1601611822_1575453440&amp;utm_medium=web) \| [GOOGLE MUSIC](https://play.google.com/music/m/B3a5yo3b7kdtkxq6kzcrt7tce6i?t=5_-_Megaherz) \| [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_lfs_v0sCSCrmS9pWQUkF2Hfen3TLxFdgs) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5401770)

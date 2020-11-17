@@ -15,4 +15,4 @@ __Поки музика гучна,
 ми не почуємо звук
 того, як світ розвалюється__
 
-[BANDCAMP](https://noomega.bandcamp.com/album/metropolis) | [APPLE MUSIC](https://music.apple.com/ru/album/metropolis/529148437) | [SPOTIFY](https://open.spotify.com/album/3jVSNcQmeQcyUJkkPwbXo2) | [YOUTUBE MUSIC](https://music.youtube.com/playlist?list=OLAK5uy_mFfwI_QiKNGLxxlsttr2j0MNe36hzYZ9M) | [YOUTUBE](https://www.youtube.com/playlist?list=PLz21cQrHQzAIIGWJK8B1bQHta7q-UYJKv) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5301026)
+[BANDCAMP](https://noomega.bandcamp.com/album/metropolis) \| [APPLE MUSIC](https://music.apple.com/ru/album/metropolis/529148437) \| [SPOTIFY](https://open.spotify.com/album/3jVSNcQmeQcyUJkkPwbXo2) \| [YOUTUBE MUSIC](https://music.youtube.com/playlist?list=OLAK5uy_mFfwI_QiKNGLxxlsttr2j0MNe36hzYZ9M) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLz21cQrHQzAIIGWJK8B1bQHta7q-UYJKv) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5301026)

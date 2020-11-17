@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, Singapore, 10s]
 title: "Wormrot: #grindcore #Singapore #10s"
 ---
-![Wormrot: #grindcore #Singapore #10s](/assets/photos/photo_964@10-05-2020_13-21-14.jpg)
+![Wormrot: #grindcore #Singapore #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_964_10-05-2020_13-21-14.jpg)
 Wormrot: [#grindcore](/tags/#grindcore) [#Singapore](/tags/#Singapore) [#10s](/tags/#10s)
 
 **Червогниль** всім знайомі перш за все, мабуть, фотку з козлом посеред концерту. Але музика їх - такий зашибісь, що раджу зацінити навіть якщо грайндкор - далеко не перша для тебе музика.

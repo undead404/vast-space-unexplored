@@ -11,4 +11,4 @@ Scariot: [#progressive_metal](/tags/#progressive_metal) [#Norway](/tags/#Norway)
 
 Пісня &quot;Монополізуй&quot; - про корпорації, котрі прагнуть захопити контроль над всім і вся.
 
-[SPOTIFY](https://open.spotify.com/album/3yl4GMeBj5G5bOuJW5qZWq) | [APPLE MUSIC](https://music.apple.com/us/album/strange-to-numbers/1093223728) | [DEEZER](https://www.deezer.com/album/12632008?utm_source=deezer&amp;utm_content=album-12632008&amp;utm_term=1601611822_1575383010&amp;utm_medium=web) | [GOOGLE MUSIC](https://play.google.com/music/m/Bwanrnbdyx4lkxa5hpz2xx6rriu?t=Strange_to_Numbers_-_Scariot) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3436767)
+[SPOTIFY](https://open.spotify.com/album/3yl4GMeBj5G5bOuJW5qZWq) \| [APPLE MUSIC](https://music.apple.com/us/album/strange-to-numbers/1093223728) \| [DEEZER](https://www.deezer.com/album/12632008?utm_source=deezer&amp;utm_content=album-12632008&amp;utm_term=1601611822_1575383010&amp;utm_medium=web) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bwanrnbdyx4lkxa5hpz2xx6rriu?t=Strange_to_Numbers_-_Scariot) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=3436767)

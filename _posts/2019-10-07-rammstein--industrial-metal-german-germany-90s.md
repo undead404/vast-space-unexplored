@@ -13,4 +13,4 @@ Rammstein: [#industrial_metal](/tags/#industrial_metal) [#German](/tags/#German)
 
 Додаю концертне відео 1996 року - відчуйте часи VHS.
 
-[ITUNES](https://music.apple.com/us/album/herzeleid/1440657388) | [SPOTIFY](https://open.spotify.com/album/7yod8eggBUBSGddE1emnq3) | [DEEZER](https://www.deezer.com/album/672888?utm_source=deezer&amp;utm_content=album-672888&amp;utm_term=1601611822_1570465157&amp;utm_medium=web) | [YOUTUBE](https://www.youtube.com/playlist?list=PLBzBwYhHpqLIeYLDrSyEp67yetXZNFFV4) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)
+[ITUNES](https://music.apple.com/us/album/herzeleid/1440657388) \| [SPOTIFY](https://open.spotify.com/album/7yod8eggBUBSGddE1emnq3) \| [DEEZER](https://www.deezer.com/album/672888?utm_source=deezer&amp;utm_content=album-672888&amp;utm_term=1601611822_1570465157&amp;utm_medium=web) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLBzBwYhHpqLIeYLDrSyEp67yetXZNFFV4) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=5732323)

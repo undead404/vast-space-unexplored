@@ -15,4 +15,4 @@ Skinhate: [#nu_metal](/tags/#nu_metal) [#hardcore](/tags/#hardcore) [#Ukraine](/
 
 Пісня &quot;Грань&quot; оспівує палючу ненависть, що веде до насильства та кровопролиття.
 
-[YOUTUBE](https://www.youtube.com/watch?v=MhM0AnO-jCY) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=432757)
+[YOUTUBE](https://www.youtube.com/watch?v=MhM0AnO-jCY) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=432757)

@@ -9,4 +9,4 @@ title: "2009 року Wormrot випустили дебютний альбом, 
 
 2010 ж року вийшов спліт із грайнд-колегами з Каліфорнії **I Abhor**, причому вийшов на сінґапурському значкові. Слухаючи **Червогниль**, постійно вражаюсь, як грайнд може бути таким різноманітним. Аріф переключається між ґуттуралом і скрімом, Расид валить новий риф кожні десять секунд, Фітрі ж скаче між бластбітом і хардкор-качем. І відсутність бас-гітари нічого не забрала, а радше дала кришталеву чистоту звучання, таку рідкісну в грайнді.
 
-[BANDCAMP](https://lefthandpatches.bandcamp.com/album/wormrot-i-abhor-split-7) | [YOUTUBE](https://www.youtube.com/playlist?list=PLF0FDCB2937629834) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4592275)
+[BANDCAMP](https://lefthandpatches.bandcamp.com/album/wormrot-i-abhor-split-7) \| [YOUTUBE](https://www.youtube.com/playlist?list=PLF0FDCB2937629834) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4592275)

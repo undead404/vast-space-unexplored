@@ -4,7 +4,7 @@ layout: post
 tags: [alternative_metal, Ukraine, Russian, 10s]
 title: "-deTach-: #alternative_metal #Ukraine #Russian #10s"
 ---
-![-deTach-: #alternative_metal #Ukraine #Russian #10s](/assets/photos/photo_939@08-04-2020_11-06-01.jpg)
+![-deTach-: #alternative_metal #Ukraine #Russian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_939_08-04-2020_11-06-01.jpg)
 -deTach-: [#alternative_metal](/tags/#alternative_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
 **-відЄднуй-** у 2010 році були куди простішими: вони ще не почали похід по телевізійних каналах, а на барабанах у них ще не грав брат Даші Астаф&#39;євої.

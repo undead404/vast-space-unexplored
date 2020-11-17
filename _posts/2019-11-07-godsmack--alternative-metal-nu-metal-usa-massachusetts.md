@@ -13,4 +13,4 @@ Godsmack: [#alternative_metal](/tags/#alternative_metal) [#nu_metal](/tags/#nu_m
 
 На доданому відеокліпі колектив грає в сітчастому кубі на дворі тюрми, і в&#39;язні починають бунт, вириваючись із камер, щоб приєднатись. В кінці відео гурт зникає, ніби їх там і не було.
 
-[APPLE MUSIC](https://music.apple.com/us/album/awake/1440889657) | [SPOTIFY](https://open.spotify.com/album/4cdSCBQs9oYKKDN1gLpH8n) | [DEEZER](https://www.deezer.com/en/album/15744144) | [GOOGLE MUSIC](https://play.google.com/music/m/Bnttoxwy4o533vbgbdvrqyppchm?t=Awake_-_Godsmack) | [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_mTWQ1cmO_3ZH7u3-g3kj14-BZ5qUTviSI) | [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4799104)
+[APPLE MUSIC](https://music.apple.com/us/album/awake/1440889657) \| [SPOTIFY](https://open.spotify.com/album/4cdSCBQs9oYKKDN1gLpH8n) \| [DEEZER](https://www.deezer.com/en/album/15744144) \| [GOOGLE MUSIC](https://play.google.com/music/m/Bnttoxwy4o533vbgbdvrqyppchm?t=Awake_-_Godsmack) \| [YOUTUBE](https://www.youtube.com/playlist?list=OLAK5uy_mTWQ1cmO_3ZH7u3-g3kj14-BZ5qUTviSI) \| [RUTRACKER](https://rutracker.org/forum/viewtopic.php?t=4799104)
