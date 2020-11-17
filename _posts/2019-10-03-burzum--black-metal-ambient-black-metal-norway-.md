@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, ambient_black_metal, Norway, Norwegian, 90s]
 title: "Burzum: #black_metal #ambient_black_metal #Norway "
 ---
-![Burzum: #black_metal #ambient_black_metal #Norway ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_749_03-10-2019_15-55-35.jpg)
+![Burzum: #black_metal #ambient_black_metal #Norway ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_749_03-10-2019_15-55-35.jpg)
 Burzum: [#black_metal](/tags/#black_metal) [#ambient_black_metal](/tags/#ambient_black_metal) [#Norway](/tags/#Norway) [#Norwegian](/tags/#Norwegian) [#90s](/tags/#90s)
 
 Що можна додати про Бурзум? Спершу ти читаєш Толкіна, потім мама каже, що жиди погані, потім ти палиш церкви, потім сидиш в буцегарні за мокруху, потім міняєш ім&#39;я на Луї, потім любиш Путіна. Яке прикре самогубство.

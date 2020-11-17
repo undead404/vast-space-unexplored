@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Greece, 10s]
 title: "Dødsferd: #black_metal #Greece #10s"
 ---
-![Dødsferd: #black_metal #Greece #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_990_10-06-2020_11-03-37.jpg)
+![Dødsferd: #black_metal #Greece #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_990_10-06-2020_11-03-37.jpg)
 Dødsferd: [#black_metal](/tags/#black_metal) [#Greece](/tags/#Greece) [#10s](/tags/#10s)
 
 **Подорож смерті** - найкрутіший із відомих мені грецьких колективів чорного ремесла. Назва взята в пісні **Dimmu Borgir** 1996 року, там йдеться про подорож душі померлого в підземне царство.

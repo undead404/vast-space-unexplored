@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Sweden, 90s]
 title: "War: #black_metal #Sweden #90s"
 ---
-![War: #black_metal #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_765_13-10-2019_22-15-52.jpg)
+![War: #black_metal #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_765_13-10-2019_22-15-52.jpg)
 War: [#black_metal](/tags/#black_metal) [#Sweden](/tags/#Sweden) [#90s](/tags/#90s)
 
 Гурт &quot;Війна&quot; з&#39;явився, коли Чорномісяць (Dark Funeral, Necrophobic) завітав на запис чергового альбому Abruptum на The Abyss Studios Петера Таґтґрена (Hypocrisy, The Abyss). У Чорномісяця, Воно (гітарист Abruptum, Ophthalamia, Vondur) і Петера сталася розмова щодо блек-метал сцени, смерті Юронімуса (Mayhem) та організації Воно &quot;Істинна сатанинська орда&quot;. . За словами Воно, &quot;Ми знали кількох людей у тюрмі &quot;Піхви&quot;, котрі убили б Варґа Вікернеса за деяку кількість грошей, ми тоді виношували ідею записати альбом і направити зароблені гроші на рахунок Орди. Так з&#39;явилась ВІЙНА.&quot;

@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore, USA, New_York, 10s, NYHC]
 title: "Incendiary: #hardcore #USA #New_York #10s"
 ---
-![Incendiary: #hardcore #USA #New_York #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1007_28-06-2020_10-57-31.jpg)
+![Incendiary: #hardcore #USA #New_York #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1007_28-06-2020_10-57-31.jpg)
 Incendiary: [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#New_York](/tags/#New_York) [#10s](/tags/#10s)
 
 **Палій** - хардкор-гурт із Лонґ-Айленда. **Incendiary** добре знають, що таке бути другорядними, адже виросли на околицях міста Нью-Йорку, і їх локальна сцена завжди була тінню сцени [#NYHC](/tags/#NYHC). (Хоча для українців шок, що десь у передмісті взагалі можлива своя сцена.)

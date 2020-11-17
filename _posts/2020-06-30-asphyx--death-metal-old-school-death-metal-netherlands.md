@@ -4,7 +4,7 @@ layout: post
 tags: [death_metal, old_school_death_metal, Netherlands, 10s]
 title: "Asphyx: #death_metal #old_school_death_metal #Netherlands"
 ---
-![Asphyx: #death_metal #old_school_death_metal #Netherlands](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1009_30-06-2020_10-19-23.jpg)
+![Asphyx: #death_metal #old_school_death_metal #Netherlands](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1009_30-06-2020_10-19-23.jpg)
 Asphyx: [#death_metal](/tags/#death_metal) [#old_school_death_metal](/tags/#old_school_death_metal) [#Netherlands](/tags/#Netherlands) [#10s](/tags/#10s)
 
 На шляху розвитку дез-металу логічним напрямком стало нарощування кількості нот на секунду. Нідерландські класики **Душитель** пішли іншим шляхом - вони додали в звичну смертометальну музику тягучість дум-металу, що дало змогу зберегти неспішність та пронизливість при осучасненні звучання.

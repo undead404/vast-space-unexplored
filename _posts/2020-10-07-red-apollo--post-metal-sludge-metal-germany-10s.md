@@ -4,7 +4,7 @@ layout: post
 tags: [post_metal, sludge_metal, Germany, 10s]
 title: "Red Apollo: #post_metal #sludge_metal #Germany #10s"
 ---
-![Red Apollo: #post_metal #sludge_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1065_07-10-2020_01-26-08.jpg)
+![Red Apollo: #post_metal #sludge_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1065_07-10-2020_01-26-08.jpg)
 Red Apollo: [#post_metal](/tags/#post_metal) [#sludge_metal](/tags/#sludge_metal) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 Пісня &quot;Трансгресія 3: Душевне просвітлення&quot; випускників значка &quot;Alerta Antifascista&quot; гурту [Червоний Аполлон](/2020-08-17-red-apollo--post-metal-germany-10s-) - про пожирання матінкою Землею відмерлої плоті.

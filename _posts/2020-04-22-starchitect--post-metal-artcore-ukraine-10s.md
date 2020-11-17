@@ -4,7 +4,7 @@ layout: post
 tags: [post_metal, artcore, Ukraine, 10s]
 title: "Starchitect: #post_metal #artcore #Ukraine #10s"
 ---
-![Starchitect: #post_metal #artcore #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_945_22-04-2020_11-11-39.jpg)
+![Starchitect: #post_metal #artcore #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_945_22-04-2020_11-11-39.jpg)
 Starchitect: [#post_metal](/tags/#post_metal) [#artcore](/tags/#artcore) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Зіркохітектор - цілком поширене поняття в англомовному світі; старкітектами називають рок-зірок від архітектури, чий статус дає їм статус ідолів. Таку назву взяв пост-метал / пост-хардкор гурт із Херсона. Гітарист Дмитро Залозний був гітаристом паган-блек-метал гурту **Kurgan** (грав на їх єдиному альбомі), а коли вони, невдовзі опісля, розпались, то створив дует **Starchitect** вдвох із барабанником.

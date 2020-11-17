@@ -4,7 +4,7 @@ layout: post
 tags: [old_school_black_metal, blackened_crust, USA, California, 10s]
 title: "Axeman: #old_school_black_metal #blackened_crust #USA"
 ---
-![Axeman: #old_school_black_metal #blackened_crust #USA](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_940_09-04-2020_16-47-36.jpg)
+![Axeman: #old_school_black_metal #blackened_crust #USA](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_940_09-04-2020_16-47-36.jpg)
 Axeman: [#old_school_black_metal](/tags/#old_school_black_metal) [#blackened_crust](/tags/#blackened_crust) [#USA](/tags/#USA) [#California](/tags/#California) [#10s](/tags/#10s)
 
 **Сокироносець** - іще одне втілення Едуардо Раміреса, також відомого як **Volahn** (також [Kuxan Suum](/2020-03-10-kuxan-suum--depressive-black-metal-atmospheric-black-metal)), учасника каліфорнійського блек-метал підпілля &quot;Коло Чорного світанку&quot;. Згідно задумом, **Axeman** був славленням класичного краст-панку штибу **Amebix**, але на мій слух ближче до примітивного блек-треш-металу.

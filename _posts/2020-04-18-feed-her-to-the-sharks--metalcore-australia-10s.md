@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, Australia, 10s]
 title: "Feed Her to the Sharks: #metalcore #Australia #10s"
 ---
-![Feed Her to the Sharks: #metalcore #Australia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_943_18-04-2020_10-48-04.jpg)
+![Feed Her to the Sharks: #metalcore #Australia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_943_18-04-2020_10-48-04.jpg)
 Feed Her to the Sharks: [#metalcore](/tags/#metalcore) [#Australia](/tags/#Australia) [#10s](/tags/#10s)
 
 **Згодуй її акулам** - металкор-гурт із Мельбурна, що в Австралії. Ці хлопці такі припаковані, що записували свій self-released альбом &quot;Краса падіння&quot; аж у Швеції; створенням звуку керував Бйорн Том Фредрик Нордстрьом (гітарист [Dream Evil](/2020-04-11-dream-evil--power-metal-heavy-metal-sweden-10s), робив звук для купи метал-гуртів і [Bring Me the Horizon](/2020-02-12-bring-me-the-horizon--metalcore-deathcore-united-kingdom) ). Коштувало воно, видать, немало, і результат чути, агресивний металкор з ухилом в дез-метал, а не в поп-рок, гиги.

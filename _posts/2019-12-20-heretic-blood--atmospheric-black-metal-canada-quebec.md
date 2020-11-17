@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Canada, Quebec, 00s]
 title: "Heretic Blood: #atmospheric_black_metal #Canada #Quebec"
 ---
-![Heretic Blood: #atmospheric_black_metal #Canada #Quebec](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_825_20-12-2019_10-31-52.jpg)
+![Heretic Blood: #atmospheric_black_metal #Canada #Quebec](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_825_20-12-2019_10-31-52.jpg)
 Heretic Blood: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Canada](/tags/#Canada) [#Quebec](/tags/#Quebec) [#00s](/tags/#00s)
 
 В наші часи металь нуа кебекуа - це знак якості, якщо блек-метал гурт з Квебеку - це неодмінно необхідно слухати, розраховуючи почути душу зрадженого франкомовного народу і красу північного сяйва. Однак так було не завжди.

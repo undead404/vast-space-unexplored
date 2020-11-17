@@ -4,7 +4,7 @@ layout: post
 tags: [old_school_black_metal, thrash_metal, USA, California, 10s]
 title: "Yellowgoat: #old_school_black_metal #thrash_metal "
 ---
-![Yellowgoat: #old_school_black_metal #thrash_metal ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1043_26-08-2020_20-46-19.jpg)
+![Yellowgoat: #old_school_black_metal #thrash_metal ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1043_26-08-2020_20-46-19.jpg)
 Yellowgoat: [#old_school_black_metal](/tags/#old_school_black_metal) [#thrash_metal](/tags/#thrash_metal) [#USA](/tags/#USA) [#California](/tags/#California) [#10s](/tags/#10s)
 
 Напевне, всі уже багато років знають, хто такий Джоел Ґрайнд і які в нього заслуги (я на каналі постив раніше тільки [Tiger Junkies](/2020-01-31-tiger-junkies--crossover-thrash-metal-japan-00s)). Це мультиінструменталіст, котрий просто-таки відродив блек-метал 80-х (типу **Bathory**, **Sarcofago**. **Hellhammer**, отаких штук) у нульових. **Жовтокозел** - одне з багатьох його імен. Історія назви полягає в тому, що обкладинку першого тиражу дебютного альбому **Bathory** (1984 рік) помилково зробили замість біло-чорної жовто-чорною. Отой однотонний жовтий козел і дав назву проектові Джоела. (Що ж до **Bathory**, то Квортон був дуже незадоволений, і наступні тиражі уже мали виправлений вигляд).

@@ -4,7 +4,7 @@ layout: post
 tags: [dark_ambient, Ukraine, 10s]
 title: "Moloch: #dark_ambient #Ukraine #10s"
 ---
-![Moloch: #dark_ambient #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1029_30-07-2020_09-56-53.jpg)
+![Moloch: #dark_ambient #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1029_30-07-2020_09-56-53.jpg)
 Moloch: [#dark_ambient](/tags/#dark_ambient) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Минулого разу, розповідаючи про творчість жителя Рівного Сергія Гордіюка (котрий сам себе зве Sergiy Fjordsson), я виокремлював у його чималому доробку роу-блекову, депресивно-блекову і дарк-ембієнтну складові. Сьогодні поговоримо про останню.

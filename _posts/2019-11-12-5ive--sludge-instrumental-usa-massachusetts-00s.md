@@ -4,7 +4,7 @@ layout: post
 tags: [sludge, instrumental, USA, Massachusetts, 00s]
 title: "5ive: #sludge #instrumental #USA #Massachusetts #00s"
 ---
-![5ive: #sludge #instrumental #USA #Massachusetts #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_805_12-11-2019_19-38-38.jpg)
+![5ive: #sludge #instrumental #USA #Massachusetts #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_805_12-11-2019_19-38-38.jpg)
 5ive: [#sludge](/tags/#sludge) [#instrumental](/tags/#instrumental) [#USA](/tags/#USA) [#Massachusetts](/tags/#Massachusetts) [#00s](/tags/#00s)
 
 **5&#39;ять** (п&#39;ять, а не зять) - інструментальне сладж-тріо (пізніше дует), в котрому колись грав бас-гітарист **Isis** Джеф Кексайд. Це не хочеться звати сладж-металом, і не схоже на сладжкор, це безпросвітний інструментальний мазут, сладж, котрий прямує до дроуну.

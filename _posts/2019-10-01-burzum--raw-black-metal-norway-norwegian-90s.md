@@ -4,7 +4,7 @@ layout: post
 tags: [raw_black_metal, Norway, Norwegian, 90s]
 title: "Burzum: #raw_black_metal #Norway #Norwegian #90s"
 ---
-![Burzum: #raw_black_metal #Norway #Norwegian #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_742_01-10-2019_12-05-09.jpg)
+![Burzum: #raw_black_metal #Norway #Norwegian #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_742_01-10-2019_12-05-09.jpg)
 Burzum: [#raw_black_metal](/tags/#raw_black_metal) [#Norway](/tags/#Norway) [#Norwegian](/tags/#Norwegian) [#90s](/tags/#90s)
 
 Навряд хтось не чув цю класику, але все ж розповім. Пісня під назвою &quot;Голос із вежі&quot; розповідає про вогкий поклик безлюдної вежі з-за чорнолісу, на котрий прямує ліричний герой.

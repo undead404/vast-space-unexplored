@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, United_Kingdom, England, 00s]
 title: "Wodensthrone: #atmospheric_black_metal #United_Kingdom"
 ---
-![Wodensthrone: #atmospheric_black_metal #United_Kingdom](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_923_18-03-2020_18-01-57.jpg)
+![Wodensthrone: #atmospheric_black_metal #United_Kingdom](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_923_18-03-2020_18-01-57.jpg)
 Wodensthrone: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#United_Kingdom](/tags/#United_Kingdom) [#England](/tags/#England) [#00s](/tags/#00s)
 
 **Трон Одина** (Воден - ім&#39;я Одина староанглійською) - атмосферно-блековий неоязичницький англосаксонський гурт, що існував у 2005-2016 роках і створив майже три години талановитої пропаганди за Рідних богів і прасаксонський спадок. Виступали вони у подобі бойового розмалювання тіла своїх предків.

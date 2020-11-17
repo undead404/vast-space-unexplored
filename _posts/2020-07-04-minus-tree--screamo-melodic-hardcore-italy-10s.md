@@ -4,7 +4,7 @@ layout: post
 tags: [screamo, melodic_hardcore, Italy, 10s]
 title: "Minus Tree: #screamo #melodic_hardcore #Italy #10s"
 ---
-![Minus Tree: #screamo #melodic_hardcore #Italy #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1013_04-07-2020_10-31-22.jpg)
+![Minus Tree: #screamo #melodic_hardcore #Italy #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1013_04-07-2020_10-31-22.jpg)
 Minus Tree: [#screamo](/tags/#screamo) [#melodic_hardcore](/tags/#melodic_hardcore) [#Italy](/tags/#Italy) [#10s](/tags/#10s)
 
 Іще одна душерозривна пісня від італійців [Мінус дерево](/2020-06-12-minus-tree--melodic-hardcore-italy-10s), цього разу з більшим ухилом в скрімо. 2013 року вони розійдуться, і все.

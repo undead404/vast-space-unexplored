@@ -4,7 +4,7 @@ layout: post
 tags: [street_punk, oi, punk_rock, Ukraine, Russian, 10s]
 title: "Cios: #street_punk #oi #punk_rock #Ukraine #Russian"
 ---
-![Cios: #street_punk #oi #punk_rock #Ukraine #Russian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1034_08-08-2020_09-15-43.jpg)
+![Cios: #street_punk #oi #punk_rock #Ukraine #Russian](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1034_08-08-2020_09-15-43.jpg)
 Cios: [#street_punk](/tags/#street_punk) [#oi](/tags/#oi) [#punk_rock](/tags/#punk_rock) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
 Важко переоцінити роль **Cios** (**Удар** польською) для мене у 2012 році. Ось він, нарешті, український рок такий, який він має бути, із козацькою гордістю та пролетарською люттю.

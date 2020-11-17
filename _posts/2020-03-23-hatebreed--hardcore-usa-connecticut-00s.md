@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore, USA, Connecticut, 00s]
 title: "Hatebreed: #hardcore #USA #Connecticut #00s"
 ---
-![Hatebreed: #hardcore #USA #Connecticut #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_924_23-03-2020_13-48-33.jpg)
+![Hatebreed: #hardcore #USA #Connecticut #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_924_23-03-2020_13-48-33.jpg)
 Hatebreed: [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#Connecticut](/tags/#Connecticut) [#00s](/tags/#00s)
 
 Однойменний альбом **Hatebreed** - іще один їх твір, наповнений нетлінних бойовиків, в моєму серденьку особливе місце займає, наприклад, &quot;Між пеклом та ударом серця&quot;, а іще &quot;У попелі вони пожнуть&quot;, &quot;Не пан мені&quot;, &quot;Всі стікають кров&#39;ю&quot; - ці мелодії та ритми ВІА зарубіжної естради &quot;Плем&#39;я ненависті&quot; вирубані на скрижалях пам&#39;яті.

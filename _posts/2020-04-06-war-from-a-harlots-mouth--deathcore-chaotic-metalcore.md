@@ -4,7 +4,7 @@ layout: post
 tags: [deathcore, chaotic_metalcore, Germany, 10s]
 title: "War from a Harlots Mouth: #deathcore #chaotic_metalcore"
 ---
-![War from a Harlots Mouth: #deathcore #chaotic_metalcore](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_937_06-04-2020_17-02-24.jpg)
+![War from a Harlots Mouth: #deathcore #chaotic_metalcore](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_937_06-04-2020_17-02-24.jpg)
 War from a Harlots Mouth: [#deathcore](/tags/#deathcore) [#chaotic_metalcore](/tags/#chaotic_metalcore) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 З роками у **Війни із рота повії** в музиці все-таки менше джазу і більше дезкору, і досі не чутно блек-металу, котрий вони вперто заявляють як інфлюенс.

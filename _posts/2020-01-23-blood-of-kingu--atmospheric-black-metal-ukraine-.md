@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Ukraine, 00s]
 title: "Blood of Kingu: #atmospheric_black_metal #Ukraine "
 ---
-![Blood of Kingu: #atmospheric_black_metal #Ukraine ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_861_23-01-2020_17-36-45.jpg)
+![Blood of Kingu: #atmospheric_black_metal #Ukraine ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_861_23-01-2020_17-36-45.jpg)
 Blood of Kingu: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 **Кров Кінґу** - пісня польського дез-метал гурту **Vader** 1995 року. В ній співається про людську расу, створену із крові померлих, сповнену ненависті, аби бути зброєю в руках давніх богів. Мабуть, на її честь Роман Саєнко назвав у 2005 році свій новий сольний проект, достатньо близький стилістично до **Hate Forest**, щоб розцінюватись як пряме продовження.

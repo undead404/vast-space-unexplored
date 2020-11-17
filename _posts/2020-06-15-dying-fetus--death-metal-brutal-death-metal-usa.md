@@ -4,7 +4,7 @@ layout: post
 tags: [death_metal, brutal_death_metal, USA, Maryland, 10s, death_metal]
 title: "Dying Fetus: #death_metal #brutal_death_metal #USA"
 ---
-![Dying Fetus: #death_metal #brutal_death_metal #USA](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_995_15-06-2020_10-36-35.jpg)
+![Dying Fetus: #death_metal #brutal_death_metal #USA](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_995_15-06-2020_10-36-35.jpg)
 Dying Fetus: [#death_metal](/tags/#death_metal) [#brutal_death_metal](/tags/#brutal_death_metal) [#USA](/tags/#USA) [#Maryland](/tags/#Maryland) [#10s](/tags/#10s)
 
 2011 року, між [шостим](/2020-03-20-dying-fetus--brutal-death-metal-death-metal-usa) та сьомим альбомами, **Вмираючий зародок** випустили міні-альбом із переспівів творчів [#death_metal](/tags/#death_metal) класики. Найбільше мені до душі припало виконання пісні &quot;Викривлена правда&quot; від нідерландських класиків **Pestilence**.

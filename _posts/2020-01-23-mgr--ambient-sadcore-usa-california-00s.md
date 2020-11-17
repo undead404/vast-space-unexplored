@@ -4,7 +4,7 @@ layout: post
 tags: [ambient, sadcore, USA, California, 00s]
 title: "MGR: #ambient #sadcore #USA #California #00s"
 ---
-![MGR: #ambient #sadcore #USA #California #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_860_23-01-2020_11-46-06.jpg)
+![MGR: #ambient #sadcore #USA #California #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_860_23-01-2020_11-46-06.jpg)
 MGR: [#ambient](/tags/#ambient) [#sadcore](/tags/#sadcore) [#USA](/tags/#USA) [#California](/tags/#California) [#00s](/tags/#00s)
 
 **Гірчичний газ та троянди** - сольний проект гітариста [Isis](/2019-12-17-isis--post-metal-usa-california-00s-) Майкла Джона Ґаллаґера (я [уже писав про нього](/2019-12-30-mgr--ambient-usa-california-00s)). Колись давно він грав у хардкор-гурті **Cast Iron Hike**, але в кінці 90-х потрапив до **Isis** і в їх складі виробив свій власний стиль, витяжкою котрого є ембієнтні альбоми **MGR**.

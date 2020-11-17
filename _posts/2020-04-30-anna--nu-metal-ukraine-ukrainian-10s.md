@@ -4,7 +4,7 @@ layout: post
 tags: [nu_metal, Ukraine, Ukrainian, 10s]
 title: "Анна: #nu_metal #Ukraine #Ukrainian #10s"
 ---
-![Анна: #nu_metal #Ukraine #Ukrainian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_955_30-04-2020_13-02-22.jpg)
+![Анна: #nu_metal #Ukraine #Ukrainian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_955_30-04-2020_13-02-22.jpg)
 Анна: [#nu_metal](/tags/#nu_metal) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) [#10s](/tags/#10s)
 
 Читаючи інтерв&#39;ю Новосьолова 2010 року - там більше про Руйнацію, ніж про **Анну**. Хто не пам&#39;ятає, може, тому поясню: Руйнація - то був у Львові такий фестиваль, котрий проводився з 2006 по 2014 роки одинадцять разів, іноді двічі в одному році, іноді дводенним, і був центром в Україні всього, що звуть &quot;мой 2007-й&quot;, організаторами були Новосьолов із дружиною.

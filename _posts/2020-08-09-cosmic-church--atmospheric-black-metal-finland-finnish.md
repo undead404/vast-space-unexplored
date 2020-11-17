@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Finland, Finnish, 10s]
 title: "Cosmic Church: #atmospheric_black_metal #Finland #Finnish"
 ---
-![Cosmic Church: #atmospheric_black_metal #Finland #Finnish](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1035_09-08-2020_23-14-51.jpg)
+![Cosmic Church: #atmospheric_black_metal #Finland #Finnish](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1035_09-08-2020_23-14-51.jpg)
 Cosmic Church: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Finland](/tags/#Finland) [#Finnish](/tags/#Finnish) [#10s](/tags/#10s)
 
 Як писав одного разу Брутал Дід з каналу [Why So Heavy?](https://t.me/why_so_heavy), у фіннів, мабуть, є держстандарт із блек-металу, інакше як так, що у них що не проект, то шедевр?

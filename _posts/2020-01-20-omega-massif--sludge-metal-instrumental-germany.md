@@ -4,7 +4,7 @@ layout: post
 tags: [sludge_metal, instrumental, Germany, 00s]
 title: "Omega Massif: #sludge_metal #instrumental #Germany"
 ---
-![Omega Massif: #sludge_metal #instrumental #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_857_20-01-2020_17-29-31.jpg)
+![Omega Massif: #sludge_metal #instrumental #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_857_20-01-2020_17-29-31.jpg)
 Omega Massif: [#sludge_metal](/tags/#sludge_metal) [#instrumental](/tags/#instrumental) [#Germany](/tags/#Germany) [#00s](/tags/#00s)
 
 **Масивна омега** - квартет із Вюрцбурґа, що в Німеччині. Вони грали інструментальний дуже важкий дуже перегружений вельми повільний сладж-метал.

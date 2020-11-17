@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Sweden, 90s]
 title: "Setherial: #black_metal #Sweden #90s"
 ---
-![Setherial: #black_metal #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_785_22-10-2019_11-12-06.jpg)
+![Setherial: #black_metal #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_785_22-10-2019_11-12-06.jpg)
 Setherial: [#black_metal](/tags/#black_metal) [#Sweden](/tags/#Sweden) [#90s](/tags/#90s)
 
 Setherial - один з класичних гуртів шведського сатанинського чорного металу, і, напевне, мій улюблений серед таких. Його посил - це Сатана Диявол, війна і пітьма. Сама пісня &quot;Крізь гнітючі часи&quot; - гімн-молитва-закликання Темного царства.

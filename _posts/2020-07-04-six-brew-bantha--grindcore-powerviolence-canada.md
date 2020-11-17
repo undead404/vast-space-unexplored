@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, powerviolence, Canada, 10s]
 title: "Six Brew Bantha: #grindcore #powerviolence #Canada"
 ---
-![Six Brew Bantha: #grindcore #powerviolence #Canada](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1014_04-07-2020_14-54-19.jpg)
+![Six Brew Bantha: #grindcore #powerviolence #Canada](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1014_04-07-2020_14-54-19.jpg)
 Six Brew Bantha: [#grindcore](/tags/#grindcore) [#powerviolence](/tags/#powerviolence) [#Canada](/tags/#Canada) [#10s](/tags/#10s)
 
 **Шість варево банта** - грайндкор-гурт із Вікторії, столиці канадської провінції Британська Колумбія. З&#39;явились вони у 2007 році саме так, як і повинні з&#39;являтись грайнд (та і взагалі - панк) гурти: джем, котрий спершу переріс в запис підвальних демо, а згодом - і в концерти. Назва особливо нічого не значить, це просто унікальний набір слів, а банта - то звір, схожий на яка завбільшки із слона, із Зоряних воєн. А ще у хлопців, як і у **Wormrot**, на постійній основі немає басиста.

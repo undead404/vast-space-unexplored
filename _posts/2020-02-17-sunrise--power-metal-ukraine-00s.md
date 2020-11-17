@@ -4,7 +4,7 @@ layout: post
 tags: [power_metal, Ukraine, 00s]
 title: "Sunrise: #power_metal #Ukraine #00s"
 ---
-![Sunrise: #power_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_893_17-02-2020_10-41-44.jpg)
+![Sunrise: #power_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_893_17-02-2020_10-41-44.jpg)
 Sunrise: [#power_metal](/tags/#power_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 **Світанок** - український павер-метал гурт, заснований барабанником-співаком Костянтином &quot;Лаарсом&quot; Науменком, котрий у ті часи іще барабанив із **Тінь Сонця**.

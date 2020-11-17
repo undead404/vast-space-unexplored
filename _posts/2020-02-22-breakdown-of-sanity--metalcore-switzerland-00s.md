@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, Switzerland, 00s]
 title: "Breakdown of Sanity: #metalcore #Switzerland #00s"
 ---
-![Breakdown of Sanity: #metalcore #Switzerland #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_900_22-02-2020_16-37-23.jpg)
+![Breakdown of Sanity: #metalcore #Switzerland #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_900_22-02-2020_16-37-23.jpg)
 Breakdown of Sanity: [#metalcore](/tags/#metalcore) [#Switzerland](/tags/#Switzerland) [#00s](/tags/#00s)
 
 **Хвороба глузду** звучали як досконалий металкор, котрого свого часу мені так не вистачало. Але свій шлях вони знайшли пізніше; на 2009 рік вони просто наслідувачі **As I Lay Dying** із Берна, столиці Швейцарії. Видавши кілька альбомів, вони відчули, що почався самоплагіат, і розійшлись у 2017: за десять років сказали геть усе. Цікаво, що увесь той час вони постійно працювали на буденних роботах, будучи настільки міцним гуртом в масштабах Європи.

@@ -4,7 +4,7 @@ layout: post
 tags: [cyber_metal, math_metal, Switzerland, 10s]
 title: "Sybreed: #cyber_metal #math_metal #Switzerland #10s"
 ---
-![Sybreed: #cyber_metal #math_metal #Switzerland #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_972_19-05-2020_15-29-49.jpg)
+![Sybreed: #cyber_metal #math_metal #Switzerland #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_972_19-05-2020_15-29-49.jpg)
 Sybreed: [#cyber_metal](/tags/#cyber_metal) [#math_metal](/tags/#math_metal) [#Switzerland](/tags/#Switzerland) [#10s](/tags/#10s)
 
 Вчергове вражаюсь, як жахливо звучить цей гурт на концертних записах. У мене була змога приліпити до допису відео змонтоване із студійним звуком, але то геть не те задоволення.

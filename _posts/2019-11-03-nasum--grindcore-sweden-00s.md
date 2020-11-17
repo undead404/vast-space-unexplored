@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, Sweden, 00s]
 title: "Nasum: #grindcore #Sweden #00s"
 ---
-![Nasum: #grindcore #Sweden #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_798_03-11-2019_15-11-03.jpg)
+![Nasum: #grindcore #Sweden #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_798_03-11-2019_15-11-03.jpg)
 Nasum: [#grindcore](/tags/#grindcore) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s)
 
 Як металхеди спілкувались до інтернету? Як обмінювались музикою до торрентів і стримінгів? Отак: поштою. На доданому фото лист гуртові **Назум** від фана з Праґи, котрого дуже вразив їх виступ. Рік 2000. Узяв це зі сторінки **Nasum** на FB, тож лист і фото вони отримали.

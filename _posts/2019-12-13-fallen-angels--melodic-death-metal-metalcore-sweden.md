@@ -4,7 +4,7 @@ layout: post
 tags: [melodic_death_metal, metalcore, Sweden, 00s]
 title: "Fallen Angels: #melodic_death_metal #metalcore #Sweden"
 ---
-![Fallen Angels: #melodic_death_metal #metalcore #Sweden](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_816_13-12-2019_11-54-33.jpg)
+![Fallen Angels: #melodic_death_metal #metalcore #Sweden](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_816_13-12-2019_11-54-33.jpg)
 Fallen Angels: [#melodic_death_metal](/tags/#melodic_death_metal) [#metalcore](/tags/#metalcore) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s)
 
 Містечко Фалькенберґ знаходиться у Швеції практично на півдорозі між Ґетеборґом та Мальме, воно завбільшки як Калинівка Вінницької області. Саме там у 2000 році постав гурт &quot;Звуки тиші&quot; (**Tunes of Silence**), що у 2002 перетворився на **Грішних янголів** (**Fallen Angels**). Зібрав його гітарист Робін С&#39;юннессон за участі своїх двоюрідних братів Роґера та Ріхарда, а також інших місцевих пряморуких юних металхедів. Разом вони записали три демо-альбоми, пісня з останнього додана - &quot;Сіон мусить впасти&quot;. Фоточка трохи неактуальна, секс-символ мого дитинства бас-гітаристка Карін Акссельссон долучилась уже після запису останнього демо. Ну і Ріхард смішний із нефарбованим волоссям.

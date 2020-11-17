@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Finland, Finnish, 00s]
 title: "Moonsorrow: #atmospheric_black_metal #Finland #Finnish"
 ---
-![Moonsorrow: #atmospheric_black_metal #Finland #Finnish](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_852_12-01-2020_10-36-06.jpg)
+![Moonsorrow: #atmospheric_black_metal #Finland #Finnish](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_852_12-01-2020_10-36-06.jpg)
 Moonsorrow: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Finland](/tags/#Finland) [#Finnish](/tags/#Finnish) [#00s](/tags/#00s)
 
 Історія каже, що на самому початку **Місяцесмуток** грали блек, але ще до створення дебютного альбому перейшли на дудко-метал на основі пізньої **Bathory** та фінських мотивів, котрий я проклацую та прокручую (іще гітарист-співак-засновник Генрі Сорвалі - постійний клавішник **Finntroll**). Аж раптом за 2007 рік виринув блек-метал альбом. Про нього зараз мова.

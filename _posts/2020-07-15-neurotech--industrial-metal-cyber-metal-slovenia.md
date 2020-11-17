@@ -4,7 +4,7 @@ layout: post
 tags: [industrial_metal, cyber_metal, Slovenia, female_vocalists, 10s]
 title: "Neurotech: #industrial_metal #cyber_metal #Slovenia"
 ---
-![Neurotech: #industrial_metal #cyber_metal #Slovenia](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1023_15-07-2020_12-14-59.jpg)
+![Neurotech: #industrial_metal #cyber_metal #Slovenia](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1023_15-07-2020_12-14-59.jpg)
 Neurotech: [#industrial_metal](/tags/#industrial_metal) [#cyber_metal](/tags/#cyber_metal) [#Slovenia](/tags/#Slovenia) [#female_vocalists](/tags/#female_vocalists) [#10s](/tags/#10s)
 
 Щось про **Нейротеха** ніхто з тих, кого я читаю, не писав, а це неправильно. Тому з великим задоволенням розповідаю про цього талановитого словенця.

@@ -4,7 +4,7 @@ layout: post
 tags: [psytrance, goa_trance, Ukraine, 10s]
 title: "Alienapia: #psytrance #goa_trance #Ukraine #10s"
 ---
-![Alienapia: #psytrance #goa_trance #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_942_12-04-2020_16-39-44.jpg)
+![Alienapia: #psytrance #goa_trance #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_942_12-04-2020_16-39-44.jpg)
 Alienapia: [#psytrance](/tags/#psytrance) [#goa_trance](/tags/#goa_trance) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Нечасто пишу про електронну музику і дуже рідко її слухаю взагалі, однак київський проект **Zymosis** полюбився з перших стежин. **Alienapia** є їх сайд-проектом, ухилом в бік гоа-трансу і сайтрансу.  Не знаю, що про це ще можна казати, просто зашибісь транс качає.

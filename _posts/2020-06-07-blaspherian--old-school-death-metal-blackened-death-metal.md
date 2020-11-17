@@ -4,7 +4,7 @@ layout: post
 tags: [old_school_death_metal, blackened_death_metal, USA, Texas, 10s]
 title: "Blaspherian: #old_school_death_metal #blackened_death_metal"
 ---
-![Blaspherian: #old_school_death_metal #blackened_death_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_988_07-06-2020_21-05-21.jpg)
+![Blaspherian: #old_school_death_metal #blackened_death_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_988_07-06-2020_21-05-21.jpg)
 Blaspherian: [#old_school_death_metal](/tags/#old_school_death_metal) [#blackened_death_metal](/tags/#blackened_death_metal) [#USA](/tags/#USA) [#Texas](/tags/#Texas) [#10s](/tags/#10s)
 
 Причина інтересу до **Блюзніра** проста: протягом більшості часу їх вокалістом був Деніел Шоу, співак **War Master**. Для мене останнім часом екстрім-метал із Техасу - окремий інтерес, і **Blaspherian** - яскравий представник.

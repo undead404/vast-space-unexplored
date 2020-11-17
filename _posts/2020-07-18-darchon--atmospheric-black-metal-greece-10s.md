@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Greece, 10s]
 title: "Darchon: #atmospheric_black_metal #Greece #10s"
 ---
-![Darchon: #atmospheric_black_metal #Greece #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1024_18-07-2020_19-46-09.jpg)
+![Darchon: #atmospheric_black_metal #Greece #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1024_18-07-2020_19-46-09.jpg)
 Darchon: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Greece](/tags/#Greece) [#10s](/tags/#10s)
 
 Іще один проект, про котрий ніхто не пише, а я розповім. 2012 року вийшов спліт-альбом за участі моїх улюбленців **Battle Dagorath** - &quot;Вкриття астральної долі&quot;, котрий відкрив для мене іще один атмоблековий суперпроект - **Дархон**.

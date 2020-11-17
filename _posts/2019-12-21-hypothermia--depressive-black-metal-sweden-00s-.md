@@ -4,7 +4,7 @@ layout: post
 tags: [depressive_black_metal, Sweden, 00s, instrumental, depressive_rock]
 title: "Hypothermia: #depressive_black_metal #Sweden #00s "
 ---
-![Hypothermia: #depressive_black_metal #Sweden #00s ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_826_21-12-2019_09-40-20.jpg)
+![Hypothermia: #depressive_black_metal #Sweden #00s ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_826_21-12-2019_09-40-20.jpg)
 Hypothermia: [#depressive_black_metal](/tags/#depressive_black_metal) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s) [#instrumental](/tags/#instrumental) [#depressive_rock](/tags/#depressive_rock)
 
 **Перехолодження** - це гіпнотично-саморуйнівна музика. Такий блек-метал, ніби його грають напівобмороженими кінцівками, сповільнена музика відчаю.

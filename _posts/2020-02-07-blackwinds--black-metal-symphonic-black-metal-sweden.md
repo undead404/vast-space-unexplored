@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, symphonic_black_metal, Sweden, 00s]
 title: "Blackwinds: #black_metal #symphonic_black_metal #Sweden"
 ---
-![Blackwinds: #black_metal #symphonic_black_metal #Sweden](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_877_07-02-2020_09-51-46.jpg)
+![Blackwinds: #black_metal #symphonic_black_metal #Sweden](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_877_07-02-2020_09-51-46.jpg)
 Blackwinds: [#black_metal](/tags/#black_metal) [#symphonic_black_metal](/tags/#symphonic_black_metal) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s)
 
 **Чорнокрила** - побічний проект моїх улюблених сатанистів **Setherial** із офігеть яким якісним звуком і симфо-клавішними, місцями навіть **Dimmu Borgir** нагадали. Вважається, що це дует барабанника Пана Таїнств (гітариста на [перших двох альбомах](/2019-10-22-setherial--black-metal-sweden-90s) **Setherial** і барабанника на [чотирьох наступних](/2019-10-28-setherial--black-metal-swedish-black-metal-sweden)) та їх же співака Нещастя (хоча я певен, що там ввесь **Сетеріал** із записом помагав). Обкладинку з янголом смерті малював басист **Watain** Ерик. Альбом &quot;Пекло плоті&quot; - досі останній твір проекту.

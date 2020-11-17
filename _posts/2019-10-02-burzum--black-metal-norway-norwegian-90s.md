@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Norway, Norwegian, 90s]
 title: "Burzum: #black_metal #Norway #Norwegian #90s"
 ---
-![Burzum: #black_metal #Norway #Norwegian #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_744_02-10-2019_12-58-10.jpg)
+![Burzum: #black_metal #Norway #Norwegian #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_744_02-10-2019_12-58-10.jpg)
 Burzum: [#black_metal](/tags/#black_metal) [#Norway](/tags/#Norway) [#Norwegian](/tags/#Norwegian) [#90s](/tags/#90s)
 
 Варг Вікернес (на цьому альбомі вказаний як Ґрейфі Ґришнак) - мабуть, один з найталановитіших людей в історії метал-музики, заклав основи raw black metal, atmospheric black metal, ambient black metal і дещо depressive black metal. У пісні &quot;Оберни знак мікрокосму&quot; майбутній неонацистський та неоязичницький ідеолог, а тоді іще тільки підліток-терорист Кристіан Вікернес освідчується в ненависті до лісу, в котрому &quot;жодної небезпеки: ані вовка, ані ведмедя, ані троля... тільки ніч і я&quot;, і зізнається, що усвідомлює: ця ненависть веде його до пекла.

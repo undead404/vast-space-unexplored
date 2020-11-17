@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Ukraine, Russian, 00s]
 title: "Святогор: #black_metal #Ukraine #Russian #00s"
 ---
-![Святогор: #black_metal #Ukraine #Russian #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_894_18-02-2020_10-06-40.jpg)
+![Святогор: #black_metal #Ukraine #Russian #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_894_18-02-2020_10-06-40.jpg)
 Святогор: [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#00s](/tags/#00s)
 
 **Святогор**, звісно, не **Isis**, але теж в халепі: тепер це ім&#39;я знають як псевдонім київського живодера, а не як харківський паган-блек-метал гурт.

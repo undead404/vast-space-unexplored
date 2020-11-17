@@ -4,7 +4,7 @@ layout: post
 tags: [progressive_black_metal, avant_garde_black_metal, Norway, 90s]
 title: "In the Woods: #progressive_black_metal #avant_garde_black_metal"
 ---
-![In the Woods: #progressive_black_metal #avant_garde_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_756_07-10-2019_17-38-33.jpg)
+![In the Woods: #progressive_black_metal #avant_garde_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_756_07-10-2019_17-38-33.jpg)
 In the Woods: [#progressive_black_metal](/tags/#progressive_black_metal) [#avant_garde_black_metal](/tags/#avant_garde_black_metal) [#Norway](/tags/#Norway) [#90s](/tags/#90s)
 
 Ніякого блекґейзу, У лісах... - гурт, котрий комбінував блек-метал із неофольком та ембієнтом, використовував чистий вокал, до того ж поруч із Helheim чи не перші, хто використав шрайк-вокал (фальцет-скримінг).

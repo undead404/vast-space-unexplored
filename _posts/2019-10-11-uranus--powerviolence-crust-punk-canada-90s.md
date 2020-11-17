@@ -4,7 +4,7 @@ layout: post
 tags: [powerviolence, crust_punk, Canada, 90s]
 title: "Uranus: #powerviolence #crust_punk #Canada #90s"
 ---
-![Uranus: #powerviolence #crust_punk #Canada #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_763_11-10-2019_22-52-22.jpg)
+![Uranus: #powerviolence #crust_punk #Canada #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_763_11-10-2019_22-52-22.jpg)
 Uranus: [#powerviolence](/tags/#powerviolence) [#crust_punk](/tags/#crust_punk) [#Canada](/tags/#Canada) [#90s](/tags/#90s)
 
 Так-так, це той самий Уран, котрий союзний Уран, уособлення небес серед грецьких богів і перший правитель Всесвіту, скинутий та оскоплений сином Кроносом.

@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Finland, Finnish, 10s]
 title: "Horna: #black_metal #Finland #Finnish #10s"
 ---
-![Horna: #black_metal #Finland #Finnish #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1044_30-08-2020_12-06-16.jpg)
+![Horna: #black_metal #Finland #Finnish #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1044_30-08-2020_12-06-16.jpg)
 Horna: [#black_metal](/tags/#black_metal) [#Finland](/tags/#Finland) [#Finnish](/tags/#Finnish) [#10s](/tags/#10s)
 
 Фінни **Пекло** - іще один зразок для наслідування, поширений серед блек-метал гуртів. Засновані аж у 1994, в мить великого блек-метал вибуху, **Horna** залишаються вірними сирому північному звучанню та рідній фінській мові. Якщо французьким &quot;Чорним легіонам&quot; довелось вигадувати таємничу мову, то для уродженця Лаппеенранти Вілле Пюстюнена дивацька мова була рідною. (Фінська мова, поруч із угорською, естонською та деякими мовами тубільців Росії, не споріднена із індоєвропейською мовною сім&#39;єю).

@@ -4,7 +4,7 @@ layout: post
 tags: [groove_metal, thrash_metal, Ukraine, 10s]
 title: "Fleshgore: #groove_metal #thrash_metal #Ukraine #10s"
 ---
-![Fleshgore: #groove_metal #thrash_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1041_21-08-2020_02-42-09.jpg)
+![Fleshgore: #groove_metal #thrash_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1041_21-08-2020_02-42-09.jpg)
 Fleshgore: [#groove_metal](/tags/#groove_metal) [#thrash_metal](/tags/#thrash_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Уже на третьому альбомі &quot;May God Strike Me Dead&quot; 2008 року київського гурту **Fleshgore** було чути експерименти, для когось дивні, для когось цікаві: електронні звучки, ухил до більш м&#39;якого, модернового звучання. А колись **Fleshgore** грали брутал-дез-метал!

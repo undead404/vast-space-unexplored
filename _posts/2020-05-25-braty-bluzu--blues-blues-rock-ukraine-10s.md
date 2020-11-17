@@ -4,7 +4,7 @@ layout: post
 tags: [blues, blues_rock, Ukraine, 10s]
 title: "Braty Bluzu: #blues #blues_rock #Ukraine #10s"
 ---
-![Braty Bluzu: #blues #blues_rock #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_975_25-05-2020_15-46-13.jpg)
+![Braty Bluzu: #blues #blues_rock #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_975_25-05-2020_15-46-13.jpg)
 Braty Bluzu: [#blues](/tags/#blues) [#blues_rock](/tags/#blues_rock) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 **Брати блузу**, пардон, **Брати блюзу** - джаз-рок гурт із Калуша, що в Івано-Франківській області. Грають джаз та блюз із присмаком західноукраїнського фольку. 1993 року отримали Гран-прі на &quot;Червоній руті&quot; в Донецьку, 1998 стали першими українцями на сцені фесту Сіґета. Поруч із власною творчістю ще з початку 90-х музики відточували майстерність в концертному складі спершу Ані Лорак, пізніше Олександра Пономарьова.

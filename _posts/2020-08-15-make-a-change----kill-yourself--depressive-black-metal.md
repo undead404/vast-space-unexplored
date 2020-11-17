@@ -4,7 +4,7 @@ layout: post
 tags: [depressive_black_metal, Denmark, 10s]
 title: "Make a Change... Kill Yourself: #depressive_black_metal"
 ---
-![Make a Change... Kill Yourself: #depressive_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1039_15-08-2020_12-22-00.jpg)
+![Make a Change... Kill Yourself: #depressive_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1039_15-08-2020_12-22-00.jpg)
 Make a Change... Kill Yourself: [#depressive_black_metal](/tags/#depressive_black_metal) [#Denmark](/tags/#Denmark) [#10s](/tags/#10s)
 
 **Зміни щось... Вбий себе** - проєкт двох людей: поета Нічнослова із Швеції та композитора-музики-співця Інлеборґаза з Данії. Інлеборґаз - мультиінструменталіст, котрий аж із 1997 року творить під іншою назвою блек-метал на скандинавську тематику, і у 2004 році видкрив дещо нове у вигляді депресивного блек-металу. До речі, цей митець сором&#39;язливо приховує своє українське походження за іменем Якоб Заґробельни (це мій домисел, але рілі, з таким прізвищем; а його нік - це прізвище задом наперед).

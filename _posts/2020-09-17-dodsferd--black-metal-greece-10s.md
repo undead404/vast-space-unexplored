@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Greece, 10s]
 title: "Dødsferd: #black_metal #Greece #10s"
 ---
-![Dødsferd: #black_metal #Greece #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1053_17-09-2020_10-49-58.jpg)
+![Dødsferd: #black_metal #Greece #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1053_17-09-2020_10-49-58.jpg)
 Dødsferd: [#black_metal](/tags/#black_metal) [#Greece](/tags/#Greece) [#10s](/tags/#10s)
 
 [Додсферд](/2020-06-10-dodsferd--black-metal-greece-10s) зразка 2013 року - це співак-гітарист-поет Гнів, соло-гітарист Противник, басист Нептун та барабанник Вир. На доданій пісні &quot;Порожня пустеля&quot; - люта блек-метал різанина. Де вони беруть в Греції стільки холоду? Спускаються до воріт Тартару? На додачу виділю кришталеву чистоту звуку.

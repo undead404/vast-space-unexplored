@@ -4,7 +4,7 @@ layout: post
 tags: [melodic_death_metal, Ukraine, 00s]
 title: "Infinite Tales: #melodic_death_metal #Ukraine #00s"
 ---
-![Infinite Tales: #melodic_death_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_895_18-02-2020_17-58-36.jpg)
+![Infinite Tales: #melodic_death_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_895_18-02-2020_17-58-36.jpg)
 Infinite Tales: [#melodic_death_metal](/tags/#melodic_death_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 У мене тут не канал української музики взагалі-то. А п&#39;ять чи шість постів підряд про українське - то суто збіг; хто ж винен, що козаки й козачки записали стільки різноманітного качового музла.

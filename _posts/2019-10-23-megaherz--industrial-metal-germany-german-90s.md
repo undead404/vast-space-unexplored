@@ -4,7 +4,7 @@ layout: post
 tags: [industrial_metal, Germany, German, 90s]
 title: "Megaherz: #industrial_metal #Germany #German #90s"
 ---
-![Megaherz: #industrial_metal #Germany #German #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_786_23-10-2019_12-58-05.jpg)
+![Megaherz: #industrial_metal #Germany #German #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_786_23-10-2019_12-58-05.jpg)
 Megaherz: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#Germany) [#German](/tags/#German) [#90s](/tags/#90s)
 
 Пісня &quot;Сука&quot;, написана у кінці 90-х Алексом Вессельскі та Ноелем Піксом для Megaherz, стала настільки міцним і довгограючим хітом, що кліп на неї вони випустили аж у 2012 році від імені свого теперішнього гурту Eisbrecher. Усі ці роки &quot;Містштюк&quot; невпинно виконували на концертах спершу Megaherz, а згодом Eisbrecher.

@@ -4,7 +4,7 @@ layout: post
 tags: [thrash_metal, USA, California, 00s]
 title: "Hirax: #thrash_metal #USA #California #00s"
 ---
-![Hirax: #thrash_metal #USA #California #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_925_25-03-2020_11-11-41.jpg)
+![Hirax: #thrash_metal #USA #California #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_925_25-03-2020_11-11-41.jpg)
 Hirax: [#thrash_metal](/tags/#thrash_metal) [#USA](/tags/#USA) [#California](/tags/#California) [#00s](/tags/#00s)
 
 **Гіракс** - творіння чорношкірого Катона &quot;Чорного диявола&quot; де Пеньї, котрий із 80-х спростовує дурницю про те, що метал - музика білих. Трушний безкомпромісний треш із суцільним звуком і нотою 80-х в стилі вокального виконання.

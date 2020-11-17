@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore, USA, Pennsylvania]
 title: "Reign Supreme: #hardcore #USA #Pennsylvania"
 ---
-![Reign Supreme: #hardcore #USA #Pennsylvania](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_899_21-02-2020_10-26-20.jpg)
+![Reign Supreme: #hardcore #USA #Pennsylvania](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_899_21-02-2020_10-26-20.jpg)
 Reign Supreme: [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#Pennsylvania](/tags/#Pennsylvania)
 
 **Панування** - певне, гурт, котрий зосереджує все чудове, що люблю в сучасному металізованому хардкорі: надривний вокал, жорсткі рвучкі гітари і кулеметна ритм-секція. А, і іще їх співак Джей Пепіто - викладач муай-таю (не знаю, нащо вам ця інфа, я просто знайшов її). Автор оформлення звуку альбому - Вілл Патні, тоді ще не зірка, але він уже до того працював з [дебютним міні-альбомом](/2020-01-27-reign-supreme--hardcore-usa-pennsylvania-00s) **R.S.** та єдиним ніби альбомом моїх улюблених бітдаунників **Years Spent Cold**.

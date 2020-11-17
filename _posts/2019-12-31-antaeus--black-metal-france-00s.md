@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, France, 00s]
 title: "Antaeus: #black_metal #France #00s"
 ---
-![Antaeus: #black_metal #France #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_837_31-12-2019_10-41-22.jpg)
+![Antaeus: #black_metal #France #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_837_31-12-2019_10-41-22.jpg)
 Antaeus: [#black_metal](/tags/#black_metal) [#France](/tags/#France) [#00s](/tags/#00s)
 
 **Антей** - ортодоксальний сатанинський блек-метал гурт із Франції, котрий існує аж із 1993 року. Кажуть, їх назва не пов&#39;язана з персонажем грецької міфології, а якось стосується місцевої страшної казки про родину, прокляття котрої перетворює будь-якого її члена на вовкулаку при доторку чужої людини. **Anteus** - із містечка Мезон-Лаффіт завбільшки як Ладижин, респектабельного передмістя Парижа.

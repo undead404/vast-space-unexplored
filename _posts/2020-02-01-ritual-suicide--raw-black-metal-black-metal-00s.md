@@ -4,7 +4,7 @@ layout: post
 tags: [raw_black_metal, black_metal, 00s]
 title: "Ritual Suicide: #raw_black_metal #black_metal #00s"
 ---
-![Ritual Suicide: #raw_black_metal #black_metal #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_871_01-02-2020_12-25-53.jpg)
+![Ritual Suicide: #raw_black_metal #black_metal #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_871_01-02-2020_12-25-53.jpg)
 Ritual Suicide: [#raw_black_metal](/tags/#raw_black_metal) [#black_metal](/tags/#black_metal) [#00s](/tags/#00s)
 
 Я серед тих (нормальних людей), хто дуже іронічно ставиться до &quot;трве блацк метал&quot; спрямування із його несамокритичністю і псевдоелітарністю. **Ритуальне самогубство** - представник цього спрямування із Донецької області України.

@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Swedish_black_metal, Sweden, 90s]
 title: "Setherial: #black_metal #Swedish_black_metal #Sweden"
 ---
-![Setherial: #black_metal #Swedish_black_metal #Sweden](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_788_28-10-2019_18-36-55.jpg)
+![Setherial: #black_metal #Swedish_black_metal #Sweden](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_788_28-10-2019_18-36-55.jpg)
 Setherial: [#black_metal](/tags/#black_metal) [#Swedish_black_metal](/tags/#Swedish_black_metal) [#Sweden](/tags/#Sweden) [#90s](/tags/#90s)
 
 Сетеріал - колектив шведських сатаністів, про котрих я нещодавно уже писав. Між 1997 і 1998 роками вони втратили барабанника, махнулись інструментами, узяли нових вокаліста і басиста, і 1998 року записали іще один приголомшливо монолітний сатанинський блек-метал альбом. Абсолютно кожну композицію із &quot;Пекла навіки&quot; хочеться додати в улюблені. До речі, звук робив Томмі Таґтґрен - рідний брат того самого Петі. До речі, блек-метал вояки із обкладинки - то драммер Аластор Містерііс і гітарист Краат, ядро колективу.

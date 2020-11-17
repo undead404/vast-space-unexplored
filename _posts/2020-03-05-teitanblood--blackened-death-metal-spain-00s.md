@@ -4,7 +4,7 @@ layout: post
 tags: [blackened_death_metal, Spain, 00s]
 title: "Teitanblood: #blackened_death_metal #Spain #00s"
 ---
-![Teitanblood: #blackened_death_metal #Spain #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_912_05-03-2020_11-33-36.jpg)
+![Teitanblood: #blackened_death_metal #Spain #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_912_05-03-2020_11-33-36.jpg)
 Teitanblood: [#blackened_death_metal](/tags/#blackened_death_metal) [#Spain](/tags/#Spain) [#00s](/tags/#00s)
 
 Регулярно проявляються митці, котрі показують, що немає кінця-краю аудіогадству, звуковому мороку. Іспанські **Teitanblood** у цьому відношенні такий яскравий спалах чорного світла, що **Darkthrone** використали їх лого на обкладинці свого альбому &quot;Circle the Wagons&quot;.

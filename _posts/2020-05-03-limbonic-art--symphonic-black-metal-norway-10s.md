@@ -4,7 +4,7 @@ layout: post
 tags: [symphonic_black_metal, Norway, 10s]
 title: "Limbonic Art: #symphonic_black_metal #Norway #10s"
 ---
-![Limbonic Art: #symphonic_black_metal #Norway #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_958_03-05-2020_17-07-27.jpg)
+![Limbonic Art: #symphonic_black_metal #Norway #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_958_03-05-2020_17-07-27.jpg)
 Limbonic Art: [#symphonic_black_metal](/tags/#symphonic_black_metal) [#Norway](/tags/#Norway) [#10s](/tags/#10s)
 
 Про існування **Лімбонічного мистецтва** я чув давно, але тільки поштовх з боку мого гітариста Іллі змусив додати їх в чергу на прослуховування, і минуло чимало місців, поки попали в плейлист.

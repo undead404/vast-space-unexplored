@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Canada, Quebec, French, 10s]
 title: "Csejthe: #atmospheric_black_metal #Canada #Quebec "
 ---
-![Csejthe: #atmospheric_black_metal #Canada #Quebec ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1045_02-09-2020_13-47-14.jpg)
+![Csejthe: #atmospheric_black_metal #Canada #Quebec ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1045_02-09-2020_13-47-14.jpg)
 Csejthe: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Canada](/tags/#Canada) [#Quebec](/tags/#Quebec) [#French](/tags/#French) [#10s](/tags/#10s)
 
 Я уже писав про перлину Квебецького БМ [Чахтице](/2020-02-10-csejthe--piano-canada-quebec-00s). Їх творчість - окультний атмосферний блек-метал, присвячений тому, як графиня Ержебет Баторі, володарка Чахтицького замку (тепер у Словаччині, тоді габсбурзька Угорщина) шукала спосіб пожирати життєві сили юних дівчат, аби здобути безсмертя. Цій темі присвячена і додана пісня &quot;Мисливиця&quot;. До речі, тодішній (2013) соло-гітарист гурту Бардунор - барабанник [Monarque](/2020-05-12-monarque--atmospheric-black-metal-canada-quebec).

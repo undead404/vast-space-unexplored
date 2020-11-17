@@ -4,7 +4,7 @@ layout: post
 tags: [industrial_metal, nu_metal, Germany, 90s]
 title: "Oomph!: #industrial_metal #nu_metal #Germany #90s"
 ---
-![Oomph!: #industrial_metal #nu_metal #Germany #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_760_09-10-2019_17-36-11.jpg)
+![Oomph!: #industrial_metal #nu_metal #Germany #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_760_09-10-2019_17-36-11.jpg)
 Oomph!: [#industrial_metal](/tags/#industrial_metal) [#nu_metal](/tags/#nu_metal) [#Germany](/tags/#Germany) [#90s](/tags/#90s)
 
 Своїми англомовними треками 90-х Овва більш близькі до Marilyn Manson, ніж до Rammstein.

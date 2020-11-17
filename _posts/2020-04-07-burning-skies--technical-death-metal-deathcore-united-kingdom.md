@@ -4,7 +4,7 @@ layout: post
 tags: [technical_death_metal, deathcore, United_Kingdom, England, 10s]
 title: "Burning Skies: #technical_death_metal #deathcore #United_Kingdom"
 ---
-![Burning Skies: #technical_death_metal #deathcore #United_Kingdom](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_938_07-04-2020_11-12-50.jpg)
+![Burning Skies: #technical_death_metal #deathcore #United_Kingdom](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_938_07-04-2020_11-12-50.jpg)
 Burning Skies: [#technical_death_metal](/tags/#technical_death_metal) [#deathcore](/tags/#deathcore) [#United_Kingdom](/tags/#United_Kingdom) [#England](/tags/#England) [#10s](/tags/#10s)
 
 **Палаючі небеса** грали суміш технічного дез-металу і дезкору з елементами треш-металу і маткору. Були вони із Брістоля. Гарно себе показали на спліті з **War from a Harlots Mouth**, на котрому ділили з німцями їх драммера Пауля Зайделя. Протягом року згодом **Burning Skies** оголосили про розпад.

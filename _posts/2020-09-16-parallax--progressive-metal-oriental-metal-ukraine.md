@@ -4,7 +4,7 @@ layout: post
 tags: [progressive_metal, oriental_metal, Ukraine, 10s]
 title: "Parallax: #progressive_metal #oriental_metal #Ukraine"
 ---
-![Parallax: #progressive_metal #oriental_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1052_16-09-2020_23-03-39.jpg)
+![Parallax: #progressive_metal #oriental_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1052_16-09-2020_23-03-39.jpg)
 Parallax: [#progressive_metal](/tags/#progressive_metal) [#oriental_metal](/tags/#oriental_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Гурт **Ignea** досі дуже активний, їх свіжі клипи можна навіть побачити в рекламі на YouTube. До 2015 року вони звались **Parallax**.

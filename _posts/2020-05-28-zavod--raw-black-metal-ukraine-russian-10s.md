@@ -4,7 +4,7 @@ layout: post
 tags: [raw_black_metal, Ukraine, Russian, 10s]
 title: "Заводь: #raw_black_metal #Ukraine #Russian #10s"
 ---
-![Заводь: #raw_black_metal #Ukraine #Russian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_980_28-05-2020_15-22-46.jpg)
+![Заводь: #raw_black_metal #Ukraine #Russian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_980_28-05-2020_15-22-46.jpg)
 Заводь: [#raw_black_metal](/tags/#raw_black_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
 У 2011 році Качур пан Продавець, Іван Павло Козлосе та Малий В. продовжили грати сирий блек-метал, роблячи все решту навмисне неправильно. Промо-фото в яскравих кольорах: що для блек-метал гурту може бути гірше? Як мінімум це протилежно до оформлень релізів гурту, де кольори - тільки чорно-біле.

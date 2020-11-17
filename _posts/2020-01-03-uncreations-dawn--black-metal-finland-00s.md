@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Finland, 00s]
 title: "Uncreation&#39;s Dawn: #black_metal #Finland #00s"
 ---
-![Uncreation&#39;s Dawn: #black_metal #Finland #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_842_03-01-2020_11-10-57.jpg)
+![Uncreation&#39;s Dawn: #black_metal #Finland #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_842_03-01-2020_11-10-57.jpg)
 Uncreation&#39;s Dawn: [#black_metal](/tags/#black_metal) [#Finland](/tags/#Finland) [#00s](/tags/#00s)
 
 Сьогодні [знову](/2019-11-10-uncreations-dawn--black-metal-raw-black-metal-finland)  про **Світанок нетворення** - класику фінського сатанізму, адже 2006 року в них вийшов офігезний альбом &quot;Тиранія Смерті&quot;. Обкладинка зображає захоплення міста нечистою силою, причому зображена архітектура нагадує Близький Схід. Можливо, це вказівка на Хрестові походи?

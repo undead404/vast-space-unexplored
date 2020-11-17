@@ -4,7 +4,7 @@ layout: post
 tags: [symphonic_black_metal, Ukraine, 00s]
 title: "Capitollium: #symphonic_black_metal #Ukraine #00s"
 ---
-![Capitollium: #symphonic_black_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_880_09-02-2020_14-01-47.jpg)
+![Capitollium: #symphonic_black_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_880_09-02-2020_14-01-47.jpg)
 Capitollium: [#symphonic_black_metal](/tags/#symphonic_black_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 Власне, перш за все, мабутЬ, Юліан &quot;Вітерзгір&quot; Міцик став відомий саме завдяки своєму сольному англомовному проекті **Капітолій** (почався аж у 2000).

@@ -4,7 +4,7 @@ layout: post
 tags: [drone, post_metal, USA, Georgia, 00s]
 title: "The Angelic Process: #drone #post_metal #USA #Georgia"
 ---
-![The Angelic Process: #drone #post_metal #USA #Georgia](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_855_16-01-2020_11-46-43.jpg)
+![The Angelic Process: #drone #post_metal #USA #Georgia](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_855_16-01-2020_11-46-43.jpg)
 The Angelic Process: [#drone](/tags/#drone) [#post_metal](/tags/#post_metal) [#USA](/tags/#USA) [#Georgia](/tags/#Georgia) [#00s](/tags/#00s)
 
 Я уже співав оду цьому подружньому дуетові, неповторній суміші шуґейзу, дроуну та пост-металу, у FB-пості про покійні гурти. &quot;Ми всі помираємо сміючись&quot; - одна з моїх улюблених пісень дуету взагалі. Вийшла на останньому альбомі - &quot;Зважуючи душі піском&quot;, 2007 року.

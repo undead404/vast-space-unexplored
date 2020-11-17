@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, Sweden, 90s]
 title: "Nasum: #grindcore #Sweden #90s"
 ---
-![Nasum: #grindcore #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_784_21-10-2019_15-06-12.jpg)
+![Nasum: #grindcore #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_784_21-10-2019_15-06-12.jpg)
 Nasum: [#grindcore](/tags/#grindcore) [#Sweden](/tags/#Sweden) [#90s](/tags/#90s)
 
 Трохи більше півхвилини лютого меремелювання скрєпів і традицій - авторства американців Drop Dead у виконанні шведів Ніс (Nasum). Текст пісні - різко антивоєнний та антиімперіалістичний.

@@ -4,7 +4,7 @@ layout: post
 tags: [melodic_metalcore, Christian_metalcore, USA, Ohio, 10s]
 title: "The Devil Wears Prada: #melodic_metalcore #Christian_metalcore"
 ---
-![The Devil Wears Prada: #melodic_metalcore #Christian_metalcore](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1056_25-09-2020_11-53-54.jpg)
+![The Devil Wears Prada: #melodic_metalcore #Christian_metalcore](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1056_25-09-2020_11-53-54.jpg)
 The Devil Wears Prada: [#melodic_metalcore](/tags/#melodic_metalcore) [#Christian_metalcore](/tags/#Christian_metalcore) [#USA](/tags/#USA) [#Ohio](/tags/#Ohio) [#10s](/tags/#10s)
 
 [Диявол носить Прада](/2020-05-08-the-devil-wears-prada--metalcore-christian-metalcore) залишаються рупором християнської пропаганди в металкорі. Назва їх п&#39;ятого альбому &quot;8:18&quot; вказує на біблійний вірш з книги &quot;До римлян&quot;, 8:18, що в перекладі Огієнка звучить так:

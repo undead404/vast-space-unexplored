@@ -4,7 +4,7 @@ layout: post
 tags: [stoner_metal, sludgecore, hardcore, USA, Georgia, 00s]
 title: "Kylesa: #stoner_metal #sludgecore #hardcore #USA #Georgia"
 ---
-![Kylesa: #stoner_metal #sludgecore #hardcore #USA #Georgia](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_830_24-12-2019_12-07-42.jpg)
+![Kylesa: #stoner_metal #sludgecore #hardcore #USA #Georgia](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_830_24-12-2019_12-07-42.jpg)
 Kylesa: [#stoner_metal](/tags/#stoner_metal) [#sludgecore](/tags/#sludgecore) [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#Georgia](/tags/#Georgia) [#00s](/tags/#00s)
 
 **Клеша** - колектив укурків із Саванни, що в штаті Джорджія, США. Їх знадинка - дует чоловічого і жіночого харш-вокалів. Гурт з&#39;явився у 2001 році на руїнах сладж-краст колективу **Damad**, на най-найпершому концерті грали разом з початківцями [Mastodon](/2019-10-31-mastodon--progressive-metalcore-progressive-metal). 2005 року вийшов їх альбом &quot;Йти середнім курсом&quot;, звук для якого робив Алекс Ньюпорт із **Fudge Tunnel** і **Nailbomb**.

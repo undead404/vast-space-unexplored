@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, modern_motel, Ukraine, Russian, 00s]
 title: "Snuff: #metalcore #modern_motel #Ukraine #Russian "
 ---
-![Snuff: #metalcore #modern_motel #Ukraine #Russian ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_851_11-01-2020_22-24-27.jpg)
+![Snuff: #metalcore #modern_motel #Ukraine #Russian ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_851_11-01-2020_22-24-27.jpg)
 Snuff: [#metalcore](/tags/#metalcore) [#modern_motel](/tags/#modern_motel) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#00s](/tags/#00s)
 
 **Нагар** колись були одним із топових гуртів &quot;української альтернативи&quot;, клону &quot;російської альтернативи&quot; - тої когорти, де були іще **ТОЛ**, **АННА**. Сам був на їх виступі у Вінниці у 2007, усіх трьох, ще **60 Hertz** ніби були на розігріві, але це не точно.

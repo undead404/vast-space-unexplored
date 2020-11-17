@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, deathgrind, Sweden, 90s]
 title: "Nasum: #grindcore #deathgrind #Sweden #90s"
 ---
-![Nasum: #grindcore #deathgrind #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_745_02-10-2019_14-40-07.jpg)
+![Nasum: #grindcore #deathgrind #Sweden #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_745_02-10-2019_14-40-07.jpg)
 Nasum: [#grindcore](/tags/#grindcore) [#deathgrind](/tags/#deathgrind) [#Sweden](/tags/#Sweden) [#90s](/tags/#90s)
 
 Трек &quot;Межи стін&quot; шведських дезграйнд-класиків - скрегіт в&#39;язня обставин, котрий шукає сенс життя у світі, споглядання страждань котрого завдає йому болю

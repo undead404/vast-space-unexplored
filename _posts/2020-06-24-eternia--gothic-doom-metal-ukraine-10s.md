@@ -4,7 +4,7 @@ layout: post
 tags: [gothic_doom_metal, Ukraine, 10s]
 title: "Eternia: #gothic_doom_metal #Ukraine #10s"
 ---
-![Eternia: #gothic_doom_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1003_24-06-2020_16-02-20.jpg)
+![Eternia: #gothic_doom_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1003_24-06-2020_16-02-20.jpg)
 Eternia: [#gothic_doom_metal](/tags/#gothic_doom_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 **Вічнія** - це Максим &quot;Том&quot; Молодцов із Харкова, котрий до того був басистом в екстрім-метал гуртах, а в 2010 році створив власний проект в напрямку готичного дум-металу. До запису дебютного альбому залучив талановиту вокалістку і двох місцевих досвідчених металюг-ґроулерів, а також звукоінженер допоміг із синтезатором і семплами, серед котрих особливо виділяється скрипка.

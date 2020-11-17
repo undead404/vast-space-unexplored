@@ -4,7 +4,7 @@ layout: post
 tags: [death_metal, Germany, 10s]
 title: "Dawn of Disease: #death_metal #Germany #10s"
 ---
-![Dawn of Disease: #death_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1015_05-07-2020_16-16-39.jpg)
+![Dawn of Disease: #death_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1015_05-07-2020_16-16-39.jpg)
 Dawn of Disease: [#death_metal](/tags/#death_metal) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 **Світанок зарази** - приклад того, що не варто недооцінювати Німеччину в плані дез-металу, адже **D.o.D.** грають СМЕРТЬ МЕТАЛ і співають ПРО СМЕРТЬ, і роблять це дуже брутально і потужно і якісно! А ще оцю красиву обкладинку альбому 2012 року &quot;Крипти негниючих&quot;, із трьома зотлілими тілами святенників, намалював Ремі Кувільє (працював із [Viraemia](/2020-03-02-viraemia--technical-brutal-death-metal-usa-arizona), [Boris the Blade](/2020-06-22-boris-the-blade--deathcore-australia-10s-)).

@@ -4,7 +4,7 @@ layout: post
 tags: [cyber_metal, math_metal, Switzerland, 00s]
 title: "Sybreed: #cyber_metal #math_metal #Switzerland #00s"
 ---
-![Sybreed: #cyber_metal #math_metal #Switzerland #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_858_22-01-2020_11-46-06.jpg)
+![Sybreed: #cyber_metal #math_metal #Switzerland #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_858_22-01-2020_11-46-06.jpg)
 Sybreed: [#cyber_metal](/tags/#cyber_metal) [#math_metal](/tags/#math_metal) [#Switzerland](/tags/#Switzerland) [#00s](/tags/#00s)
 
 Другий альбом **СиПороди** - ще більш чудовий, ніж попередній. Мат-метальний гуркіт товстезних струн на тлі кібер-метальних полотен, вокаліст же навмисно наслідував Ізана з [Emperor](/2019-10-02-emperor--black-metal-symphonic-black-metal-norway). Альбом-моноліт із пісень-бойовиків.

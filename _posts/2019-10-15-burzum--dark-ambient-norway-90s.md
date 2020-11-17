@@ -4,7 +4,7 @@ layout: post
 tags: [dark_ambient, Norway, 90s]
 title: "Burzum: #dark_ambient #Norway #90s"
 ---
-![Burzum: #dark_ambient #Norway #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_769_15-10-2019_09-00-26.jpg)
+![Burzum: #dark_ambient #Norway #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_769_15-10-2019_09-00-26.jpg)
 Burzum: [#dark_ambient](/tags/#dark_ambient) [#Norway](/tags/#Norway) [#90s](/tags/#90s)
 
 Попри моє іронічне ставлення до Луї нині, доданий трек - приклад нестримного прагнення людини створювати музику. У 1994-95 роках Варґ, будучи ув&#39;язненим за убивство (і не тільки), не маючи жодного музичного інструменту, створив альбом &quot;Смерть Бальдра&quot;. Добрі норвезькі вертухаї дозволили йому мати комп&#39;ютер в тюремній камері, за допомогою котрого у технологіях 1994-95 років Варґ і створив цей альбом.

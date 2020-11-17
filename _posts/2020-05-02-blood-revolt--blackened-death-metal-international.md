@@ -4,7 +4,7 @@ layout: post
 tags: [blackened_death_metal, International, Canada, Ireland, 10s]
 title: "Blood Revolt: #blackened_death_metal #International"
 ---
-![Blood Revolt: #blackened_death_metal #International](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_957_02-05-2020_13-13-13.jpg)
+![Blood Revolt: #blackened_death_metal #International](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_957_02-05-2020_13-13-13.jpg)
 Blood Revolt: [#blackened_death_metal](/tags/#blackened_death_metal) [#International](/tags/#International) [#Canada](/tags/#Canada) [#Ireland](/tags/#Ireland) [#10s](/tags/#10s)
 
 __Мистецтво - це повстання, культура - це спротив__

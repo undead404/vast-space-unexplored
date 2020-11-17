@@ -4,7 +4,7 @@ layout: post
 tags: [deathcore, grindcore, USA, Nevada, 00s]
 title: "Molotov Solution: #deathcore #grindcore #USA #Nevada"
 ---
-![Molotov Solution: #deathcore #grindcore #USA #Nevada](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_849_09-01-2020_11-27-53.jpg)
+![Molotov Solution: #deathcore #grindcore #USA #Nevada](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_849_09-01-2020_11-27-53.jpg)
 Molotov Solution: [#deathcore](/tags/#deathcore) [#grindcore](/tags/#grindcore) [#USA](/tags/#USA) [#Nevada](/tags/#Nevada) [#00s](/tags/#00s)
 
 **Вибір Молотова** - розворот політичного курсу СРСР у 1939 році, коли замість оберненого обличчям до Великої Британії Литвинова народним комісаром із закордонних справ стає Молотов, котрий невдовзі підпише з нацистською Німеччиною легендарний &quot;Пакт Молотова-Ріббентроппа&quot;, котрий відкриє шлях до нової світової війни.

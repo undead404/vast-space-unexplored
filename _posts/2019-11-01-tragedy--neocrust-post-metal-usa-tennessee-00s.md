@@ -4,7 +4,7 @@ layout: post
 tags: [neocrust, post_metal, USA, Tennessee, 00s]
 title: "Tragedy: #neocrust #post_metal #USA #Tennessee #00s"
 ---
-![Tragedy: #neocrust #post_metal #USA #Tennessee #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_794_01-11-2019_09-24-08.jpg)
+![Tragedy: #neocrust #post_metal #USA #Tennessee #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_794_01-11-2019_09-24-08.jpg)
 Tragedy: [#neocrust](/tags/#neocrust) [#post_metal](/tags/#post_metal) [#USA](/tags/#USA) [#Tennessee](/tags/#Tennessee) [#00s](/tags/#00s)
 
 **Трагедія** - справжнісінький лівацький панк-гурт, якщо хочете. Анархістського спрямування, якщо точніше. Разом з тим це один з гуртів, що породили неокраст - суміш краст-панку й ді-біту з мелодійним дез-металом і сладжем.

@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Ukraine, Russian, 00s]
 title: "Raventale: #atmospheric_black_metal #Ukraine #Russian"
 ---
-![Raventale: #atmospheric_black_metal #Ukraine #Russian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_883_11-02-2020_18-12-23.jpg)
+![Raventale: #atmospheric_black_metal #Ukraine #Russian](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_883_11-02-2020_18-12-23.jpg)
 Raventale: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#00s](/tags/#00s)
 
 Астарот у західній демонології - один з головних за ієрархією демонів. Астарот в українському металі перш за все автор сольного проекту **Вороноповідь**.

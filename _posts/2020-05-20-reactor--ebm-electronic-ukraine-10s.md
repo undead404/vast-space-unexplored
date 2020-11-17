@@ -4,7 +4,7 @@ layout: post
 tags: [EBM, electronic, Ukraine, 10s, EBM]
 title: "Reactor: #EBM #electronic #Ukraine #10s"
 ---
-![Reactor: #EBM #electronic #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_974_20-05-2020_16-23-37.jpg)
+![Reactor: #EBM #electronic #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_974_20-05-2020_16-23-37.jpg)
 Reactor: [#EBM](/tags/#EBM) [#electronic](/tags/#electronic) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Трапляється, що метал-гурти тимчасово або назовсім переходили в табір електронної музики. Зазвичай не ставлюся до подібних потуг серйозно, хіба що блекери стругають гарні дарк-ембієнт альбоми.

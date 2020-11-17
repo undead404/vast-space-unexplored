@@ -4,7 +4,7 @@ layout: post
 tags: [sludge_metal, USA, Illinois, 00s]
 title: "Lair of the Minotaur: #sludge_metal #USA #Illinois"
 ---
-![Lair of the Minotaur: #sludge_metal #USA #Illinois](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_834_27-12-2019_17-10-57.jpg)
+![Lair of the Minotaur: #sludge_metal #USA #Illinois](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_834_27-12-2019_17-10-57.jpg)
 Lair of the Minotaur: [#sludge_metal](/tags/#sludge_metal) [#USA](/tags/#USA) [#Illinois](/tags/#Illinois) [#00s](/tags/#00s)
 
 **Лігво мінотавра** - стилістично унікальний гурт. Вони примудряються поєднувати трешеву різкість та швидкість із сладжевою тягучістю. Більш конкретно: на сладжевому звукові граються треш-метал рифи, а в ритміці чергуються сладжкор і треш-метал шматки.

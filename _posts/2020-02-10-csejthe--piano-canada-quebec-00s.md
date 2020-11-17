@@ -4,7 +4,7 @@ layout: post
 tags: [piano, Canada, Quebec, 00s]
 title: "Csejthe: #piano #Canada #Quebec #00s"
 ---
-![Csejthe: #piano #Canada #Quebec #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_882_10-02-2020_11-27-25.jpg)
+![Csejthe: #piano #Canada #Quebec #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_882_10-02-2020_11-27-25.jpg)
 Csejthe: [#piano](/tags/#piano) [#Canada](/tags/#Canada) [#Quebec](/tags/#Quebec) [#00s](/tags/#00s)
 
 **Чахтіце** (угорською **Csejte**) - село у сучасній Словаччині, біля котрого знаходився Чахтіцький замок, в котрому Ержебет Баторі калічила, катувала та вбивала юних дівчат для власної втіхи. Згідно матеріалів розслідування (хоча які розслідування, здавалось би, у XVI сторіччі), одна жертва знайдена мертвою в замку і одна при смерті. З політичних причин графиню не засудили до заслуженої смерті (це призвело б до конфіскації її неосяжної нерухомості завбільшки з невелику країну), а замурували у кімнаті у тому ж таки Чахтицькому замку і подавали жрат і пит, поки та не сконала аж через три з половиною роки.

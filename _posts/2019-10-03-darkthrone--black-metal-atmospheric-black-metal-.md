@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, atmospheric_black_metal, Norway, 90s]
 title: "Darkthrone: #black_metal #atmospheric_black_metal "
 ---
-![Darkthrone: #black_metal #atmospheric_black_metal ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_748_03-10-2019_12-12-02.jpg)
+![Darkthrone: #black_metal #atmospheric_black_metal ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_748_03-10-2019_12-12-02.jpg)
 Darkthrone: [#black_metal](/tags/#black_metal) [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Norway](/tags/#Norway) [#90s](/tags/#90s)
 
 Темнотроновий &quot;Трансільванський голод&quot; - одна з ключових для блек-металу платівок, і єдина від Darkthrone, котра мені подобається. Контроверсійна, адже текст для другої половини пісень писав Граф Ґришнак (Burzum), до того ж ранні тиражі містили напис норвезькою &quot;Норвезький арійський чорний метал&quot;, в пізніших варіантах прибраний через скарги дистриб&#39;юторів. Darkthrone поруч із Burzum створили зразок блек-метал гуртів для всього світу: двоє друзів живуть у віддаленому норвезькому селі, рубають дрова, пишуть альбоми, і - жодних концертів (від 1996 року).

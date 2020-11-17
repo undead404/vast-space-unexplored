@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Ukraine, 10s]
 title: "Screaming Forest: #black_metal #Ukraine #10s"
 ---
-![Screaming Forest: #black_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_960_07-05-2020_18-37-42.jpg)
+![Screaming Forest: #black_metal #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_960_07-05-2020_18-37-42.jpg)
 Screaming Forest: [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Так історично склалось, що Донбас породив найбожевільніші блек-метал гурти України. Так, кличка хлопчини на передньому плані - Холокост, а барабанник на тому ж самому фото грає у білій футболці &quot;смерть фашизму&quot;... Окей, **Волаючому лісові** все одно далеко до **Дальше некуда**, про котрих я також одного разу розповім.

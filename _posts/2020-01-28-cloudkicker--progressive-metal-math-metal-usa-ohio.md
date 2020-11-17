@@ -4,7 +4,7 @@ layout: post
 tags: [progressive_metal, math_metal, USA, Ohio, 00s]
 title: "Cloudkicker: #progressive_metal #math_metal #USA #Ohio"
 ---
-![Cloudkicker: #progressive_metal #math_metal #USA #Ohio](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_865_28-01-2020_16-34-35.jpg)
+![Cloudkicker: #progressive_metal #math_metal #USA #Ohio](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_865_28-01-2020_16-34-35.jpg)
 Cloudkicker: [#progressive_metal](/tags/#progressive_metal) [#math_metal](/tags/#math_metal) [#USA](/tags/#USA) [#Ohio](/tags/#Ohio) [#00s](/tags/#00s)
 
 Джент нині немодний. навіть сайту got-djent ком не стало. А на межі нульових і надцятих це був вибуховий тренд.

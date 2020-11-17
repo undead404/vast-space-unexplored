@@ -4,7 +4,7 @@ layout: post
 tags: [porngrind, grindcore, Czechia, 00s]
 title: "Spasm: #porngrind #grindcore #Czechia #00s"
 ---
-![Spasm: #porngrind #grindcore #Czechia #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_824_19-12-2019_10-33-02.jpg)
+![Spasm: #porngrind #grindcore #Czechia #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_824_19-12-2019_10-33-02.jpg)
 Spasm: [#porngrind](/tags/#porngrind) [#grindcore](/tags/#grindcore) [#Czechia](/tags/#Czechia) [#00s](/tags/#00s)
 
 **Спазм** - іще одні довбануті грайндери (привіт, **MatyrBoja**). Серед їх приколів, крім вокаліста в стрінгах, натягнутих на плечі, - всі гітароподібні звуки на їх записах виконує перевантажена бас-гітара.

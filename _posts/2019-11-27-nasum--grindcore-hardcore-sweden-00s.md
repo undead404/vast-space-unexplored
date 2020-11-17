@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, hardcore, Sweden, 00s]
 title: "Nasum: #grindcore #hardcore #Sweden #00s"
 ---
-![Nasum: #grindcore #hardcore #Sweden #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_812_27-11-2019_15-56-45.jpg)
+![Nasum: #grindcore #hardcore #Sweden #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_812_27-11-2019_15-56-45.jpg)
 Nasum: [#grindcore](/tags/#grindcore) [#hardcore](/tags/#hardcore) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s)
 
 2003 року тріо **Назум** випустило дробильно-хардкорний альбом &quot;Пекло&quot;. Пісня &quot;Реліквії&quot; (&quot;Мощі&quot;?) повністю написана гітаристом, скрім-вокалістом і звукачем Мєшком проти релігійного фанатизму.  Альбом &quot;Helvete&quot; став останнім для басиста і гроул-вокаліста Єспера, котрий зосередився на **Burst**, хоча ще пізніше пограв із **Nasum** на прощальних концертах 2012-го. До речі, на &quot;Relics&quot; є на ютубі чудове відео якраз із реюніону, але ми тут не про 2012-й говоримо, а про 2003-й.

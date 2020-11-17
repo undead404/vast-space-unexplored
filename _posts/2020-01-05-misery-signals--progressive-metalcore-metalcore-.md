@@ -4,7 +4,7 @@ layout: post
 tags: [progressive_metalcore, metalcore, international, Canada, USA, Wisconsin, 00s]
 title: "Misery Signals: #progressive_metalcore #metalcore "
 ---
-![Misery Signals: #progressive_metalcore #metalcore ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_845_05-01-2020_12-06-03.jpg)
+![Misery Signals: #progressive_metalcore #metalcore ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_845_05-01-2020_12-06-03.jpg)
 Misery Signals: [#progressive_metalcore](/tags/#progressive_metalcore) [#metalcore](/tags/#metalcore) [#international](/tags/#international) [#Canada](/tags/#Canada) [#USA](/tags/#USA) [#Wisconsin](/tags/#Wisconsin) [#00s](/tags/#00s)
 
 **Сигнали скрути** - металкор-гурт, котрий грає під сильним впливом мат-металу, і якщо ви любите і металкор, і джент, то це музло саме для вас.

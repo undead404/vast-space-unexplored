@@ -4,7 +4,7 @@ layout: post
 tags: [speed_metal, thrash_metal, USA, California, 90s]
 title: "Agent Steel: #speed_metal #thrash_metal #USA #California"
 ---
-![Agent Steel: #speed_metal #thrash_metal #USA #California](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_789_29-10-2019_11-07-24.jpg)
+![Agent Steel: #speed_metal #thrash_metal #USA #California](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_789_29-10-2019_11-07-24.jpg)
 Agent Steel: [#speed_metal](/tags/#speed_metal) [#thrash_metal](/tags/#thrash_metal) [#USA](/tags/#USA) [#California](/tags/#California) [#90s](/tags/#90s)
 
 Альбом **Агента сталі** &quot;Змова Омега&quot; 1999 року - іще один монолітний альбом, котрий варто почути кожному. Музично це сплав треш-металу та спід-металу. Приблизно так: музло по трешу, вокал по спіду (вокал сильно нагадав Катона із **Hirax**).

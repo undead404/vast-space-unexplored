@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Ukraine, Russian, 10s]
 title: "Ygg: #atmospheric_black_metal #Ukraine #Russian #10s"
 ---
-![Ygg: #atmospheric_black_metal #Ukraine #Russian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_991_11-06-2020_11-21-22.jpg)
+![Ygg: #atmospheric_black_metal #Ukraine #Russian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_991_11-06-2020_11-21-22.jpg)
 Ygg: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#10s](/tags/#10s)
 
 Харківський супергурт **Ігг** був створений під патронатом особисто Князя Варґґота ([Nokturnal Mortum](/2019-10-29-nokturnal-mortum--symphonic-black-metal-old-school-black-metal)) та російського неонацистського угруповання &quot;Блискавкородної зали&quot;, аби грати неоязичницький атмосферний блек-метал. У ту пору подібних гуртів на українській сцені не було, найближчими, певне, були **Ulvegr** (обидва учасники яких опинилися серед співзасновників **Ygg**).

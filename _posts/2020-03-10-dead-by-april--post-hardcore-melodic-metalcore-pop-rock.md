@@ -4,7 +4,7 @@ layout: post
 tags: [post_hardcore, melodic_metalcore, pop_rock, Sweden, 00s]
 title: "Dead by April: #post_hardcore #melodic_metalcore #pop_rock"
 ---
-![Dead by April: #post_hardcore #melodic_metalcore #pop_rock](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_916_10-03-2020_12-48-16.jpg)
+![Dead by April: #post_hardcore #melodic_metalcore #pop_rock](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_916_10-03-2020_12-48-16.jpg)
 Dead by April: [#post_hardcore](/tags/#post_hardcore) [#melodic_metalcore](/tags/#melodic_metalcore) [#pop_rock](/tags/#pop_rock) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s)
 
 **Мертві до квітня** - моє guilty pleasure. Тверезо мислячи, вони шведська варіація на тему **Bullet for My Valentine**, тільки гірше, з геть уже тупими піснями про &quot;я тебе любиф, я тебе втратиф&quot;.

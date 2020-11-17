@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, nu_metal, USA, Oregon, 00s]
 title: "36 Crazyfists: #metalcore #nu_metal #USA #Oregon #00s"
 ---
-![36 Crazyfists: #metalcore #nu_metal #USA #Oregon #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_815_09-12-2019_11-48-00.jpg)
+![36 Crazyfists: #metalcore #nu_metal #USA #Oregon #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_815_09-12-2019_11-48-00.jpg)
 36 Crazyfists: [#metalcore](/tags/#metalcore) [#nu_metal](/tags/#nu_metal) [#USA](/tags/#USA) [#Oregon](/tags/#Oregon) [#00s](/tags/#00s)
 
 **36 Шаленокулаків** - приклад стійкості і цілеспрямованості, гурт, котрий перші чотири роки існування провів у рідному Анкориджі на Алясці, після чого переїхав до Орегону, отримав контракт і став катати у турне з мажорними ню-метал і металкор колективами. Альбоми, створені на Алясці в 90-х, містять нудний ню-метал і мені не цікаві, а ось в Портленді почалось щось дивовижне. Пісня &quot;At the End of August&quot;, котрою починається їх альбом 2004 року, досі один з моїх найулюбленіших, найшаленіших, найемоційніших пост-хардкор творів.

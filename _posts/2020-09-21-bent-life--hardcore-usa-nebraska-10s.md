@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore, USA, Nebraska, 10s]
 title: "Bent Life: #hardcore #USA #Nebraska #10s"
 ---
-![Bent Life: #hardcore #USA #Nebraska #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1054_21-09-2020_11-31-23.jpg)
+![Bent Life: #hardcore #USA #Nebraska #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1054_21-09-2020_11-31-23.jpg)
 Bent Life: [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#Nebraska](/tags/#Nebraska) [#10s](/tags/#10s)
 
 Нафіг нам панк-рок із світових столиць? Я хочу панк-рок із якоїсь дупи. Небраска, штат Німеччини нового світу, можна легко вважати дупою США, - це сільськогосподарський штат, де виробляють яловичину, свинину, кукурудзу. Із столиці Небраски, міста Лінкольна, хардкор-гурт **Збочене життя**.

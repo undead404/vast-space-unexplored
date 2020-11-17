@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, black_metal, Ukraine, Ukrainian, 10s]
 title: "Somnia: #atmospheric_black_metal #black_metal #Ukraine"
 ---
-![Somnia: #atmospheric_black_metal #black_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_971_19-05-2020_10-53-36.jpg)
+![Somnia: #atmospheric_black_metal #black_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_971_19-05-2020_10-53-36.jpg)
 Somnia: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) [#10s](/tags/#10s)
 
 Фронтмен та драммер **Сомній** були учасниками одного відомого київського NSBM-колективу. Більше того, саме їх барабанник колись заспівав на єдиному альбомі культового для українських неонацистів RAC-проекту, котрий я також не називатиму. Коротше, у 2009 році основний гурт Павла й Віталія гуфнувся, і вони зібрали **Сомнії** - дієвий як творчо, так і концертно, квартет.

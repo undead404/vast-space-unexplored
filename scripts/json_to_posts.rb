@@ -16,7 +16,7 @@ end
 
 def extract_photo_url(message)
   unless message['photo'].nil?
-    return "https://res.cloudinary.com/vast-space-unexplored/image/upload/#{message['photo'].gsub('@', '_')}"
+    return "https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/#{message['photo'].gsub('@', '_')}"
   end
   return nil if message['text'].is_a? String
 

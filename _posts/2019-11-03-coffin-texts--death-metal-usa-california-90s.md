@@ -4,7 +4,7 @@ layout: post
 tags: [death_metal, USA, California, 90s]
 title: "Coffin Texts: #death_metal #USA #California #90s"
 ---
-![Coffin Texts: #death_metal #USA #California #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_797_03-11-2019_10-01-32.jpg)
+![Coffin Texts: #death_metal #USA #California #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_797_03-11-2019_10-01-32.jpg)
 Coffin Texts: [#death_metal](/tags/#death_metal) [#USA](/tags/#USA) [#California](/tags/#California) [#90s](/tags/#90s)
 
 **Тексти саркофагів** - ранні послідовники **Nile**, гурт каліфорнійських чиканос, котрий співає про єгипетську мітологію. Пісня &quot;Ефірне закляття&quot; - від імені покійного жителя гробниці, котрий звертається до Озіріса з проханням захистити від грабіжників.

@@ -4,7 +4,7 @@ layout: post
 tags: [death_doom_metal, United_Kingdom, England, 10s, funeral_doom_metal]
 title: "Esoteric: #death_doom_metal #United_Kingdom #England"
 ---
-![Esoteric: #death_doom_metal #United_Kingdom #England](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1002_23-06-2020_19-04-56.jpg)
+![Esoteric: #death_doom_metal #United_Kingdom #England](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1002_23-06-2020_19-04-56.jpg)
 Esoteric: [#death_doom_metal](/tags/#death_doom_metal) [#United_Kingdom](/tags/#United_Kingdom) [#England](/tags/#England) [#10s](/tags/#10s)
 
 **Таємниче** - англійський гурт, котрий вважається родоначальником напряму [#funeral_doom_metal](/tags/#funeral_doom_metal), адже грають аж із 1992 року. Причому вони серед тих, кого постійно згадують то там, то сям, але я досі не чув. І ось сталося.

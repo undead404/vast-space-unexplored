@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore, USA, Pennsylvania, 00s]
 title: "Reign Supreme: #hardcore #USA #Pennsylvania #00s"
 ---
-![Reign Supreme: #hardcore #USA #Pennsylvania #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_862_27-01-2020_11-04-49.jpg)
+![Reign Supreme: #hardcore #USA #Pennsylvania #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_862_27-01-2020_11-04-49.jpg)
 Reign Supreme: [#hardcore](/tags/#hardcore) [#USA](/tags/#USA) [#Pennsylvania](/tags/#Pennsylvania) [#00s](/tags/#00s)
 
 **Панування** - гурт, котрий в сучасному хардкорі поєднував в найкращій формі те, що я в ньому найбльше люблю: надрив і кулеметність. Так, я говорю про сучасний металізований хардкор. Джей Пепіто був гітаристом іншого чудового гурту **Blacklisted** (менш кулеметного), замість якого зібрав **Reign Supreme**, названих на честь альбому **Dying Fetus**.

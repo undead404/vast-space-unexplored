@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, Australia, 10s]
 title: "Feed Her to the Sharks: #metalcore #Australia #10s"
 ---
-![Feed Her to the Sharks: #metalcore #Australia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1048_09-09-2020_00-12-14.jpg)
+![Feed Her to the Sharks: #metalcore #Australia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1048_09-09-2020_00-12-14.jpg)
 Feed Her to the Sharks: [#metalcore](/tags/#metalcore) [#Australia](/tags/#Australia) [#10s](/tags/#10s)
 
 З другим альбомом [Згодуй її акулам](/2020-04-18-feed-her-to-the-sharks--metalcore-australia-10s) продовжили проїдати гроші саморелізуванням, але цього разу вже менш зубато, уже більше по схемі &quot;брутальний куплет - ніжний приспів&quot;.

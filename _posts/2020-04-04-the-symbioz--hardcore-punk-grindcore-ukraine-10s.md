@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore_punk, grindcore, Ukraine, 10s]
 title: "The Symbioz: #hardcore_punk #grindcore #Ukraine #10s"
 ---
-![The Symbioz: #hardcore_punk #grindcore #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_934_04-04-2020_16-11-44.jpg)
+![The Symbioz: #hardcore_punk #grindcore #Ukraine #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_934_04-04-2020_16-11-44.jpg)
 The Symbioz: [#hardcore_punk](/tags/#hardcore_punk) [#grindcore](/tags/#grindcore) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 [Симбіоз](/2020-01-29-the-symbioz--hardcore-punk-dark-hardcore-hardcore), попри свою міцну славу, грають вельми специфічну музику. Якась нероздільна еклектична суміш хардкору, грайнду, красту, і це все з розбірливим вокалом, котрий виконує тексти, не позбавлені творчої цінності.

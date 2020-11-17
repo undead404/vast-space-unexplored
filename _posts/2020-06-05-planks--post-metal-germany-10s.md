@@ -4,7 +4,7 @@ layout: post
 tags: [post_metal, Germany, 10s]
 title: "Planks: #post_metal #Germany #10s"
 ---
-![Planks: #post_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_985_05-06-2020_12-59-56.jpg)
+![Planks: #post_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_985_05-06-2020_12-59-56.jpg)
 Planks: [#post_metal](/tags/#post_metal) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 Наступним після [альбому &quot;Найтемніший серед сірих](/2020-05-17-planks--post-metal-sludge-metal-germany-10s-)&quot; релізом **Дошок** став міні-альбом &quot;Благання про падіння&quot; 2011 року, виданий на вінілі.

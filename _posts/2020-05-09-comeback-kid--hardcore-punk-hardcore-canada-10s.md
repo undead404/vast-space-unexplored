@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore_punk, hardcore, Canada, 10s]
 title: "Comeback Kid: #hardcore_punk #hardcore #Canada #10s"
 ---
-![Comeback Kid: #hardcore_punk #hardcore #Canada #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_963_09-05-2020_20-15-57.jpg)
+![Comeback Kid: #hardcore_punk #hardcore #Canada #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_963_09-05-2020_20-15-57.jpg)
 Comeback Kid: [#hardcore_punk](/tags/#hardcore_punk) [#hardcore](/tags/#hardcore) [#Canada](/tags/#Canada) [#10s](/tags/#10s)
 
 **Повертай-хлопчик** - іще один гурт, зі ставленням до котрого я все не можу визначитись. Панк-орієнтований мелодійний хардкор - явно не моя музика. Однак **CbK** змогли причарувати.

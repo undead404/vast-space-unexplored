@@ -4,7 +4,7 @@ layout: post
 tags: [doom_metal, atmospheric_doom_metal, Ukraine, 00s]
 title: "Raventale: #doom_metal #atmospheric_doom_metal #Ukraine"
 ---
-![Raventale: #doom_metal #atmospheric_doom_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_926_26-03-2020_17-06-20.jpg)
+![Raventale: #doom_metal #atmospheric_doom_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_926_26-03-2020_17-06-20.jpg)
 Raventale: [#doom_metal](/tags/#doom_metal) [#atmospheric_doom_metal](/tags/#atmospheric_doom_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 Після [двох альбомів](/2020-02-11-raventale--atmospheric-black-metal-ukraine-russian) **Вороносказ** відмовився від російської мови на користь англійської. До речі, в інтерв&#39;ю 2009 року Астарот згадує, що сам він по духу блекер, і саме блек-метал для нього - найважливіша музика.

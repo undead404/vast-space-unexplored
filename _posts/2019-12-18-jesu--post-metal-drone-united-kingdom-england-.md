@@ -4,7 +4,7 @@ layout: post
 tags: [post_metal, drone, United_Kingdom, England, 00s]
 title: "Jesu: #post_metal #drone #United_Kingdom #England "
 ---
-![Jesu: #post_metal #drone #United_Kingdom #England ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_820_18-12-2019_00-37-09.jpg)
+![Jesu: #post_metal #drone #United_Kingdom #England ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_820_18-12-2019_00-37-09.jpg)
 Jesu: [#post_metal](/tags/#post_metal) [#drone](/tags/#drone) [#United_Kingdom](/tags/#United_Kingdom) [#England](/tags/#England) [#00s](/tags/#00s)
 
 **Ісу** - комбінація сладжево-індастріельно-построкових мелодій та монотонних бітів. Цей проект народився в Джастіна Карла Майкла Бродріка, коли його новаторському гуртові **Godflesh** наставав гаплик, і з&#39;являлись менш брутальні музичні чорновики, експерименти з ембієнтом, шуґейзом. **Jesu** відкрився світові у 2004 році спершу мініальбомом &quot;Біль у серці&quot;, на котрому Джастін зіграв, заспівав та запрограмував усе.

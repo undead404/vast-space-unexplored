@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, France, 00s]
 title: "Deathspell Omega: #black_metal #France #00s"
 ---
-![Deathspell Omega: #black_metal #France #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_872_03-02-2020_15-46-31.jpg)
+![Deathspell Omega: #black_metal #France #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_872_03-02-2020_15-46-31.jpg)
 Deathspell Omega: [#black_metal](/tags/#black_metal) [#France](/tags/#France) [#00s](/tags/#00s)
 
 Знаєте, не люблю я прог-блек. Не люблю, коли змішують кристалізовану злобу із якимсь піліканням. І **DSO** я люблю [тієї епохи](/2019-11-04-deathspell-omega--black-metal-raw-black-metal-france), коли їх співаком був Шазул. 2008 року **Deathspell Omega** перевидали деякий рідкісний матеріал на двох CD-збірках.

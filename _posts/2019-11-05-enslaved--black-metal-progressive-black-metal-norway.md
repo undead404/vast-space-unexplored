@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, progressive_black_metal, Norway, 00s]
 title: "Enslaved: #black_metal #progressive_black_metal #Norway"
 ---
-![Enslaved: #black_metal #progressive_black_metal #Norway](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_800_05-11-2019_17-49-40.jpg)
+![Enslaved: #black_metal #progressive_black_metal #Norway](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_800_05-11-2019_17-49-40.jpg)
 Enslaved: [#black_metal](/tags/#black_metal) [#progressive_black_metal](/tags/#progressive_black_metal) [#Norway](/tags/#Norway) [#00s](/tags/#00s)
 
 На фото зліва направо: вокаліст-басист Ґрутле, барабанник Дірґе Реп, гітарист Рой, гітарист-клавішник Івар.

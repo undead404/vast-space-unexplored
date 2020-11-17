@@ -4,7 +4,7 @@ layout: post
 tags: [ambient_black_metal, symphonic_black_metal, USA, California, 10s]
 title: "Mare Cognitum: #ambient_black_metal #symphonic_black_metal"
 ---
-![Mare Cognitum: #ambient_black_metal #symphonic_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_994_14-06-2020_18-56-17.jpg)
+![Mare Cognitum: #ambient_black_metal #symphonic_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_994_14-06-2020_18-56-17.jpg)
 Mare Cognitum: [#ambient_black_metal](/tags/#ambient_black_metal) [#symphonic_black_metal](/tags/#symphonic_black_metal) [#USA](/tags/#USA) [#California](/tags/#California) [#10s](/tags/#10s)
 
 Космічний блек-метал нині - окрема тенденція, в котрій зазвичай в першу чергу виділяють **Darkspace**, я фанатію від **Battle Dagorath**, і поруч з іншими активно творить американець Яків Бучарський із своїм проектом **Море Пізнане**.

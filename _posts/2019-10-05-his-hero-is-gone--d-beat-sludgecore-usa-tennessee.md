@@ -4,7 +4,7 @@ layout: post
 tags: [d_beat, sludgecore, USA, Tennessee, 90s]
 title: "His Hero Is Gone: #d_beat #sludgecore #USA #Tennessee"
 ---
-![His Hero Is Gone: #d_beat #sludgecore #USA #Tennessee](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_753_05-10-2019_10-20-27.jpg)
+![His Hero Is Gone: #d_beat #sludgecore #USA #Tennessee](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_753_05-10-2019_10-20-27.jpg)
 His Hero Is Gone: [#d_beat](/tags/#d_beat) [#sludgecore](/tags/#sludgecore) [#USA](/tags/#USA) [#Tennessee](/tags/#Tennessee) [#90s](/tags/#90s)
 
 Так уже склалось історично, що про метал я знаю куди більше, ніж про панк. А &quot;Його герой пішов геть&quot;, попри явний вплив на звук пізніших метал-гуртів, - все-таки панки.

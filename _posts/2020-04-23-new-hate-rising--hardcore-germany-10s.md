@@ -4,7 +4,7 @@ layout: post
 tags: [hardcore, Germany, 10s]
 title: "New Hate Rising: #hardcore #Germany #10s"
 ---
-![New Hate Rising: #hardcore #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_946_23-04-2020_15-33-19.jpg)
+![New Hate Rising: #hardcore #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_946_23-04-2020_15-33-19.jpg)
 New Hate Rising: [#hardcore](/tags/#hardcore) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 **Постання нової ненависті** - хардкор-гурт із німецького Штендаля, що в колишній НДР. Східна Німеччина куди менш економічно розвинена, ніж західна, і це чудовий ґрунт для появи максимально негативних хардкор-гуртів, одним з яких і є **NHR**. Вони настільки паляться, що альбом зветься &quot;Hatebreed&quot;, хоч по звуку німці куди ближче до **Terror** або навіть чогось власного німецького, попри англомовність.

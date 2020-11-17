@@ -4,7 +4,7 @@ layout: post
 tags: [death_metal, Germany, German, 00s]
 title: "Scythe: #death_metal #Germany #German #00s"
 ---
-![Scythe: #death_metal #Germany #German #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_806_16-11-2019_22-55-25.jpg)
+![Scythe: #death_metal #Germany #German #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_806_16-11-2019_22-55-25.jpg)
 Scythe: [#death_metal](/tags/#death_metal) [#Germany](/tags/#Germany) [#German](/tags/#German) [#00s](/tags/#00s)
 
 **Коса** - німецькомовний дез-метал. Такий рідко почуєш, хоча, можливо, серед підписників є шанувальники **Debauchery**?

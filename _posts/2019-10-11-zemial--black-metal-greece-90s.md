@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Greece, 90s]
 title: "Zemial: #black_metal #Greece #90s"
 ---
-![Zemial: #black_metal #Greece #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_762_11-10-2019_10-56-18.jpg)
+![Zemial: #black_metal #Greece #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_762_11-10-2019_10-56-18.jpg)
 Zemial: [#black_metal](/tags/#black_metal) [#Greece](/tags/#Greece) [#90s](/tags/#90s)
 
 Якраз та ситуація, коли випущений у 1996 альбом просто ні в тин ні в ворота, а демо 1997-го - мастерпіц!

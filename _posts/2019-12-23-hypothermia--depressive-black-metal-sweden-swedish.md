@@ -4,7 +4,7 @@ layout: post
 tags: [depressive_black_metal, Sweden, Swedish, 00s]
 title: "Hypothermia: #depressive_black_metal #Sweden #Swedish"
 ---
-![Hypothermia: #depressive_black_metal #Sweden #Swedish](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_828_23-12-2019_10-41-48.jpg)
+![Hypothermia: #depressive_black_metal #Sweden #Swedish](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_828_23-12-2019_10-41-48.jpg)
 Hypothermia: [#depressive_black_metal](/tags/#depressive_black_metal) [#Sweden](/tags/#Sweden) [#Swedish](/tags/#Swedish) [#00s](/tags/#00s)
 
 **Переохолодження** - [нещодавно згадуваний](/2019-12-21-hypothermia--depressive-black-metal-sweden-00s-) шведський саморуйнівний дует, але тоді я додавав пісню із інструментального демо; цього разу &quot;Страждай&quot;, пісня із спліт-альбому з **Durthang**, містить вокал Кіма. Однак це досі репетиційний звук. І - шалені воплі під скрегіт блек-метал гітари і розріджений монотонний біт.

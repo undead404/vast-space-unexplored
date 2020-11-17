@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, symphonic_black_metal, Norway, Norwegian, 90s, viking_metal]
 title: "Enslaved: #black_metal #symphonic_black_metal #Norway"
 ---
-![Enslaved: #black_metal #symphonic_black_metal #Norway](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_743_02-10-2019_11-27-58.jpg)
+![Enslaved: #black_metal #symphonic_black_metal #Norway](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_743_02-10-2019_11-27-58.jpg)
 Enslaved: [#black_metal](/tags/#black_metal) [#symphonic_black_metal](/tags/#symphonic_black_metal) [#Norway](/tags/#Norway) [#Norwegian](/tags/#Norwegian) [#90s](/tags/#90s)
 
 Enslaved (&quot;Уярмлені&quot;) - братній Emperor  колектив, котрий замість пекельної сотони пішов геть іншим творчим шляхом і не загнувся на початку нульових. &quot;Уярмлені&quot; в тюрмах не сиділи, але регулярно в інтерв&#39;ю виправдовують спалення церков.

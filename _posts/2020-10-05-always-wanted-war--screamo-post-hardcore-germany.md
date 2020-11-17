@@ -4,7 +4,7 @@ layout: post
 tags: [screamo, post_hardcore, Germany, 10s]
 title: "Always Wanted War: #screamo #post_hardcore #Germany"
 ---
-![Always Wanted War: #screamo #post_hardcore #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1063_05-10-2020_10-59-18.jpg)
+![Always Wanted War: #screamo #post_hardcore #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1063_05-10-2020_10-59-18.jpg)
 Always Wanted War: [#screamo](/tags/#screamo) [#post_hardcore](/tags/#post_hardcore) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 2013 року тріо панк-металхедів [Постійно бажаючі війни](/2020-04-10-always-wanted-war--screamo-post-hardcore-germany) випустило мініальбом &quot;Крем&quot;. На одну з його пісень зробили відео. Пам&#39;ятаєте відео powerviolence гурту **Henry Fonda**, де хлопці дуркують на дитячому майданчику на тлі символіки курдів-ліваків? Схоже, це загальнонімецький інтерес до єбобо-відео. Можете пошукати окремо: &quot;Always Wanted War - Derry&quot;.

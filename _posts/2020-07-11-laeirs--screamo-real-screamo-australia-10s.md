@@ -4,7 +4,7 @@ layout: post
 tags: [screamo, real_screamo, Australia, 10s]
 title: "Laeirs: #screamo #real_screamo #Australia #10s"
 ---
-![Laeirs: #screamo #real_screamo #Australia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1021_11-07-2020_16-56-45.jpg)
+![Laeirs: #screamo #real_screamo #Australia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1021_11-07-2020_16-56-45.jpg)
 Laeirs: [#screamo](/tags/#screamo) [#real_screamo](/tags/#real_screamo) [#Australia](/tags/#Australia) [#10s](/tags/#10s)
 
 Назва цього австралійського колектива перекладається з валлійської приблизно як &quot;денне світло&quot;. Дуже важко знайти інфу про них, хоча чомусь я вважав, що це широковідомий колектив.

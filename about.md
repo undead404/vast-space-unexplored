@@ -9,7 +9,7 @@ title: Про цей сайт
 
 ### Що таке Непізнаний простір?
 
-![Непізнаний простір](https://res.cloudinary.com/vast-space-unexplored/image/upload/v1605605222/photo5204221884588207887.jpg)
+![Непізнаний простір](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photo5204221884588207887.jpg)
 Восени 2019 року я, надихнувшись прикладом україномовного каналу [Why So Heavy?](https://t.me/why_so_heavy) про метал та інше гадське музло, почав вести власний телеграм-блог про музику, котру люблю. Справа в тім, що подібну інформацію мій ум генерує сам по собі, залишається тільки попрацювати над клавіатурою пальцями, додати картинку, посилання, і - готово.
 
 ### Хто автор?
@@ -35,7 +35,7 @@ title: Про цей сайт
 
 ### А сам ти музику граєш?
 
-![Necrophag](https://res.cloudinary.com/vast-space-unexplored/image/upload/c_scale,w_1024/v1605610777/01162.jpg)
+![Necrophag](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/c_scale,w_1024/v1605610777/01162.jpg)
 Я драммер [спід](/tags/#speed_metal)/[треш](/tags/#thrash_metal) метал гурту [Necrophag](https://www.facebook.com/Necrophag666/). Перед тим був барабанником і творчим керівником колектива [ellan](https://ellanband.bandcamp.com), де ми грали щось типу [пост-року](/tags/#post_rock) зі [скрипочкою](/tags/#violin) - за посиланням є дві записані нами стежини, запрошую послухати. Ще згадаймо [альтрок](/tags/#alternative_rock)/[альтметал](/tags/#alternative_metal) банду **Шум останнього вітру**, з котрими я на вокалі записав [оцю російськомовну пісню](https://shov-vn.bandcamp.com/track/--2).
 
 ### На чому сайт написаний?

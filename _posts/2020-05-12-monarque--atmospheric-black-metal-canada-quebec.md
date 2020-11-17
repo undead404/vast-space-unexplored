@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, Canada, Quebec, 10s]
 title: "Monarque: #atmospheric_black_metal #Canada #Quebec"
 ---
-![Monarque: #atmospheric_black_metal #Canada #Quebec](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_965_12-05-2020_12-25-25.jpg)
+![Monarque: #atmospheric_black_metal #Canada #Quebec](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_965_12-05-2020_12-25-25.jpg)
 Monarque: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Canada](/tags/#Canada) [#Quebec](/tags/#Quebec) [#10s](/tags/#10s)
 
 **Монарх** музично і географічно - представник атмосферно-блекової франкомовної сцени Квебеку, от тільки замість історії своєї заокеанської вітчизни **Монаркю** співає про зло та сотону. Цей видатний франкоканадський анонім обрав шлях ван-мен бенду, щоб уникнути конфліктів та повністю віддатись творчості. Втім, з 2008 в його гурті з&#39;явився постійний барабанник. Щоправда, додана пісня зі спліту з **Neige et Noirceur** - схоже, більш давня, і створена автором іще самотужки. Невдовзі з&#39;явився колектив підтримки для концертів, а з 2015 з&#39;явиться повноцінний склад, не тільки концертний, а і творчий.

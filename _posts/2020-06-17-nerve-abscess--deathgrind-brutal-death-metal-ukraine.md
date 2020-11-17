@@ -4,7 +4,7 @@ layout: post
 tags: [deathgrind, brutal_death_metal, Ukraine, 10s]
 title: "Nerve Abscess: #deathgrind #brutal_death_metal #Ukraine"
 ---
-![Nerve Abscess: #deathgrind #brutal_death_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_997_17-06-2020_11-58-44.jpg)
+![Nerve Abscess: #deathgrind #brutal_death_metal #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_997_17-06-2020_11-58-44.jpg)
 Nerve Abscess: [#deathgrind](/tags/#deathgrind) [#brutal_death_metal](/tags/#brutal_death_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Нервовий абсцес - інфекційне зараження нервових тканин. Окремо виділяють абсцес мозку. Коли якась зараза потрапляє в мозок, то для порятунку хворого у більшості випадків необхідне хірургічне втручання.

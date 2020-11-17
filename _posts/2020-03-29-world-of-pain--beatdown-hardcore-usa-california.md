@@ -4,7 +4,7 @@ layout: post
 tags: [beatdown_hardcore, USA, California, 10s]
 title: "World of Pain: #beatdown_hardcore #USA #California"
 ---
-![World of Pain: #beatdown_hardcore #USA #California](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_929_29-03-2020_10-46-40.jpg)
+![World of Pain: #beatdown_hardcore #USA #California](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_929_29-03-2020_10-46-40.jpg)
 World of Pain: [#beatdown_hardcore](/tags/#beatdown_hardcore) [#USA](/tags/#USA) [#California](/tags/#California) [#10s](/tags/#10s)
 
 **Світ болю** - бідон-гурт із Каліфорнії, точніше, із Сан-Дієго. Зграя зелених хлопців, котрі хотіли повертали звук у хардкор.

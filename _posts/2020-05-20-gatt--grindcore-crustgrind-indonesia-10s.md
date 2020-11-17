@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, crustgrind, Indonesia, 10s]
 title: "GATT: #grindcore #crustgrind #Indonesia #10s"
 ---
-![GATT: #grindcore #crustgrind #Indonesia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_973_20-05-2020_12-11-08.jpg)
+![GATT: #grindcore #crustgrind #Indonesia #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_973_20-05-2020_12-11-08.jpg)
 GATT: [#grindcore](/tags/#grindcore) [#crustgrind](/tags/#crustgrind) [#Indonesia](/tags/#Indonesia) [#10s](/tags/#10s)
 
 GATT - генеральна угода з тарифів та торгівлі, всесвітня угода, укладена в 1947 році в Женеві; 1995 року переросла у Світову організацію торгівлі. Заявлена як інструмент досягнення рівних умов у торгівлі, зменшення мит, усунення квот імпорту, насправді ж це інструмент диктату з боку економічно розвинених країн. Напевне, саме тому індонезійський грайндкор гурт узяв назву **GATT**.

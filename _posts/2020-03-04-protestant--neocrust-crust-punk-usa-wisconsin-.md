@@ -4,7 +4,7 @@ layout: post
 tags: [neocrust, crust_punk, USA, Wisconsin, 00s]
 title: "Protestant: #neocrust #crust_punk #USA #Wisconsin "
 ---
-![Protestant: #neocrust #crust_punk #USA #Wisconsin ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_911_04-03-2020_11-54-32.jpg)
+![Protestant: #neocrust #crust_punk #USA #Wisconsin ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_911_04-03-2020_11-54-32.jpg)
 Protestant: [#neocrust](/tags/#neocrust) [#crust_punk](/tags/#crust_punk) [#USA](/tags/#USA) [#Wisconsin](/tags/#Wisconsin) [#00s](/tags/#00s)
 
 Якось від одного з читачів я отримав такий відгук: &quot;я все це вже чув&quot;. Ну, сподіваюсь, хоча б про **Протестуючого** ви не чули; час спробувати. Це музика того ж типу, що **Tragedy**, **Fall of Efrafa**, в пізній період **Downfall of Gaia** - &quot;емокраст&quot;. А іще тут співав і грав на гітарі власник лейблу **_Halo of Flies_**, що спеціалізується на випуску гадської металпанк музики, - Корі фон Болен, брат Дейві фон Болена, одного з корифеїв midwest emo.

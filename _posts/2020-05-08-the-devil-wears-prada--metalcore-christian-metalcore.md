@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, christian_metalcore, USA, Ohio, 10s]
 title: "The Devil Wears Prada: #metalcore #christian_metalcore"
 ---
-![The Devil Wears Prada: #metalcore #christian_metalcore](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_961_08-05-2020_16-46-46.jpg)
+![The Devil Wears Prada: #metalcore #christian_metalcore](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_961_08-05-2020_16-46-46.jpg)
 The Devil Wears Prada: [#metalcore](/tags/#metalcore) [#christian_metalcore](/tags/#christian_metalcore) [#USA](/tags/#USA) [#Ohio](/tags/#Ohio) [#10s](/tags/#10s)
 
 **Диявол носить Прада** - це такий підступний колектив, що коли здається, що геть набридли, - я знаходжу ще нові захопливі пісні, і так по колу.

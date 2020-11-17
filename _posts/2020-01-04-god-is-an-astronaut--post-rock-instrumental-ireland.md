@@ -4,7 +4,7 @@ layout: post
 tags: [post_rock, instrumental, Ireland, 00s]
 title: "God Is an Astronaut: #post_rock #instrumental #Ireland"
 ---
-![God Is an Astronaut: #post_rock #instrumental #Ireland](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_844_04-01-2020_14-41-53.jpg)
+![God Is an Astronaut: #post_rock #instrumental #Ireland](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_844_04-01-2020_14-41-53.jpg)
 God Is an Astronaut: [#post_rock](/tags/#post_rock) [#instrumental](/tags/#instrumental) [#Ireland](/tags/#Ireland) [#00s](/tags/#00s)
 
 **Бог то астронавт** - напевне, найяскравіший вклад Ірландії в світову музику. Саме через них автор цих рядків пізнав пост-рок - мистецтво за допомогою художніх засобів року створювати звучання, котре виходить за межі рок-музики, натомість банального дж-дж-дж показує електрогітару та живу ритм-секцію як дещо відмінне як від року, так і від попу.

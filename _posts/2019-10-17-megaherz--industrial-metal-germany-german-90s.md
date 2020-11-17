@@ -4,7 +4,7 @@ layout: post
 tags: [industrial_metal, Germany, German, 90s]
 title: "Megaherz: #industrial_metal #Germany #German #90s"
 ---
-![Megaherz: #industrial_metal #Germany #German #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_772_17-10-2019_10-21-45.jpg)
+![Megaherz: #industrial_metal #Germany #German #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_772_17-10-2019_10-21-45.jpg)
 Megaherz: [#industrial_metal](/tags/#industrial_metal) [#Germany](/tags/#Germany) [#German](/tags/#German) [#90s](/tags/#90s)
 
 Не лякайтесь, що в назві треку написано &quot;клубний мікс&quot;: там звична для Мегасерця &quot;нова німецька жесть&quot;.

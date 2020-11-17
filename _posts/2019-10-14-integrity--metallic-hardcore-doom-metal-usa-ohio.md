@@ -4,7 +4,7 @@ layout: post
 tags: [metallic_hardcore, doom_metal, USA, Ohio, 90s]
 title: "Integrity: #metallic_hardcore #doom_metal #USA #Ohio"
 ---
-![Integrity: #metallic_hardcore #doom_metal #USA #Ohio](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_766_14-10-2019_12-57-54.jpg)
+![Integrity: #metallic_hardcore #doom_metal #USA #Ohio](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_766_14-10-2019_12-57-54.jpg)
 Integrity: [#metallic_hardcore](/tags/#metallic_hardcore) [#doom_metal](/tags/#doom_metal) [#USA](/tags/#USA) [#Ohio](/tags/#Ohio) [#90s](/tags/#90s)
 
 Окей, першим металкор-гуртом у сучасному розумінні стали Shadows Fall у 1997-му (тоді у них вийшов дебютний альбом із суміші МДМ і металізованого хардкору, котру тепер звуть саме так). Однак ще до них були Integrity - батьки-засновники, на котрих орієнтувались в т.ч. Hatebreed свого часу.

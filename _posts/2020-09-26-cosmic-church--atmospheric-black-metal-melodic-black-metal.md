@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, melodic_black_metal, Finland, 10s]
 title: "Cosmic Church: #atmospheric_black_metal #melodic_black_metal"
 ---
-![Cosmic Church: #atmospheric_black_metal #melodic_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1057_26-09-2020_14-46-30.jpg)
+![Cosmic Church: #atmospheric_black_metal #melodic_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1057_26-09-2020_14-46-30.jpg)
 Cosmic Church: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#melodic_black_metal](/tags/#melodic_black_metal) [#Finland](/tags/#Finland) [#10s](/tags/#10s)
 
 2013 року автор [Космічної церкви](/2020-08-09-cosmic-church--atmospheric-black-metal-finland-finnish), суперпродуктивний уродженець Тампере Люксізул Самерінґ Отер, підготував другий альбом, залишившись майже на самоті, - тільки один колега допоміг з партіями соло-гітари та чистого вокалу.

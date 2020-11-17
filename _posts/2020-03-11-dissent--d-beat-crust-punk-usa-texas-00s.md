@@ -4,7 +4,7 @@ layout: post
 tags: [d_beat, crust_punk, USA, Texas, 00s]
 title: "Dissent: #d_beat #crust_punk #USA #Texas #00s"
 ---
-![Dissent: #d_beat #crust_punk #USA #Texas #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_918_11-03-2020_11-21-46.jpg)
+![Dissent: #d_beat #crust_punk #USA #Texas #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_918_11-03-2020_11-21-46.jpg)
 Dissent: [#d_beat](/tags/#d_beat) [#crust_punk](/tags/#crust_punk) [#USA](/tags/#USA) [#Texas](/tags/#Texas) [#00s](/tags/#00s)
 
 Напевне, уже із самої назви ясно, що **Незгода** грали краст. У 2014 році їх не стало. Зате **Dissent** стали стартом для людей, котрі в подальшому доклались до розвитку інших чудових техаських метал-гуртів: **War Master**, **Versklaven**, **Cryptic Void**. Власне, через **War Master** я **Діссент** і знайшов.

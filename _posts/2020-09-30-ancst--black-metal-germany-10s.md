@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Germany, 10s]
 title: "Ancst: #black_metal #Germany #10s"
 ---
-![Ancst: #black_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1059_30-09-2020_22-56-24.jpg)
+![Ancst: #black_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1059_30-09-2020_22-56-24.jpg)
 Ancst: [#black_metal](/tags/#black_metal) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 Творчий союз берлінських турбоантифа-анархістів Тома Шмідта (вокаліста [Henry Fonda](/2020-09-23-henry-fonda--dark-hardcore-germany-10s)) та Торстена Беллафонте спочатку звався **Angst**, однак після випуску демо назву поправили до **Ancst** для унікальності (справді, так сильно легше гуглити), значення ж не змінилось: з німецької - &quot;страх&quot;.

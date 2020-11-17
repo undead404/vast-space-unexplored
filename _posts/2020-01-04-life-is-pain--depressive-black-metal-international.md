@@ -4,7 +4,7 @@ layout: post
 tags: [depressive_black_metal, International, Sweden, Czechia, 00s]
 title: "Life Is Pain: #depressive_black_metal #International"
 ---
-![Life Is Pain: #depressive_black_metal #International](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_843_04-01-2020_08-49-07.jpg)
+![Life Is Pain: #depressive_black_metal #International](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_843_04-01-2020_08-49-07.jpg)
 Life Is Pain: [#depressive_black_metal](/tags/#depressive_black_metal) [#International](/tags/#International) [#Sweden](/tags/#Sweden) [#Czechia](/tags/#Czechia) [#00s](/tags/#00s)
 
 **Життя то біль** - творче об&#39;єднання двох культових діячів саморуйнівного жанру - Яна &quot;Тужливого&quot; із Чехії, відомого за однойменним проектом **Trist** (усі інструменти, музика, слова) та Кіма Карлссона із Швеції, автора [Hypothermia](/2019-12-23-hypothermia--depressive-black-metal-sweden-swedish) (воплі). Пишуть, Ян написав слова для **LIP**, перебуваючи в психіатричній лікарні, хоча хто в DSBM не поширював такі байки.

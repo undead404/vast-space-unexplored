@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, hardcore_punk, Sweden, 00s]
 title: "Nasum: #grindcore #hardcore_punk #Sweden #00s"
 ---
-![Nasum: #grindcore #hardcore_punk #Sweden #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_808_19-11-2019_11-57-33.jpg)
+![Nasum: #grindcore #hardcore_punk #Sweden #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_808_19-11-2019_11-57-33.jpg)
 Nasum: [#grindcore](/tags/#grindcore) [#hardcore_punk](/tags/#hardcore_punk) [#Sweden](/tags/#Sweden) [#00s](/tags/#00s)
 
 Цього разу знайшов нормальне фото **Назум** складу тих років. Зліва направо.

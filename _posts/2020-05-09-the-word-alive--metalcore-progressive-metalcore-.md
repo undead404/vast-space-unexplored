@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, progressive_metalcore, USA, Arizona, 10s]
 title: "The Word Alive: #metalcore #progressive_metalcore "
 ---
-![The Word Alive: #metalcore #progressive_metalcore ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_962_09-05-2020_16-57-33.jpg)
+![The Word Alive: #metalcore #progressive_metalcore ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_962_09-05-2020_16-57-33.jpg)
 The Word Alive: [#metalcore](/tags/#metalcore) [#progressive_metalcore](/tags/#progressive_metalcore) [#USA](/tags/#USA) [#Arizona](/tags/#Arizona) [#10s](/tags/#10s)
 
 2010 року **Слово живе** випустили свій дебютний повноформат (після [мініальбому &quot;Імперія&quot;](/2020-03-18-the-word-alive--metalcore-progressive-metalcore-)). &quot;Зрадник&quot; - це приблизно межа важкості &quot;ТРЦ-металу&quot;. Особливо нічого сказати про це музло, та й не хочеться, все одно ж не слухатимете. Нічого, будуть ще попереду пости про сотонізм.

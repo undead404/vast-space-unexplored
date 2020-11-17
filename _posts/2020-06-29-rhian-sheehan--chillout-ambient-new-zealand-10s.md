@@ -4,7 +4,7 @@ layout: post
 tags: [chillout, ambient, New_Zealand, 10s]
 title: "Rhian Sheehan: #chillout #ambient #New_Zealand #10s"
 ---
-![Rhian Sheehan: #chillout #ambient #New_Zealand #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1008_29-06-2020_13-56-24.jpg)
+![Rhian Sheehan: #chillout #ambient #New_Zealand #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1008_29-06-2020_13-56-24.jpg)
 Rhian Sheehan: [#chillout](/tags/#chillout) [#ambient](/tags/#ambient) [#New_Zealand](/tags/#New_Zealand) [#10s](/tags/#10s)
 
 Ріан Шіен - новозеландський композитор та продюсер, автор ембієнтної електронної музики, саундтреків та звукових оформлень. Додана пісня - офігенний ремікс на його твір від американців **Hammock**.

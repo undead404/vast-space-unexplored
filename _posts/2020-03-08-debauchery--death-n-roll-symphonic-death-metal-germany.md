@@ -4,7 +4,7 @@ layout: post
 tags: [death_n_roll, symphonic_death_metal, Germany, 00s]
 title: "Debauchery: #death_n_roll #symphonic_death_metal #Germany"
 ---
-![Debauchery: #death_n_roll #symphonic_death_metal #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_914_08-03-2020_10-29-31.jpg)
+![Debauchery: #death_n_roll #symphonic_death_metal #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_914_08-03-2020_10-29-31.jpg)
 Debauchery: [#death_n_roll](/tags/#death_n_roll) [#symphonic_death_metal](/tags/#symphonic_death_metal) [#Germany](/tags/#Germany) [#00s](/tags/#00s)
 
 **Розпуста** - німецький проект, котрий поєднує геніальну комбінацію: спрощена хард-рок ритміка + дез-метал вокал + пісні, котрі прославляють убивства та насильство у релігійній формі. Я уже писав в одному із старих постів, що автору проекту Томасові Ґуррату довелось відмовитись від викладання у ВНЗ через несприйняття керівництвом **Debauchery**.

@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, old_school_black_metal, Germany, 00s]
 title: "Desaster: #black_metal #old_school_black_metal #Germany"
 ---
-![Desaster: #black_metal #old_school_black_metal #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_833_27-12-2019_11-31-43.jpg)
+![Desaster: #black_metal #old_school_black_metal #Germany](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_833_27-12-2019_11-31-43.jpg)
 Desaster: [#black_metal](/tags/#black_metal) [#old_school_black_metal](/tags/#old_school_black_metal) [#Germany](/tags/#Germany) [#00s](/tags/#00s)
 
 **Desaster** - не навмисна помилка у назві, а те саме **Лихо**, тільки не англійською, а німецькою. Так і зветься цей німецький сатанинський колектив.

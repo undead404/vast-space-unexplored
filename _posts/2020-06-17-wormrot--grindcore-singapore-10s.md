@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, Singapore, 10s]
 title: "Wormrot: #grindcore #Singapore #10s"
 ---
-![Wormrot: #grindcore #Singapore #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_998_17-06-2020_15-41-08.jpg)
+![Wormrot: #grindcore #Singapore #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_998_17-06-2020_15-41-08.jpg)
 Wormrot: [#grindcore](/tags/#grindcore) [#Singapore](/tags/#Singapore) [#10s](/tags/#10s)
 
 2011 року [Червогниль](/2020-05-10-wormrot--grindcore-singapore-10s), крім альбому, котрий мене не сильно зацікавив, випустили офігенний 5-хвилинний мінік із 5 мініатюрних пісень - &quot;Шум&quot;.

@@ -4,7 +4,7 @@ layout: post
 tags: [grindcore, dark_hardcore, Ukraine, Russian, 00s]
 title: "Birth of Ignorance: #grindcore #dark_hardcore #Ukraine"
 ---
-![Birth of Ignorance: #grindcore #dark_hardcore #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_867_30-01-2020_10-23-38.jpg)
+![Birth of Ignorance: #grindcore #dark_hardcore #Ukraine](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_867_30-01-2020_10-23-38.jpg)
 Birth of Ignorance: [#grindcore](/tags/#grindcore) [#dark_hardcore](/tags/#dark_hardcore) [#Ukraine](/tags/#Ukraine) [#Russian](/tags/#Russian) [#00s](/tags/#00s)
 
 **Народження невігластва** - гурт із Дніпра, названий на честь пісні і дебютного демо **Brutal Truth**, і орієнтири ясні: класичний соціальний грайндкор, але хлопці явно обслухались неокрасту і хардкору, тож в доданій пісні чути і сумні запіли, і навіть бластбіт не всю пісню займає.

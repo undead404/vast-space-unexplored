@@ -4,7 +4,7 @@ layout: post
 tags: [old_school_black_metal, black_metal, Norway, 90s]
 title: "Carpathian Forest: #old_school_black_metal #black_metal"
 ---
-![Carpathian Forest: #old_school_black_metal #black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_755_07-10-2019_13-16-25.jpg)
+![Carpathian Forest: #old_school_black_metal #black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_755_07-10-2019_13-16-25.jpg)
 Carpathian Forest: [#old_school_black_metal](/tags/#old_school_black_metal) [#black_metal](/tags/#black_metal) [#Norway](/tags/#Norway) [#90s](/tags/#90s)
 
 Карпатський ліс колись був дуже особливим. Люблю слухати їх репетиційні й підвальні демо, вони по-примітивному атмосферні, геть далекі від того skullcrushing black metal, котрий CF грають нині.

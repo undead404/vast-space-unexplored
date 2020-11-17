@@ -4,7 +4,7 @@ layout: post
 tags: [post_metal, sludge_metal, Germany, 10s]
 title: "Red Apollo: #post_metal #sludge_metal #Germany #10s"
 ---
-![Red Apollo: #post_metal #sludge_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1001_21-06-2020_14-41-34.jpg)
+![Red Apollo: #post_metal #sludge_metal #Germany #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1001_21-06-2020_14-41-34.jpg)
 Red Apollo: [#post_metal](/tags/#post_metal) [#sludge_metal](/tags/#sludge_metal) [#Germany](/tags/#Germany) [#10s](/tags/#10s)
 
 Десь на межі країн Постметалії та Блекметалії є місто, що зветься **Червоним Аполлоном**. Назва, імовірно, взята в метелика (метелик зветься просто аполлоном, а червоний - один з кольорів його можливих варіацій). Китайська проурядова кібертерористична група з такою назвою з&#39;явилась пізніше за гурт.

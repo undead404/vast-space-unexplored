@@ -4,7 +4,7 @@ layout: post
 tags: [artcore, progressive_rock, sludgecore, USA, New_York, Texas, 10s]
 title: "City of Ships: #artcore #progressive_rock #sludgecore"
 ---
-![City of Ships: #artcore #progressive_rock #sludgecore](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1025_21-07-2020_10-10-04.jpg)
+![City of Ships: #artcore #progressive_rock #sludgecore](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1025_21-07-2020_10-10-04.jpg)
 City of Ships: [#artcore](/tags/#artcore) [#progressive_rock](/tags/#progressive_rock) [#sludgecore](/tags/#sludgecore) [#USA](/tags/#USA) [#New_York](/tags/#New_York) [#Texas](/tags/#Texas) [#10s](/tags/#10s)
 
 **Місто кораблів** - музичне тріо із Брукліна й Остіна, котре поєднує сладжкор-ритми із прог- і пост-роком та драйв-вокалом. Додана пісня взята із спліта з **Rosetta**. Круто, що вона не має властивої колегам по стилю затягнутості.

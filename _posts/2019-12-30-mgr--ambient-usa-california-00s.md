@@ -4,7 +4,7 @@ layout: post
 tags: [ambient, USA, California, 00s]
 title: "MGR: #ambient #USA #California #00s"
 ---
-![MGR: #ambient #USA #California #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_835_30-12-2019_10-55-13.jpg)
+![MGR: #ambient #USA #California #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_835_30-12-2019_10-55-13.jpg)
 MGR: [#ambient](/tags/#ambient) [#USA](/tags/#USA) [#California](/tags/#California) [#00s](/tags/#00s)
 
 &quot;Слухаючи його сольний матеріал, розумієш, наскільки він насправді важливий для [Isis](/2019-12-17-isis--post-metal-usa-california-00s-)&quot; HilariousBeard, [last.fm](last.fm)

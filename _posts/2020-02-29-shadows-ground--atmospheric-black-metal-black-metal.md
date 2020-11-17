@@ -4,7 +4,7 @@ layout: post
 tags: [atmospheric_black_metal, black_metal, Ukraine, 00s]
 title: "Shadows Ground: #atmospheric_black_metal #black_metal"
 ---
-![Shadows Ground: #atmospheric_black_metal #black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_908_29-02-2020_13-52-58.jpg)
+![Shadows Ground: #atmospheric_black_metal #black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_908_29-02-2020_13-52-58.jpg)
 Shadows Ground: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 **Сутінки ґрунт** відрізняються від інших Домбас-блек-метал гуртів ще до того, як їх вмикаєш: логотип виготовлений Кристофом Шпайделем, і він фірмовий.

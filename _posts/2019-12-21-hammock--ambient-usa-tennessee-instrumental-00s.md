@@ -4,7 +4,7 @@ layout: post
 tags: [ambient, USA, Tennessee, instrumental, 00s]
 title: "Hammock: #ambient #USA #Tennessee #instrumental #00s"
 ---
-![Hammock: #ambient #USA #Tennessee #instrumental #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_827_21-12-2019_18-08-22.jpg)
+![Hammock: #ambient #USA #Tennessee #instrumental #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_827_21-12-2019_18-08-22.jpg)
 Hammock: [#ambient](/tags/#ambient) [#USA](/tags/#USA) [#Tennessee](/tags/#Tennessee) [#instrumental](/tags/#instrumental) [#00s](/tags/#00s)
 
 **Гамак** - не метал. Навіть не рок. Це дует двох людей, котрі створюють музику цілковитого спокою і розслаблення; це як лежати на березі річки влітку й слухати шум дерев.

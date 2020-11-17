@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, raw_black_metal, Finland, 00s]
 title: "Uncreation&#39;s Dawn: #black_metal #raw_black_metal #Finland"
 ---
-![Uncreation&#39;s Dawn: #black_metal #raw_black_metal #Finland](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_802_10-11-2019_08-37-28.jpg)
+![Uncreation&#39;s Dawn: #black_metal #raw_black_metal #Finland](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_802_10-11-2019_08-37-28.jpg)
 Uncreation&#39;s Dawn: [#black_metal](/tags/#black_metal) [#raw_black_metal](/tags/#raw_black_metal) [#Finland](/tags/#Finland) [#00s](/tags/#00s)
 
 **Світанок нетворення** - класика фінського сатанинського блек-металу. Гурт створили співак Маркус &quot;Дияволік&quot; та гітарист &quot;СадиССт&quot; у 1999 році. 2001 року вони разом із барабанником Маркусом &quot;Пекловітром Ницим&quot; створили демо-альбом &quot;Штурмовики Антихриста&quot;, про котрий нині мова.

@@ -4,7 +4,7 @@ layout: post
 tags: [neocrust, crust_punk, hardcore_punk, Ukraine, Ukrainian, 10s]
 title: "The Symbioz: #neocrust #crust_punk #hardcore_punk "
 ---
-![The Symbioz: #neocrust #crust_punk #hardcore_punk ](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_978_27-05-2020_18-15-55.jpg)
+![The Symbioz: #neocrust #crust_punk #hardcore_punk ](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_978_27-05-2020_18-15-55.jpg)
 The Symbioz: [#neocrust](/tags/#neocrust) [#crust_punk](/tags/#crust_punk) [#hardcore_punk](/tags/#hardcore_punk) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) [#10s](/tags/#10s)
 
 2011 року в [Симбіозу](/2020-04-04-the-symbioz--hardcore-punk-grindcore-ukraine-10s) вийшов повноформат, котрий я маю на диску, але вам не покажу, бо колекція в батьків лежить. Микола полюбляє від красту відхрещуватись, але, на мою думку, даремно: саме неокрастово звучить в т.ч. додана стежина, ну або як мінімум дарк-хардкорно.

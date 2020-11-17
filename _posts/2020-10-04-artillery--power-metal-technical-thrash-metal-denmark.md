@@ -4,7 +4,7 @@ layout: post
 tags: [power_metal, technical_thrash_metal, Denmark, 10s]
 title: "Artillery: #power_metal #technical_thrash_metal #Denmark"
 ---
-![Artillery: #power_metal #technical_thrash_metal #Denmark](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1061_04-10-2020_00-00-08.jpg)
+![Artillery: #power_metal #technical_thrash_metal #Denmark](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1061_04-10-2020_00-00-08.jpg)
 Artillery: [#power_metal](/tags/#power_metal) [#technical_thrash_metal](/tags/#technical_thrash_metal) [#Denmark](/tags/#Denmark) [#10s](/tags/#10s)
 
 Данських ветеранів **Артилерію** (**Artillery**), починаючи від їх сьомого альбому &quot;Легіони&quot; 2013 року із новим співаком Міхаелем Бастгольмом Далем, вважають треш-металом більше за інерцією. В їх музики, звісно, зубата трешева основа, але спів Міхаеля - на високому рівні в стилі еталонів паверу. В минулому в **Artillery** також було багато співу, але також немало харш-вокалу; у 2012 році це змінилося. Вийшов ніби такий собі компроміс для тих, хто полюбляє агресивне музло, але не сприймає екстрім-вокал в жодних проявах.

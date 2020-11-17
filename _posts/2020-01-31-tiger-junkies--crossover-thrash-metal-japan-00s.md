@@ -4,7 +4,7 @@ layout: post
 tags: [crossover, thrash_metal, Japan, 00s]
 title: "Tiger Junkies: #crossover #thrash_metal #Japan #00s"
 ---
-![Tiger Junkies: #crossover #thrash_metal #Japan #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_870_31-01-2020_13-20-19.jpg)
+![Tiger Junkies: #crossover #thrash_metal #Japan #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_870_31-01-2020_13-20-19.jpg)
 Tiger Junkies: [#crossover](/tags/#crossover) [#thrash_metal](/tags/#thrash_metal) [#Japan](/tags/#Japan) [#00s](/tags/#00s)
 
 У цих двох є традиція. Коли американець Джоел Ґрайнд (**Toxic Holocaust**) опиняється у Японії, вони з Ясуюкі Сузукі (**Abigail**) щось записують, і потім видають під назвою **Тигри-наркомани**.

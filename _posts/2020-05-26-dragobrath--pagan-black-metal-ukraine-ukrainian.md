@@ -4,7 +4,7 @@ layout: post
 tags: [pagan_black_metal, Ukraine, Ukrainian, 10s]
 title: "Dragobrath: #pagan_black_metal #Ukraine #Ukrainian"
 ---
-![Dragobrath: #pagan_black_metal #Ukraine #Ukrainian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_976_26-05-2020_12-03-05.jpg)
+![Dragobrath: #pagan_black_metal #Ukraine #Ukrainian](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_976_26-05-2020_12-03-05.jpg)
 Dragobrath: [#pagan_black_metal](/tags/#pagan_black_metal) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) [#10s](/tags/#10s)
 
 2010 року Юліан &quot;Синевир&quot; Мицик (колись автор [Capitollium](/2020-02-09-capitollium--symphonic-black-metal-ukraine-00s), [Ruina](/2020-01-30-ruina--pagan-black-metal-ukraine-ukrainian--00s)) приблизно в одну пору попрощався із семирічною участю в якості мультиінструменталіста-композитора в проекті **Kroda** і завершив підготовку четвертого альбому свого сольного проекту **Dragobrath**. Узагалі в нього було більше проєктів, котрі мало відрізнялись на слух, але відчутно - за емоційним та візуальним доповненням; серед них **Драґобрат** був присвячений природі й духам Карпат.

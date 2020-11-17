@@ -4,7 +4,7 @@ layout: post
 tags: [industrial_rock, Germany, German, 10s]
 title: "Oomph!: #industrial_rock #Germany #German #10s"
 ---
-![Oomph!: #industrial_rock #Germany #German #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1019_09-07-2020_19-36-05.jpg)
+![Oomph!: #industrial_rock #Germany #German #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1019_09-07-2020_19-36-05.jpg)
 Oomph!: [#industrial_rock](/tags/#industrial_rock) [#Germany](/tags/#Germany) [#German](/tags/#German) [#10s](/tags/#10s)
 
 На цій пісні [Ух!](/2019-12-10-oomph-feat--lame-immortelle--industrial-rock-gothic-rock) вони мені здаються схожими на своїх земляків **Eisbrecher**. &quot;Шукай мене, знайди мене&quot; (шукачі не сплять вночі, кєк) - вельми електронна, з прямою бочкою. А по тексту - знов якась збочена метафора із танцями, сексом і битим склом. Індастріел-металісти в своєму репертуарі.

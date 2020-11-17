@@ -4,7 +4,7 @@ layout: post
 tags: [industrial_death_metal, Ukraine, 00s]
 title: "Ungrace: #industrial_death_metal #Ukraine #00s"
 ---
-![Ungrace: #industrial_death_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_897_19-02-2020_14-56-34.jpg)
+![Ungrace: #industrial_death_metal #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_897_19-02-2020_14-56-34.jpg)
 Ungrace: [#industrial_death_metal](/tags/#industrial_death_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 Український марафон продовжується, повертаємось у Запоріжжя, у часи, коли модерн-метал гурт **Неблагодать** грав дез-метал з відтінком індастріелу. По суті це у 2009 стало продовженням того, що гітарист Антін Чужий та барабанник Лексі Чужий робили у **Alien Autopsy**. 

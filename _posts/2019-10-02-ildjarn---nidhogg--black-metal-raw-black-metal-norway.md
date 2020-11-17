@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, raw_black_metal, Norway, Norwegian, 90s]
 title: "Ildjarn - Nidhogg: #black_metal #raw_black_metal #Norway"
 ---
-![Ildjarn - Nidhogg: #black_metal #raw_black_metal #Norway](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_746_02-10-2019_20-34-08.jpg)
+![Ildjarn - Nidhogg: #black_metal #raw_black_metal #Norway](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_746_02-10-2019_20-34-08.jpg)
 Ildjarn - Nidhogg: [#black_metal](/tags/#black_metal) [#raw_black_metal](/tags/#raw_black_metal) [#Norway](/tags/#Norway) [#Norwegian](/tags/#Norwegian) [#90s](/tags/#90s)
 
 Дует Ільд&#39;ярна та Нідгоґґа - один з ранніх представнику сирого блек-металу. Просто кажучи, з партіями, особливо драм-машиною, тут не парились, але такий підхід створює атмосферу вогкості лісового болота. Біда у тому, що пісні виходять однакові, але то таке.

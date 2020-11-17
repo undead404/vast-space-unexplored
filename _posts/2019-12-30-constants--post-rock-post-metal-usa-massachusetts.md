@@ -4,7 +4,7 @@ layout: post
 tags: [post_rock, post_metal, USA, Massachusetts, 00s]
 title: "Constants: #post_rock #post_metal #USA #Massachusetts"
 ---
-![Constants: #post_rock #post_metal #USA #Massachusetts](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_836_30-12-2019_17-10-20.jpg)
+![Constants: #post_rock #post_metal #USA #Massachusetts](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_836_30-12-2019_17-10-20.jpg)
 Constants: [#post_rock](/tags/#post_rock) [#post_metal](/tags/#post_metal) [#USA](/tags/#USA) [#Massachusetts](/tags/#Massachusetts) [#00s](/tags/#00s)
 
 **Сталі** - забійний пост-рок чи пост-метал із годним гранж-вокалом. Звучить як суміш космічного пориву [Isis](/2019-12-17-isis--post-metal-usa-california-00s-), ритмічної майстерності [Mastodon](/2019-12-15-mastodon--artcore-progressive-metal-usa-georgia) і жменьки північного сяйва із робіт **God Is an Astronaut**. Можливо, даремно я тут втулив ці назви, однак **Constants** - музика видатна.

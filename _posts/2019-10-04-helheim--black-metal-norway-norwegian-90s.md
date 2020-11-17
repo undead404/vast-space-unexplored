@@ -4,7 +4,7 @@ layout: post
 tags: [black_metal, Norway, Norwegian, 90s]
 title: "Helheim: #black_metal #Norway #Norwegian #90s"
 ---
-![Helheim: #black_metal #Norway #Norwegian #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_752_04-10-2019_17-55-59.jpg)
+![Helheim: #black_metal #Norway #Norwegian #90s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_752_04-10-2019_17-55-59.jpg)
 Helheim: [#black_metal](/tags/#black_metal) [#Norway](/tags/#Norway) [#Norwegian](/tags/#Norwegian) [#90s](/tags/#90s)
 
 Хельхейм здаються типовим гуртом норвезької другої хвилі, але є певні важливі особливості, котрі, можливо, змусять таки їх послухати.

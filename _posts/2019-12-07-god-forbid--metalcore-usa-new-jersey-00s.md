@@ -4,7 +4,7 @@ layout: post
 tags: [metalcore, USA, New_Jersey, 00s]
 title: "God Forbid: #metalcore #USA #New_Jersey #00s"
 ---
-![God Forbid: #metalcore #USA #New_Jersey #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_814_07-12-2019_10-23-15.jpg)
+![God Forbid: #metalcore #USA #New_Jersey #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_814_07-12-2019_10-23-15.jpg)
 God Forbid: [#metalcore](/tags/#metalcore) [#USA](/tags/#USA) [#New_Jersey](/tags/#New_Jersey) [#00s](/tags/#00s)
 
 **Не дай бог** - гурт, котрого аж з 2013 року немає, а колись це був улюблений металкор-гурт Джеймі Джасти із [Hatebreed](/2019-12-03-hatebreed--hardcore-usa-connecticut-00s-). Гурт із афроамериканцями на вокалі та ударних. Гурт із тієї частини металкору, котра металом неухильно збагачувалась (і, звісно, присутній на метал-архівах). 2004 року вийшов альбом &quot;Зникле назавжди&quot;, котрий зробив їх актом міжнародного рівня.

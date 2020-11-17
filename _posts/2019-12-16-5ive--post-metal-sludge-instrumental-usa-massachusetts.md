@@ -4,7 +4,7 @@ layout: post
 tags: [post_metal, sludge, instrumental, USA, Massachusetts, 00s]
 title: "5ive: #post_metal #sludge #instrumental #USA #Massachusetts"
 ---
-![5ive: #post_metal #sludge #instrumental #USA #Massachusetts](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_818_16-12-2019_12-01-39.jpg)
+![5ive: #post_metal #sludge #instrumental #USA #Massachusetts](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_818_16-12-2019_12-01-39.jpg)
 5ive: [#post_metal](/tags/#post_metal) [#sludge](/tags/#sludge) [#instrumental](/tags/#instrumental) [#USA](/tags/#USA) [#Massachusetts](/tags/#Massachusetts) [#00s](/tags/#00s)
 
 Про **5&#39;ять** я [уже писав](/2019-11-12-5ive--sludge-instrumental-usa-massachusetts-00s) в контексті того, що їх бас-гітаристом був бас-гітарист **Isis** Джеф Кексайд. Зрештою, він грав тільки на перших записах, на мініальбомі &quot;Проти&quot; лишився тільки дует драммера і гітариста, зате в оформленні брав участь Аарон Тернер (колись **Isis**, тепер **Old Man Gloom** і **Sumac**), а в мастерингу брав участь Нік Замп&#39;єлло (уславлений роботою з мазутними колегами **Old Man Gloom**, **Pelican**).

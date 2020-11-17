@@ -4,7 +4,7 @@ layout: post
 tags: [depressive_black_metal, industrial_black_metal, Ukraine, 00s]
 title: "Darktrance: #depressive_black_metal #industrial_black_metal"
 ---
-![Darktrance: #depressive_black_metal #industrial_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_878_08-02-2020_08-55-45.jpg)
+![Darktrance: #depressive_black_metal #industrial_black_metal](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_878_08-02-2020_08-55-45.jpg)
 Darktrance: [#depressive_black_metal](/tags/#depressive_black_metal) [#industrial_black_metal](/tags/#industrial_black_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 В наші часи, мабуть, всі, дотичні до рок-сцени чули про репкор-джент гурт **Beyond the Pleasure** і знають, що то зашквар (кажуть, навіть сесійні музиканти відмовляються співпрацювати з ними за гроші). Я не розумію, чому так: вельми оригінальна музика, і хлопці вперто продовжують свою справу попри загальну ненависть.

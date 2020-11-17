@@ -4,7 +4,7 @@ layout: post
 tags: [goregrind, porngrind, Ukraine, 00s]
 title: "Ebanath: #goregrind #porngrind #Ukraine #00s"
 ---
-![Ebanath: #goregrind #porngrind #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_889_15-02-2020_10-15-40.jpg)
+![Ebanath: #goregrind #porngrind #Ukraine #00s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_889_15-02-2020_10-15-40.jpg)
 Ebanath: [#goregrind](/tags/#goregrind) [#porngrind](/tags/#porngrind) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 **Їбанат** - гурт із Бердянська, що в Запорізькій області на березі Азовського моря. На межі тисячоліть Дімос, на-всі-руки-майстер блекових гуртів **Vermis Mysteriis**, **Mourning Palace** і **Serpens**, створював дезграйнд практично одноосібно під назвою **Grindfather**, і у 2003 році вирішив створити для цієї теми повноцінний гурт. 2008 року, коли **Amoral Glamour** готувався до видання, Дмитро &quot;Дімос&quot; Шульгін покинув інші гурти і став суто єбанатом.

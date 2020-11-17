@@ -4,7 +4,7 @@ layout: post
 tags: [math_metal, nu_metal, Ukraine, Ukrainian, 10s]
 title: "Злам: #math_metal #nu_metal #Ukraine #Ukrainian #10s"
 ---
-![Злам: #math_metal #nu_metal #Ukraine #Ukrainian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1022_12-07-2020_19-42-50.jpg)
+![Злам: #math_metal #nu_metal #Ukraine #Ukrainian #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1022_12-07-2020_19-42-50.jpg)
 Злам: [#math_metal](/tags/#math_metal) [#nu_metal](/tags/#nu_metal) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) [#10s](/tags/#10s)
 
 Напевне, [Злам](/2020-02-28-zlam--nu-metal-math-metal-ukraine-ukrainian-00s) вперше показали у україномовному виконанні ще один музичний напрям - мат-метал, хоч у їх виконанні він і замішаний добре на ню-металі. Дебютний альбом киян зводив Сергій Любинський (**Тол**), до того ж паралельно вокаліст **Зламу** Орєх взяв участь у записі [останньої пісні](/2020-06-25-tol--nu-metal-math-metal-ukraine-ukrainian-10s) **Тол** перед їх кінцем.

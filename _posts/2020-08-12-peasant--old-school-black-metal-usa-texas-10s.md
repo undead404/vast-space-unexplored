@@ -4,7 +4,7 @@ layout: post
 tags: [old_school_black_metal, USA, Texas, 10s]
 title: "Peasant: #old_school_black_metal #USA #Texas #10s"
 ---
-![Peasant: #old_school_black_metal #USA #Texas #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_1037_12-08-2020_23-10-29.jpg)
+![Peasant: #old_school_black_metal #USA #Texas #10s](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1037_12-08-2020_23-10-29.jpg)
 Peasant: [#old_school_black_metal](/tags/#old_school_black_metal) [#USA](/tags/#USA) [#Texas](/tags/#Texas) [#10s](/tags/#10s)
 
 Техасці **Ратай** були прямими послідовниками, можливо, навіть наслідувачами **Venom** та **Sarcofago**. А ви розумієте, з яких причин я почуваю особливу любов до такого музла, правда? ;) На своєму першому демо **Peasant** грали якусь вельми шалену комбінацію елементів хард-року та треш-металу, із вельми таким блековим скрім-вокалом.

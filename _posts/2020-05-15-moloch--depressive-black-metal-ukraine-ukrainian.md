@@ -4,7 +4,7 @@ layout: post
 tags: [depressive_black_metal, Ukraine, Ukrainian, 10s]
 title: "Moloch: #depressive_black_metal #Ukraine #Ukrainian"
 ---
-![Moloch: #depressive_black_metal #Ukraine #Ukrainian](https://res.cloudinary.com/vast-space-unexplored/image/upload/photos/photo_968_15-05-2020_13-34-46.jpg)
+![Moloch: #depressive_black_metal #Ukraine #Ukrainian](https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_968_15-05-2020_13-34-46.jpg)
 Moloch: [#depressive_black_metal](/tags/#depressive_black_metal) [#Ukraine](/tags/#Ukraine) [#Ukrainian](/tags/#Ukrainian) [#10s](/tags/#10s)
 
 Є такий рівненчанин - Сергій Гордіюк. Із 2002 року він випускає свою роу-блек та дарк ембієнт музику під назвою **Молох**. Напевне, багато хто чув саму назву, але мало хто чув музику, зате дискографія описана на метал-архівах в десь сотню релізів. Що ж там за музло?
