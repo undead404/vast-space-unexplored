@@ -1,6 +1,7 @@
 ---
 date: 2020-05-09T20:15:57
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_963_09-05-2020_20-15-57.jpg
 tags: [hardcore_punk, hardcore, Canada, 10s]
 title: "Comeback Kid: #hardcore_punk #hardcore #Canada #10s"
 ---

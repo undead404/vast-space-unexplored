@@ -1,6 +1,7 @@
 ---
 date: 2020-03-12T12:21:10
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_919_12-03-2020_12-21-09.jpg
 tags: [black_metal, blackened_crust, USA, North_Carolina, 00s]
 title: "Young and in the Way: #black_metal #blackened_crust"
 ---

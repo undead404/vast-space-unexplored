@@ -1,6 +1,7 @@
 ---
 date: 2019-12-24T12:07:42
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_830_24-12-2019_12-07-42.jpg
 tags: [stoner_metal, sludgecore, hardcore, USA, Georgia, 00s]
 title: "Kylesa: #stoner_metal #sludgecore #hardcore #USA #Georgia"
 ---

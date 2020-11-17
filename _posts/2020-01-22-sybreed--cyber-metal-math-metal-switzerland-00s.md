@@ -1,6 +1,7 @@
 ---
 date: 2020-01-22T11:46:06
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_858_22-01-2020_11-46-06.jpg
 tags: [cyber_metal, math_metal, Switzerland, 00s]
 title: "Sybreed: #cyber_metal #math_metal #Switzerland #00s"
 ---

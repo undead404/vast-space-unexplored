@@ -1,6 +1,7 @@
 ---
 date: 2020-06-05T12:59:56
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_985_05-06-2020_12-59-56.jpg
 tags: [post_metal, Germany, 10s]
 title: "Planks: #post_metal #Germany #10s"
 ---

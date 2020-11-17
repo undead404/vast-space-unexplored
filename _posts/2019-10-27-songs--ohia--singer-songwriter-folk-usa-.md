@@ -1,6 +1,7 @@
 ---
 date: 2019-10-27T10:13:48
 layout: post
+photo: https://i.ytimg.com/vi/9JnuuJMq2-s/maxresdefault.jpg
 tags: [singer_songwriter, folk, USA]
 title: "Songs: Ohia: #singer_songwriter #folk #USA "
 ---

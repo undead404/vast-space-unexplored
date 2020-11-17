@@ -1,6 +1,7 @@
 ---
 date: 2020-05-01T22:45:48
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_956_01-05-2020_22-45-48.jpg
 tags: [depressive_black_metal, Ukraine, 10s]
 title: "Ossadogva: #depressive_black_metal #Ukraine #10s"
 ---

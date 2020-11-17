@@ -1,6 +1,7 @@
 ---
 date: 2020-02-06T10:54:52
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_875_06-02-2020_10-54-52.jpg
 tags: [gothic_doom_metal, gothic_metal, Ukrainian, Ukraine, 00s]
 title: "Полинове поле: #gothic_doom_metal #gothic_metal #Ukrainian"
 ---

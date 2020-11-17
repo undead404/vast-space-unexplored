@@ -1,6 +1,7 @@
 ---
 date: 2020-02-23T15:48:58
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_903_23-02-2020_15-48-58.jpg
 tags: [deathcore, brutal_deathcore, USA, Florida, 00s]
 title: "King Conquer: #deathcore #brutal_deathcore #USA #Florida"
 ---

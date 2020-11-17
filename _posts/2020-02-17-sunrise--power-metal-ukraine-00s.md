@@ -1,6 +1,7 @@
 ---
 date: 2020-02-17T13:17:14
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_893_17-02-2020_10-41-44.jpg
 tags: [power_metal, Ukraine, 00s]
 title: "Sunrise: #power_metal #Ukraine #00s"
 ---

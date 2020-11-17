@@ -1,6 +1,7 @@
 ---
 date: 2019-10-02T10:36:35
 layout: post
+photo: https://i.ytimg.com/vi/fog0kD8tCZw/maxresdefault.jpg
 tags: [black_metal, symphonic_black_metal, Norway, 90s]
 title: "Emperor: #black_metal #symphonic_black_metal #Norway"
 ---

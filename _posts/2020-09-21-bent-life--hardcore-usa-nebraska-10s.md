@@ -1,6 +1,7 @@
 ---
 date: 2020-09-21T11:31:23
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1054_21-09-2020_11-31-23.jpg
 tags: [hardcore, USA, Nebraska, 10s]
 title: "Bent Life: #hardcore #USA #Nebraska #10s"
 ---

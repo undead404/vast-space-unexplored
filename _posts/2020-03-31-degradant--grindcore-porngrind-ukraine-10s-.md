@@ -1,6 +1,7 @@
 ---
 date: 2020-03-31T21:42:57
 layout: post
+photo: https://i.ytimg.com/vi/qkVNtDhdPo8/maxresdefault.jpg
 tags: [grindcore, porngrind, Ukraine, 10s]
 title: "Degradant: #grindcore #porngrind #Ukraine #10s "
 ---

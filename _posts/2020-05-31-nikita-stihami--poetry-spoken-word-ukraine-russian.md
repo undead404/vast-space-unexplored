@@ -1,6 +1,7 @@
 ---
 date: 2020-05-31T11:23:51
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_981_31-05-2020_11-23-51.jpg
 tags: [poetry, spoken_word, Ukraine, Russian, 10s]
 title: "Nikita Stihami: #poetry #spoken_word #Ukraine #Russian"
 ---

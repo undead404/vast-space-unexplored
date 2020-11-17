@@ -1,6 +1,7 @@
 ---
 date: 2020-03-28T20:35:10
 layout: post
+photo: https://f4.bcbits.com/img/a3887222402_5.jpg
 tags: [black_metal, Sweden, 10s]
 title: "Vanhelga: #black_metal #Sweden #10s "
 ---

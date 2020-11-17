@@ -1,6 +1,7 @@
 ---
 date: 2020-09-08T12:03:18
 layout: post
+photo: https://i.ytimg.com/vi/c6rODDuCU-Y/maxresdefault.jpg
 tags: [blackened_death_metal, black_metal, Switzerland, 10s]
 title: "Bölzer: #blackened_death_metal #black_metal #Switzerland"
 ---

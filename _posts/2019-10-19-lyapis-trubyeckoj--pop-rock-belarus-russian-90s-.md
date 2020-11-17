@@ -1,6 +1,7 @@
 ---
 date: 2019-10-19T22:28:27
 layout: post
+photo: https://i.ytimg.com/vi/xVUsT0WKKSY/maxresdefault.jpg
 tags: [pop_rock, Belarus, Russian, 90s]
 title: "Ляпис Трубецкой: #pop_rock #Belarus #Russian #90s "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-09-10T00:08:07
 layout: post
+photo: https://i.ytimg.com/vi/aJ4dBgWRZ4A/maxresdefault.jpg
 tags: [death_metal, Norway, 10s]
 title: "Blood Red Throne: #death_metal #Norway #10s "
 ---

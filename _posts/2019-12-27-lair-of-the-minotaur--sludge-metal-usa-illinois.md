@@ -1,6 +1,7 @@
 ---
 date: 2019-12-27T17:10:57
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_834_27-12-2019_17-10-57.jpg
 tags: [sludge_metal, USA, Illinois, 00s]
 title: "Lair of the Minotaur: #sludge_metal #USA #Illinois"
 ---

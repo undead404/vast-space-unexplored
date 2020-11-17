@@ -1,6 +1,7 @@
 ---
 date: 2020-07-05T16:16:39
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1015_05-07-2020_16-16-39.jpg
 tags: [death_metal, Germany, 10s]
 title: "Dawn of Disease: #death_metal #Germany #10s"
 ---

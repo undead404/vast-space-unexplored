@@ -1,6 +1,7 @@
 ---
 date: 2020-06-03T12:13:19
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_982_03-06-2020_12-13-19.jpg
 tags: [deathgrind, grindcore, Belgium, Wallonia, 10s]
 title: "Hybrid Viscery: #deathgrind #grindcore #Belgium #Wallonia"
 ---

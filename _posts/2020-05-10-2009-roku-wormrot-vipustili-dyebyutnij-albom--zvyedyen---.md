@@ -1,6 +1,7 @@
 ---
 date: 2020-05-10T13:21:15
 layout: post
+photo: https://f4.bcbits.com/img/a3926591929_5.jpg
 tags: []
 title: "2009 року Wormrot випустили дебютний альбом, зведен..."
 ---

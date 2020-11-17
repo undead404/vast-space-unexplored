@@ -1,6 +1,7 @@
 ---
 date: 2020-03-24T11:21:38
 layout: post
+photo: https://i.ytimg.com/vi/Dijg04wq37Y/maxresdefault.jpg
 tags: [atmospheric_black_metal, USA, California, 00s]
 title: "Arizmenda: #atmospheric_black_metal #USA #California"
 ---

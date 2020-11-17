@@ -1,6 +1,7 @@
 ---
 date: 2019-10-02T11:27:58
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_743_02-10-2019_11-27-58.jpg
 tags: [black_metal, symphonic_black_metal, Norway, Norwegian, 90s, viking_metal]
 title: "Enslaved: #black_metal #symphonic_black_metal #Norway"
 ---

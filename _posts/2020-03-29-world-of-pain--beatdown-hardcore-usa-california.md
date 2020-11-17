@@ -1,6 +1,7 @@
 ---
 date: 2020-03-29T10:46:40
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_929_29-03-2020_10-46-40.jpg
 tags: [beatdown_hardcore, USA, California, 10s]
 title: "World of Pain: #beatdown_hardcore #USA #California"
 ---

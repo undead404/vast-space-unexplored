@@ -1,6 +1,7 @@
 ---
 date: 2019-10-09T17:36:11
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_760_09-10-2019_17-36-11.jpg
 tags: [industrial_metal, nu_metal, Germany, 90s]
 title: "Oomph!: #industrial_metal #nu_metal #Germany #90s"
 ---

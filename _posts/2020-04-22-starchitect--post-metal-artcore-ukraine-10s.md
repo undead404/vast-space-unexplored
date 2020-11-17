@@ -1,6 +1,7 @@
 ---
 date: 2020-04-22T11:11:39
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_945_22-04-2020_11-11-39.jpg
 tags: [post_metal, artcore, Ukraine, 10s]
 title: "Starchitect: #post_metal #artcore #Ukraine #10s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-17T09:28:06
 layout: post
+photo: https://i.ytimg.com/vi/gSmmGHamCTI/maxresdefault.jpg
 tags: [cardio_wave, ethereal, female_vocalists, Ukraine, Russian, 10s]
 title: "Flёur: #cardio_wave #ethereal #female_vocalists #Ukraine"
 ---

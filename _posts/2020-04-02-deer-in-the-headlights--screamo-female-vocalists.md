@@ -1,6 +1,7 @@
 ---
 date: 2020-04-02T16:34:50
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_931_02-04-2020_16-34-50.jpg
 tags: [screamo, female_vocalists, female_fronted_punk, Bosnia_and_Herzegovina, 10s]
 title: "Deer in the Headlights: #screamo #female_vocalists"
 ---

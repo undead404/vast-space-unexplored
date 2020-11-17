@@ -1,6 +1,7 @@
 ---
 date: 2020-02-11T12:00:04
 layout: post
+photo: https://i.ytimg.com/vi/EX1PA6oZYxI/hqdefault.jpg
 tags: [industrial_metal, Germany, German, 00s]
 title: "Eisbrecher: #industrial_metal #Germany #German #00s"
 ---

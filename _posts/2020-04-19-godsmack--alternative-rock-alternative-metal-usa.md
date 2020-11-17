@@ -1,6 +1,7 @@
 ---
 date: 2020-04-19T14:35:45
 layout: post
+photo: https://i.ytimg.com/vi/0eXIOK2vOhM/maxresdefault.jpg
 tags: [alternative_rock, alternative_metal, USA, Massachusetts, 10s]
 title: "Godsmack: #alternative_rock #alternative_metal #USA"
 ---

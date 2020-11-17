@@ -1,6 +1,7 @@
 ---
 date: 2019-11-10T16:07:49
 layout: post
+photo: https://f4.bcbits.com/img/a0737541200_5.jpg
 tags: [atmospheric_black_metal, France, 00s]
 title: "Blut aus Nord: #atmospheric_black_metal #France #00s"
 ---

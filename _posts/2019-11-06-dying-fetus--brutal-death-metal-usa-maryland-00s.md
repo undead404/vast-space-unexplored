@@ -1,6 +1,7 @@
 ---
 date: 2019-11-06T08:59:56
 layout: post
+photo: https://f4.bcbits.com/img/a3752241930_5.jpg
 tags: [brutal_death_metal, USA, Maryland, 00s]
 title: "Dying Fetus: #brutal_death_metal #USA #Maryland #00s"
 ---

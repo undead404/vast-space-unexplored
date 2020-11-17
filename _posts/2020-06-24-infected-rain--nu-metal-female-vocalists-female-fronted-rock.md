@@ -1,6 +1,7 @@
 ---
 date: 2020-06-24T11:09:49
 layout: post
+photo: https://i.ytimg.com/vi/W-9bMm9fBl8/maxresdefault.jpg
 tags: [nu_metal, female_vocalists, female_fronted_rock, Moldova, 10s]
 title: "Infected Rain: #nu_metal #female_vocalists #female_fronted_rock"
 ---

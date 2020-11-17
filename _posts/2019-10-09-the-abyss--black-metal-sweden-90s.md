@@ -1,6 +1,7 @@
 ---
 date: 2019-10-09T17:56:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_761_09-10-2019_17-56-36.jpg
 tags: [black_metal, Sweden, 90s]
 title: "The Abyss: #black_metal #Sweden #90s"
 ---

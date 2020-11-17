@@ -1,6 +1,7 @@
 ---
 date: 2020-05-07T18:37:42
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_960_07-05-2020_18-37-42.jpg
 tags: [black_metal, Ukraine, 10s]
 title: "Screaming Forest: #black_metal #Ukraine #10s"
 ---

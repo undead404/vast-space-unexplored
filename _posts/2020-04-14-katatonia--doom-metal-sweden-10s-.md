@@ -1,6 +1,7 @@
 ---
 date: 2020-04-14T14:08:08
 layout: post
+photo: https://i.ytimg.com/vi/kdGlZAWWghY/maxresdefault.jpg
 tags: [doom_metal, Sweden, 10s]
 title: "Katatonia: #doom_metal #Sweden #10s "
 ---

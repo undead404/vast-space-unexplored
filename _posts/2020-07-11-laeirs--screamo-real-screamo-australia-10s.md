@@ -1,6 +1,7 @@
 ---
 date: 2020-07-11T16:56:45
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1021_11-07-2020_16-56-45.jpg
 tags: [screamo, real_screamo, Australia, 10s]
 title: "Laeirs: #screamo #real_screamo #Australia #10s"
 ---

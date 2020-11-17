@@ -1,6 +1,7 @@
 ---
 date: 2020-06-11T11:21:22
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_991_11-06-2020_11-21-22.jpg
 tags: [atmospheric_black_metal, Ukraine, Russian, 10s]
 title: "Ygg: #atmospheric_black_metal #Ukraine #Russian #10s"
 ---

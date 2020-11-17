@@ -1,6 +1,7 @@
 ---
 date: 2019-10-28T12:21:59
 layout: post
+photo: https://f4.bcbits.com/img/a0419365038_5.jpg
 tags: [black_metal, Ukraine, 90s]
 title: "Hate Forest: #black_metal #Ukraine #90s"
 ---

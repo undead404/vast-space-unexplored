@@ -1,6 +1,7 @@
 ---
 date: 2019-10-13T22:15:52
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_765_13-10-2019_22-15-52.jpg
 tags: [black_metal, Sweden, 90s]
 title: "War: #black_metal #Sweden #90s"
 ---

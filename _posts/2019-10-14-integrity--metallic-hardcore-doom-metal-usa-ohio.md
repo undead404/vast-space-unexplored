@@ -1,6 +1,7 @@
 ---
 date: 2019-10-14T12:57:54
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_766_14-10-2019_12-57-54.jpg
 tags: [metallic_hardcore, doom_metal, USA, Ohio, 90s]
 title: "Integrity: #metallic_hardcore #doom_metal #USA #Ohio"
 ---

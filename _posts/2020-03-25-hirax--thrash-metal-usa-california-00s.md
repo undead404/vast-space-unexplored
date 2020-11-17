@@ -1,6 +1,7 @@
 ---
 date: 2020-03-25T11:11:41
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_925_25-03-2020_11-11-41.jpg
 tags: [thrash_metal, USA, California, 00s]
 title: "Hirax: #thrash_metal #USA #California #00s"
 ---

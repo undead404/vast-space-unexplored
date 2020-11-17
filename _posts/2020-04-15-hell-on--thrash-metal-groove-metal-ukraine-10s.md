@@ -1,6 +1,7 @@
 ---
 date: 2020-04-15T12:32:21
 layout: post
+photo: https://i.ytimg.com/vi/WzsJ-_kwJ6E/hqdefault.jpg
 tags: [thrash_metal, groove_metal, Ukraine, 10s]
 title: "Hell:On: #thrash_metal #groove_metal #Ukraine #10s"
 ---

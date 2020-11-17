@@ -1,6 +1,7 @@
 ---
 date: 2020-01-01T17:31:39
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_841_01-01-2020_17-31-39.jpg
 tags: [noisegrind, grindcore, Ukraine, Ukrainian, 10s]
 title: "MatyrBoja: #noisegrind #grindcore #Ukraine #Ukrainian"
 ---

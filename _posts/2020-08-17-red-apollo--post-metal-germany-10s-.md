@@ -1,6 +1,7 @@
 ---
 date: 2020-08-17T11:49:05
 layout: post
+photo: https://i.ytimg.com/vi/7RDjZ5RVTNk/maxresdefault.jpg
 tags: [post_metal, Germany, 10s]
 title: "Red Apollo: #post_metal #Germany #10s "
 ---

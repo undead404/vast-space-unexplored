@@ -1,6 +1,7 @@
 ---
 date: 2020-10-06T12:06:48
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1064_06-10-2020_12-06-48.jpg
 tags: [old_school_death_metal, USA, New_York, 10s]
 title: "Trenchgrinder: #old_school_death_metal #USA #New_York"
 ---

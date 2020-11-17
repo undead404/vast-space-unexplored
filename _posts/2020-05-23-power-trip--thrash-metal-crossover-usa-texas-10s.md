@@ -1,6 +1,7 @@
 ---
 date: 2020-05-23T15:19:26
 layout: post
+photo: https://i.ytimg.com/vi/DIOT1RePF0Y/maxresdefault.jpg
 tags: [thrash_metal, crossover, USA, Texas, 10s]
 title: "Power Trip: #thrash_metal #crossover #USA #Texas #10s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-29T10:09:11
 layout: post
+photo: https://i.ytimg.com/vi/ds8xNtvyzmU/maxresdefault.jpg
 tags: [metalcore, post_hardcore, Ukraine, Ukrainian, 10s]
 title: "Morphine Suffering: #metalcore #post_hardcore #Ukraine"
 ---

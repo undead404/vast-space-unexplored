@@ -1,6 +1,7 @@
 ---
 date: 2020-05-03T17:07:27
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_958_03-05-2020_17-07-27.jpg
 tags: [symphonic_black_metal, Norway, 10s]
 title: "Limbonic Art: #symphonic_black_metal #Norway #10s"
 ---

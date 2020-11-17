@@ -1,6 +1,7 @@
 ---
 date: 2020-06-25T19:26:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1004_25-06-2020_19-26-33.jpg
 tags: [nu_metal, math_metal, Ukraine, Ukrainian, 10s]
 title: "ТОЛ: #nu_metal #math_metal #Ukraine #Ukrainian #10s"
 ---

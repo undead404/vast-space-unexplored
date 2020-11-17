@@ -1,6 +1,7 @@
 ---
 date: 2019-10-09T11:08:52
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_759_09-10-2019_11-08-52.jpg
 tags: [d_beat, crust_punk, Sweden, Swedish, 90s]
 title: "Skitsystem: #d_beat #crust_punk #Sweden #Swedish #90s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-22T21:19:24
 layout: post
+photo: https://i.ytimg.com/vi/gEDCSFVSDzw/maxresdefault.jpg
 tags: [metalcore, Switzerland, 10s]
 title: "Breakdown of Sanity: #metalcore #Switzerland #10s "
 ---

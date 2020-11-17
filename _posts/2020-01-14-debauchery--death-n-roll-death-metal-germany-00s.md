@@ -1,6 +1,7 @@
 ---
 date: 2020-01-14T11:59:55
 layout: post
+photo: https://i.ytimg.com/vi/n6ILvJPF3nE/maxresdefault.jpg
 tags: [death_n_roll, death_metal, Germany, 00s]
 title: "Debauchery: #death_n_roll #death_metal #Germany #00s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-11-10T08:37:28
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_802_10-11-2019_08-37-28.jpg
 tags: [black_metal, raw_black_metal, Finland, 00s]
 title: "Uncreation&#39;s Dawn: #black_metal #raw_black_metal #Finland"
 ---

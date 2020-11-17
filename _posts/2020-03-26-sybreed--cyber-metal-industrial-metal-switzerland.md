@@ -1,6 +1,7 @@
 ---
 date: 2020-03-26T10:33:59
 layout: post
+photo: https://i.ytimg.com/vi/52hUEjQ6G4Q/maxresdefault.jpg
 tags: [cyber_metal, industrial_metal, Switzerland, 00s]
 title: "Sybreed: #cyber_metal #industrial_metal #Switzerland"
 ---

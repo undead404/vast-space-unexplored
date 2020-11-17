@@ -1,6 +1,7 @@
 ---
 date: 2020-07-14T12:36:45
 layout: post
+photo: https://i.ytimg.com/vi/Nkn0-pXuDGo/maxresdefault.jpg
 tags: [post_metal, Ukraine, 10s]
 title: "Burrow: #post_metal #Ukraine #10s "
 ---

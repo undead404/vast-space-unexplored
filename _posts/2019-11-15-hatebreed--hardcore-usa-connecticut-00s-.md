@@ -1,6 +1,7 @@
 ---
 date: 2019-11-15T10:37:03
 layout: post
+photo: https://i.ytimg.com/vi/uwI1zkBNGa8/hqdefault.jpg
 tags: [hardcore, USA, Connecticut, 00s]
 title: "Hatebreed: #hardcore #USA #Connecticut #00s "
 ---

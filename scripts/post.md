@@ -1,6 +1,7 @@
 ---
 date: {{date}}
 layout: post
+photo: {{photo}}
 tags: {{tags}}
 title: "{{title}}"
 ---

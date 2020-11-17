@@ -1,6 +1,7 @@
 ---
 date: 2020-03-08T10:29:31
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_914_08-03-2020_10-29-31.jpg
 tags: [death_n_roll, symphonic_death_metal, Germany, 00s]
 title: "Debauchery: #death_n_roll #symphonic_death_metal #Germany"
 ---

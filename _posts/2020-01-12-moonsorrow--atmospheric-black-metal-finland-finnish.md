@@ -1,6 +1,7 @@
 ---
 date: 2020-01-12T10:36:06
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_852_12-01-2020_10-36-06.jpg
 tags: [atmospheric_black_metal, Finland, Finnish, 00s]
 title: "Moonsorrow: #atmospheric_black_metal #Finland #Finnish"
 ---

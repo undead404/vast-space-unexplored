@@ -1,6 +1,7 @@
 ---
 date: 2019-02-17T23:24:21
 layout: post
+photo: https://i.ytimg.com/vi/lWSavWdgo50/hqdefault.jpg
 tags: [thrash_metal, USA, California, 80s]
 title: "Metallica: #thrash_metal #USA #California #80s "
 ---

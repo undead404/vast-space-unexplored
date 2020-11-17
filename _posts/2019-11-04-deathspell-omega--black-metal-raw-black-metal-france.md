@@ -1,6 +1,7 @@
 ---
 date: 2019-11-04T09:53:54
 layout: post
+photo: https://f4.bcbits.com/img/a2966987933_5.jpg
 tags: [black_metal, raw_black_metal, France, 00s]
 title: "Deathspell Omega: #black_metal #raw_black_metal #France"
 ---

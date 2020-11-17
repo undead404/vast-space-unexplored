@@ -1,6 +1,7 @@
 ---
 date: 2018-05-28T08:33:21
 layout: post
+photo: https://i.ytimg.com/vi/NVCQqICewIA/maxresdefault.jpg
 tags: [female_vocalists, singer_songwriter, acoustic, Ukrainian, Poland, 10s]
 title: "Аліса у квітах: #female_vocalists #singer_songwriter"
 ---

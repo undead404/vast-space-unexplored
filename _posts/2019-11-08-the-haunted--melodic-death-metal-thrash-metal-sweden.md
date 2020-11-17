@@ -1,6 +1,7 @@
 ---
 date: 2019-11-08T13:22:14
 layout: post
+photo: https://i.ytimg.com/vi/8W5aNj9RV-0/hqdefault.jpg
 tags: [melodic_death_metal, thrash_metal, Sweden, 00s]
 title: "The Haunted: #melodic_death_metal #thrash_metal #Sweden"
 ---

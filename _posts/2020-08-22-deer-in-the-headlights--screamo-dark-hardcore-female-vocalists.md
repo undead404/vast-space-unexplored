@@ -1,6 +1,7 @@
 ---
 date: 2020-08-22T08:58:31
 layout: post
+photo: https://i.ytimg.com/vi/U0syl9p_2Js/maxresdefault.jpg
 tags: [screamo, dark_hardcore, female_vocalists, female_fronted_punk, Bosnia_and_Herzegovina, 10s]
 title: "Deer in the Headlights: #screamo #dark_hardcore #female_vocalists"
 ---

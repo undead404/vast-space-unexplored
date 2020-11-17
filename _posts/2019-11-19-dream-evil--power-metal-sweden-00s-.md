@@ -1,6 +1,7 @@
 ---
 date: 2019-11-19T17:22:48
 layout: post
+photo: https://i.ytimg.com/vi/c6UFKb3VZKg/hqdefault.jpg
 tags: [power_metal, Sweden, 00s, melodic_death_metal]
 title: "Dream Evil: #power_metal #Sweden #00s "
 ---

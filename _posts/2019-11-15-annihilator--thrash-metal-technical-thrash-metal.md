@@ -1,6 +1,7 @@
 ---
 date: 2019-11-15T18:13:36
 layout: post
+photo: https://i.scdn.co/image/ab67616d0000b273a0609ce41b25eac95ef1eb94
 tags: [thrash_metal, technical_thrash_metal, Canada, 00s]
 title: "Annihilator: #thrash_metal #technical_thrash_metal"
 ---

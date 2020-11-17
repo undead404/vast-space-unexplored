@@ -1,6 +1,7 @@
 ---
 date: 2019-12-31T10:41:22
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_837_31-12-2019_10-41-22.jpg
 tags: [black_metal, France, 00s]
 title: "Antaeus: #black_metal #France #00s"
 ---

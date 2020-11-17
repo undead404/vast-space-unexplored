@@ -1,6 +1,7 @@
 ---
 date: 2019-11-13T15:53:17
 layout: post
+photo: https://i.ytimg.com/vi/emllr2ad95o/maxresdefault.jpg
 tags: [nu_metal, rapcore, USA, California, 00s]
 title: "Linkin Park: #nu_metal #rapcore #USA #California #00s"
 ---

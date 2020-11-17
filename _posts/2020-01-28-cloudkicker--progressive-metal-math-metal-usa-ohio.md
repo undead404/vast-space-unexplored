@@ -1,6 +1,7 @@
 ---
 date: 2020-01-28T16:34:35
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_865_28-01-2020_16-34-35.jpg
 tags: [progressive_metal, math_metal, USA, Ohio, 00s]
 title: "Cloudkicker: #progressive_metal #math_metal #USA #Ohio"
 ---

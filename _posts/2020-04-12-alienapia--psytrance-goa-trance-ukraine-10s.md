@@ -1,6 +1,7 @@
 ---
 date: 2020-04-12T16:39:44
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_942_12-04-2020_16-39-44.jpg
 tags: [psytrance, goa_trance, Ukraine, 10s]
 title: "Alienapia: #psytrance #goa_trance #Ukraine #10s"
 ---

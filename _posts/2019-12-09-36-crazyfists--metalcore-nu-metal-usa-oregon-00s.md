@@ -1,6 +1,7 @@
 ---
 date: 2019-12-09T11:48:00
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_815_09-12-2019_11-48-00.jpg
 tags: [metalcore, nu_metal, USA, Oregon, 00s]
 title: "36 Crazyfists: #metalcore #nu_metal #USA #Oregon #00s"
 ---

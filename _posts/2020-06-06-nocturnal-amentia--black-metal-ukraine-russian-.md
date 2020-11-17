@@ -1,6 +1,7 @@
 ---
 date: 2020-06-06T10:34:38
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_986_06-06-2020_10-34-38.jpg
 tags: [black_metal, Ukraine, Russian, 10s]
 title: "Nocturnal Amentia: #black_metal #Ukraine #Russian "
 ---

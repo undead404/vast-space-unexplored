@@ -1,6 +1,7 @@
 ---
 date: 2019-10-05T10:20:27
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_753_05-10-2019_10-20-27.jpg
 tags: [d_beat, sludgecore, USA, Tennessee, 90s]
 title: "His Hero Is Gone: #d_beat #sludgecore #USA #Tennessee"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-07T11:12:50
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_938_07-04-2020_11-12-50.jpg
 tags: [technical_death_metal, deathcore, United_Kingdom, England, 10s]
 title: "Burning Skies: #technical_death_metal #deathcore #United_Kingdom"
 ---

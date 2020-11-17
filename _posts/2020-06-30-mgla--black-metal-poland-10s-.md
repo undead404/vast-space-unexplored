@@ -1,6 +1,7 @@
 ---
 date: 2020-06-30T16:43:49
 layout: post
+photo: https://i.ytimg.com/vi/OadBAPv74CA/maxresdefault.jpg
 tags: [black_metal, Poland, 10s]
 title: "Mgła: #black_metal #Poland #10s "
 ---

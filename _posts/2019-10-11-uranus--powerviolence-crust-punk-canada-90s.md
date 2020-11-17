@@ -1,6 +1,7 @@
 ---
 date: 2019-10-11T22:52:22
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_763_11-10-2019_22-52-22.jpg
 tags: [powerviolence, crust_punk, Canada, 90s]
 title: "Uranus: #powerviolence #crust_punk #Canada #90s"
 ---

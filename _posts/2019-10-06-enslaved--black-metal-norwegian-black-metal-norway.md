@@ -1,6 +1,7 @@
 ---
 date: 2019-10-06T19:14:25
 layout: post
+photo: https://i.ytimg.com/vi/olQHDndp_2Y/hqdefault.jpg
 tags: [black_metal, Norwegian_black_metal, Norway, Norwegian, 90s]
 title: "Enslaved: #black_metal #Norwegian_black_metal #Norway"
 ---

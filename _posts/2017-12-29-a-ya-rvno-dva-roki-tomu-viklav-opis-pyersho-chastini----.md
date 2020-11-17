@@ -1,6 +1,7 @@
 ---
 date: 2017-12-29T08:26:50
 layout: post
+photo: //2.bp.blogspot.com/-6klPy_LDWrw/VoJA9j1fsiI/AAAAAAAAAdk/woWJYFjFzk4/s320/20s-sunglass-blackshirt.jpg
 tags: []
 title: "А я рівно два роки тому виклав опис першої частини ..."
 ---

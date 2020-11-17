@@ -1,6 +1,7 @@
 ---
 date: 2020-06-02T17:57:57
 layout: post
+photo: https://f4.bcbits.com/img/a3564938120_5.jpg
 tags: [black_n_roll, Belgium, Flanders, 10s]
 title: "Plaag: #black_n_roll #Belgium #Flanders #10s"
 ---

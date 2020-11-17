@@ -1,6 +1,7 @@
 ---
 date: 2020-08-09T23:17:38
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1035_09-08-2020_23-14-51.jpg
 tags: [atmospheric_black_metal, Finland, Finnish, 10s]
 title: "Cosmic Church: #atmospheric_black_metal #Finland #Finnish"
 ---

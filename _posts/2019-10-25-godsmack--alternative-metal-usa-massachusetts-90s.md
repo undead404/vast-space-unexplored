@@ -1,6 +1,7 @@
 ---
 date: 2019-10-25T10:18:17
 layout: post
+photo: https://i.ytimg.com/vi/qEmhCXNMO78/hqdefault.jpg
 tags: [alternative_metal, USA, Massachusetts, 90s]
 title: "Godsmack: #alternative_metal #USA #Massachusetts #90s"
 ---

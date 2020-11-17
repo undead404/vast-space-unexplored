@@ -1,6 +1,7 @@
 ---
 date: 2020-02-25T12:55:28
 layout: post
+photo: https://i.ytimg.com/vi/QxuQoaKne0g/hqdefault.jpg
 tags: [nu_metal, Ukraine, Russian, 00s]
 title: "Тол: #nu_metal #Ukraine #Russian #00s "
 ---

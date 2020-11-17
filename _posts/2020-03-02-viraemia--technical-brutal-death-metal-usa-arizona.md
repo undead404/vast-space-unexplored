@@ -1,6 +1,7 @@
 ---
 date: 2020-03-02T12:15:25
 layout: post
+photo: https://i.ytimg.com/vi/QFtf1yguffQ/hqdefault.jpg
 tags: [technical_brutal_death_metal, USA, Arizona, 00s]
 title: "Viraemia: #technical_brutal_death_metal #USA #Arizona"
 ---

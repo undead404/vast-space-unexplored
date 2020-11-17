@@ -1,6 +1,7 @@
 ---
 date: 2020-04-26T10:39:19
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_948_26-04-2020_10-39-18.jpg
 tags: [death_doom_metal, Germany, 10s]
 title: "Ophis: #death_doom_metal #Germany #10s"
 ---

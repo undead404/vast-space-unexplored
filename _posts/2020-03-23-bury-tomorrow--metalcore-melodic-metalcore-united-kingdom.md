@@ -1,6 +1,7 @@
 ---
 date: 2020-03-23T23:38:19
 layout: post
+photo: https://i.ytimg.com/vi/gQGAhcEX3tw/maxresdefault.jpg
 tags: [metalcore, melodic_metalcore, United_Kingdom, England, 00s]
 title: "Bury Tomorrow: #metalcore #melodic_metalcore #United_Kingdom"
 ---

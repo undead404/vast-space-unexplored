@@ -1,6 +1,7 @@
 ---
 date: 2019-12-31T16:50:28
 layout: post
+photo: https://f4.bcbits.com/img/a0786235648_5.jpg
 tags: [grindcore, Sweden, 90s]
 title: "Nasum: #grindcore #Sweden #90s"
 ---

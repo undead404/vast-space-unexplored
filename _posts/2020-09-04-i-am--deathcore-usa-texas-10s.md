@@ -1,6 +1,7 @@
 ---
 date: 2020-09-04T22:00:42
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1046_04-09-2020_19-55-44.jpg
 tags: [deathcore, USA, Texas, 10s]
 title: "I Am: #deathcore #USA #Texas #10s"
 ---

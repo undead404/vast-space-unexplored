@@ -1,6 +1,7 @@
 ---
 date: 2020-02-14T10:40:51
 layout: post
+photo: https://i.ytimg.com/vi/2mWC1I2pr8U/hqdefault.jpg
 tags: [trip_hop, electronic, Ukraine, Russian, 00s]
 title: "НеГрузовики: #trip_hop #electronic #Ukraine #Russian"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-11-14T17:56:33
 layout: post
+photo: https://i.ytimg.com/vi/Ty6maIR41Cc/hqdefault.jpg
 tags: [black_metal, atmospheric_black_metal, Ukraine, 00s]
 title: "Hate Forest: #black_metal #atmospheric_black_metal"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-24T16:16:10
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_947_24-04-2020_16-16-10.jpg
 tags: [d_beat, crust_punk, United_Kingdom, England, 10s]
 title: "Extinction of Mankind: #d_beat #crust_punk #United_Kingdom"
 ---

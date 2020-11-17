@@ -1,10 +1,11 @@
 ---
 date: 2020-08-03T11:59:35
 layout: post
+photo: https://cdn4.telesco.pe/file/nqWh26XYQvCmVBxCOEEeIZa-4WGS5rW3Q13Yxb4NJYdMLk9-kLH7nXAq7CiVGbbvRsyoo20dtHHe1_fuAm5FGuiT0KHDABBROtbExiHFt5FWlPhMHzGBJjvGX_JsLIFM1keWzudfL8gLx320urBUN6uz0vnuwGvDZmoC1mdrUAwXV5zhh20gqSN8GUux7VjogxGCVtkCIrK8UYRoCjdokwPERjIngNhEchIuRb4iAVs-EGsTcT8rUcwb7S6zoE913Y3Uol8KcsaFfKbTqqicMgEqEODDNUSo-8HwTw3QIpeE_ManSwRR1TdV-ozvszxAbQFsZvCqzJnKqFL3_lYWsA.jpg
 tags: [black_metal, Norway, 10s]
 title: "God Seed: #black_metal #Norway #10s "
 ---
-![God Seed: #black_metal #Norway #10s ](https://cdn4.telesco.pe/file/VclyMkZr9jCMeJep3TC8N6-hj2m7gpofaC9jblogZ3rnxTSGc4T6Ge6RZD3PTavFoM0U-7L5xNpzHmKTCbibeMifvWPUCuWeKschGOhGCyjg23hDRVyQocpAz0l4Tn1-rddUKDckfTZOCpt9xkxmwYClkurlDb-ZEuipMbZEKwzGRAYGjsUoAPC_4AFlt4_yucNCLNDyc48IQvC4N40U8cztmQOjY9bB0ddTYTfGNhtvLDICGyhXWOwjZyrJ5DSg_u0aj1FtRf_lrMsXdwv76FR6fJTUojHTPrOOvmpD-8E8UDJ4rJX1pO3Bgn_x6g2njjx3dlfJQ8i-XKZM_DzZlg.jpg)
+![God Seed: #black_metal #Norway #10s ](https://cdn4.telesco.pe/file/nqWh26XYQvCmVBxCOEEeIZa-4WGS5rW3Q13Yxb4NJYdMLk9-kLH7nXAq7CiVGbbvRsyoo20dtHHe1_fuAm5FGuiT0KHDABBROtbExiHFt5FWlPhMHzGBJjvGX_JsLIFM1keWzudfL8gLx320urBUN6uz0vnuwGvDZmoC1mdrUAwXV5zhh20gqSN8GUux7VjogxGCVtkCIrK8UYRoCjdokwPERjIngNhEchIuRb4iAVs-EGsTcT8rUcwb7S6zoE913Y3Uol8KcsaFfKbTqqicMgEqEODDNUSo-8HwTw3QIpeE_ManSwRR1TdV-ozvszxAbQFsZvCqzJnKqFL3_lYWsA.jpg)
 God Seed: [#black_metal](/tags/#black_metal) [#Norway](/tags/#Norway) [#10s](/tags/#10s) [https://youtu.be/aGx9qkduIIs?t=290](https://youtu.be/aGx9qkduIIs?t=290)
 
 Як я уже писав раніше, неучасть лідера гурту **Gorgoroth** Роґера &quot;Інфернуса&quot; Тіґса у написанні матеріалу [сьомого альбому](/2020-01-02-gorgoroth--black-metal-norway-00s-) власного гурту призвела до того, що композитор-басист Цар Пекла (також [Sahg](/2020-05-08-sahg--heavy-metal-traditional-doom-metal-norway)) і вокаліст-поет Ґаал (також [Gaahlskagg](/2019-10-30-gaahlskagg--black-metal-norway-90s))  вирішили турнути старого і забрати назву собі. Поки вони давали концерти і писали нові пісні під назвою **Gorgoroth**, норвезький суд розглядав справу, зрештою в 2009 році постановивши, що реєстрація торгової марки **Gorgoroth** може бути виконана виключно Інфернусом. Фініта ля комедія.

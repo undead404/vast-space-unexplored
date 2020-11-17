@@ -1,6 +1,7 @@
 ---
 date: 2020-06-26T16:11:54
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1005_26-06-2020_16-11-54.jpg
 tags: [black_metal, France, 10s]
 title: "Aosoth: #black_metal #France #10s"
 ---

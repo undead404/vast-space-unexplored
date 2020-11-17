@@ -1,6 +1,7 @@
 ---
 date: 2020-05-20T16:23:37
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_974_20-05-2020_16-23-37.jpg
 tags: [EBM, electronic, Ukraine, 10s, EBM]
 title: "Reactor: #EBM #electronic #Ukraine #10s"
 ---

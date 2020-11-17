@@ -1,6 +1,7 @@
 ---
 date: 2020-04-08T11:06:01
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_939_08-04-2020_11-06-01.jpg
 tags: [alternative_metal, Ukraine, Russian, 10s]
 title: "-deTach-: #alternative_metal #Ukraine #Russian #10s"
 ---

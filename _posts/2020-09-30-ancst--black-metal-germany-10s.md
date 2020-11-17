@@ -1,6 +1,7 @@
 ---
 date: 2020-09-30T22:56:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1059_30-09-2020_22-56-24.jpg
 tags: [black_metal, Germany, 10s]
 title: "Ancst: #black_metal #Germany #10s"
 ---

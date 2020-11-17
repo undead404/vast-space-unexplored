@@ -1,6 +1,7 @@
 ---
 date: 2020-03-10T12:48:16
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_916_10-03-2020_12-48-16.jpg
 tags: [post_hardcore, melodic_metalcore, pop_rock, Sweden, 00s]
 title: "Dead by April: #post_hardcore #melodic_metalcore #pop_rock"
 ---

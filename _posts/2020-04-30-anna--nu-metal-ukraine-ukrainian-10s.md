@@ -1,6 +1,7 @@
 ---
 date: 2020-04-30T13:02:22
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_955_30-04-2020_13-02-22.jpg
 tags: [nu_metal, Ukraine, Ukrainian, 10s]
 title: "Анна: #nu_metal #Ukraine #Ukrainian #10s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-01-27T16:09:01
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_864_27-01-2020_15-36-07.jpg
 tags: [depressive_black_metal, Ukraine, 00s]
 title: "Cancer: #depressive_black_metal #Ukraine #00s"
 ---

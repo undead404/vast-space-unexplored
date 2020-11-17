@@ -1,6 +1,7 @@
 ---
 date: 2019-12-16T12:01:39
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_818_16-12-2019_12-01-39.jpg
 tags: [post_metal, sludge, instrumental, USA, Massachusetts, 00s]
 title: "5ive: #post_metal #sludge #instrumental #USA #Massachusetts"
 ---

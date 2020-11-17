@@ -1,6 +1,7 @@
 ---
 date: 2019-11-07T08:49:21
 layout: post
+photo: https://i.ytimg.com/vi/vjVkXlxsO8Q/maxresdefault.jpg
 tags: [alternative_rock, nu_metal, rapcore, USA, California, 00s]
 title: "Linkin Park: #alternative_rock #nu_metal #rapcore "
 ---

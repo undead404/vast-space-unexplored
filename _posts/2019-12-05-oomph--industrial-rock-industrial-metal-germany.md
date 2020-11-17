@@ -1,6 +1,7 @@
 ---
 date: 2019-12-05T10:56:53
 layout: post
+photo: https://i.ytimg.com/vi/fuLPJg2gwjQ/maxresdefault.jpg
 tags: [industrial_rock, industrial_metal, Germany, German, 00s]
 title: "Oomph!: #industrial_rock #industrial_metal #Germany"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-12-29T18:29:39
 layout: post
+photo: https://f4.bcbits.com/img/a0290313091_5.jpg
 tags: [powerviolence, grindcore, USA, New_York, 00s]
 title: "Magrudergrind: #powerviolence #grindcore #USA #New_York"
 ---

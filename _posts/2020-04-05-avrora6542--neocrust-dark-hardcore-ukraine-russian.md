@@ -1,6 +1,7 @@
 ---
 date: 2020-04-05T10:13:28
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_935_04-04-2020_21-16-21.jpg
 tags: [neocrust, dark_hardcore, Ukraine, Russian, 10s]
 title: "Avrora6542: #neocrust #dark_hardcore #Ukraine #Russian"
 ---

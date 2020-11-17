@@ -1,6 +1,7 @@
 ---
 date: 2019-10-07T17:38:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_756_07-10-2019_17-38-33.jpg
 tags: [progressive_black_metal, avant_garde_black_metal, Norway, 90s]
 title: "In the Woods: #progressive_black_metal #avant_garde_black_metal"
 ---

@@ -1,10 +1,11 @@
 ---
 date: 2020-05-04T12:47:43
 layout: post
+photo: https://cdn4.telesco.pe/file/jopV3UrhYF64QCC1l7sGGO82V-BNSvu2NNpimXogZWD21pNcNSkLtNSShcmUs_SgwAT8CSOhT7uh2-eY7ZLHrRQVhKRM4WwtqY1QeG9O63Q2lYpiWGNEFLXMOkcHLaR3TNncmfNrRq_fyXQYAH6yjnUHHJfnnMsyp83jL_FvOSJGZclwuJAvW5GVj_nEqP65HhtY9p7t_K-UXGK0wnPg7rOcgu68_4udV1C9xyJ7VjKrAT9FOGL3rO0E0xKi2NBFfY30JkYdMY6I63dap6_ExPbPKMQmKnserqFHTjddxZ8mOOTxxDFBZoJzLD9s1WDR_oOaPLuz_I6VTdLfEhGYpQ.jpg
 tags: [black_metal, atmospheric_black_metal, Ukraine, 10s]
 title: "Blood of Kingu: #black_metal #atmospheric_black_metal"
 ---
-![Blood of Kingu: #black_metal #atmospheric_black_metal](https://cdn4.telesco.pe/file/IBL5W-M49fsaJV5-S2qfLV4VRw4t1OlQBl4EM4SgdKkGHRny0rHyfgFIMMrd8xorTtnkJ5iqVOYxTaqjBdqdcB0A51BggHpsQviFWW7dad7sSj9NVx9Es74zNOKv6wXt5A1N1hqbecSYYAoa-dXB1rNvWEKqcqKc07Cy0-37gvcalaaB7MjDZYh6QaLu3cHsjHhtGrONmHVEmRpF53Z_0Z-UNvS873SZ2tOeYx2YbNu1jB5-LGGwldih9LqjfYnDZO_c-QBOXQeqEb-jVrv_gyQHqSr5qL1Kvqvr_kp2HwFRNKSqf1VsdJA8hg5RycNcCFPlS7sF7E770rZqLWdITg.jpg)
+![Blood of Kingu: #black_metal #atmospheric_black_metal](https://cdn4.telesco.pe/file/jopV3UrhYF64QCC1l7sGGO82V-BNSvu2NNpimXogZWD21pNcNSkLtNSShcmUs_SgwAT8CSOhT7uh2-eY7ZLHrRQVhKRM4WwtqY1QeG9O63Q2lYpiWGNEFLXMOkcHLaR3TNncmfNrRq_fyXQYAH6yjnUHHJfnnMsyp83jL_FvOSJGZclwuJAvW5GVj_nEqP65HhtY9p7t_K-UXGK0wnPg7rOcgu68_4udV1C9xyJ7VjKrAT9FOGL3rO0E0xKi2NBFfY30JkYdMY6I63dap6_ExPbPKMQmKnserqFHTjddxZ8mOOTxxDFBZoJzLD9s1WDR_oOaPLuz_I6VTdLfEhGYpQ.jpg)
 Blood of Kingu: [#black_metal](/tags/#black_metal) [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Після успіху [першого альбому &quot;Окультна філософія&quot;](/2020-01-23-blood-of-kingu--atmospheric-black-metal-ukraine-), Роман Саєнко (раніше [Hate Forest](/2019-12-02-hate-forest--atmospheric-black-metal-atmospheric-doom-metal)) перетворив своє нове сольне дітище на повноцінний гурт. Житомирський барабанник Юрій Синицький став постійним учасником, в якості другого гітариста долучився Роман &quot;Туріос&quot; Благих (донедавна лідер [Astrofaes](/2020-01-22-astrofaes--atmospheric-black-metal-ukraine-00s) і партнер Саєнка по **Hate Forest**), басистом - учасник останнього складу **Astrofaes** Тарас &quot;Кречет&quot;.

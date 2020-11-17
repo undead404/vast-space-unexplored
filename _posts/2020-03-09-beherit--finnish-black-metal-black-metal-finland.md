@@ -1,6 +1,7 @@
 ---
 date: 2020-03-09T11:01:14
 layout: post
+photo: https://i.scdn.co/image/ab67616d0000b273cc70434a0b68bad54248da0c
 tags: [Finnish_black_metal, black_metal, Finland, 00s]
 title: "Beherit: #Finnish_black_metal #black_metal #Finland"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-12-25T10:32:39
 layout: post
+photo: https://i.ytimg.com/vi/o6aZlMkarX0/hqdefault.jpg
 tags: [deathcore, technical_brutal_death_metal, Canada, Quebec, 00s]
 title: "Beneath the Massacre: #deathcore #technical_brutal_death_metal"
 ---

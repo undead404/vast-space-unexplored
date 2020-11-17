@@ -1,6 +1,7 @@
 ---
 date: 2020-05-07T12:37:21
 layout: post
+photo: https://i.ytimg.com/vi/5ORweGXPrEs/maxresdefault.jpg
 tags: [folk_metal, pagan_metal, Ukraine, Ukrainian, 10s]
 title: "Viter: #folk_metal #pagan_metal #Ukraine #Ukrainian"
 ---

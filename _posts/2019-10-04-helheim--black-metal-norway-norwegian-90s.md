@@ -1,6 +1,7 @@
 ---
 date: 2019-10-04T17:55:59
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_752_04-10-2019_17-55-59.jpg
 tags: [black_metal, Norway, Norwegian, 90s]
 title: "Helheim: #black_metal #Norway #Norwegian #90s"
 ---

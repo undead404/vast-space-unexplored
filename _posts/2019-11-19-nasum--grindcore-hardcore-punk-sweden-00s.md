@@ -1,6 +1,7 @@
 ---
 date: 2019-11-19T11:57:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_808_19-11-2019_11-57-33.jpg
 tags: [grindcore, hardcore_punk, Sweden, 00s]
 title: "Nasum: #grindcore #hardcore_punk #Sweden #00s"
 ---

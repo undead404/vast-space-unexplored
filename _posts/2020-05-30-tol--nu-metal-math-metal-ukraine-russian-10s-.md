@@ -1,6 +1,7 @@
 ---
 date: 2020-05-30T12:58:06
 layout: post
+photo: https://i.ytimg.com/vi/ZbOs4GB6Zqo/maxresdefault.jpg
 tags: [nu_metal, math_metal, Ukraine, Russian, 10s]
 title: "ТОЛ: #nu_metal #math_metal #Ukraine #Russian #10s "
 ---

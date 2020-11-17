@@ -1,6 +1,7 @@
 ---
 date: 2020-07-04T14:54:19
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1014_04-07-2020_14-54-19.jpg
 tags: [grindcore, powerviolence, Canada, 10s]
 title: "Six Brew Bantha: #grindcore #powerviolence #Canada"
 ---

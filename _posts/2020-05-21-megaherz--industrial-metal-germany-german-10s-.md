@@ -1,6 +1,7 @@
 ---
 date: 2020-05-21T12:53:47
 layout: post
+photo: https://i.ytimg.com/vi/kGXTT7s01pw/maxresdefault.jpg
 tags: [industrial_metal, Germany, German, 10s]
 title: "Megaherz: #industrial_metal #Germany #German #10s "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-01-29T15:41:27
 layout: post
+photo: https://i.ytimg.com/vi/U5uhFCQQ38w/maxresdefault.jpg
 tags: [hardcore_punk, dark_hardcore, hardcore, Ukraine, Ukrainian, 00s]
 title: "The Symbioz: #hardcore_punk #dark_hardcore #hardcore"
 ---

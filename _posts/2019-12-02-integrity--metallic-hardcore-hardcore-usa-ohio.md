@@ -1,6 +1,7 @@
 ---
 date: 2019-12-02T10:45:52
 layout: post
+photo: https://f4.bcbits.com/img/a2818157117_5.jpg
 tags: [metallic_hardcore, hardcore, USA, Ohio, 00s]
 title: "Integrity: #metallic_hardcore #hardcore #USA #Ohio"
 ---

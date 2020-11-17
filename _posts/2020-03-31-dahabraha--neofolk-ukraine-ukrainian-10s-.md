@@ -1,6 +1,7 @@
 ---
 date: 2020-03-31T12:42:05
 layout: post
+photo: https://f4.bcbits.com/img/a2398923155_5.jpg
 tags: [neofolk, Ukraine, Ukrainian, 10s]
 title: "ДахаБраха: #neofolk #Ukraine #Ukrainian #10s "
 ---

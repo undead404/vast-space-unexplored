@@ -1,6 +1,7 @@
 ---
 date: 2019-11-21T11:38:41
 layout: post
+photo: https://i.ytimg.com/vi/Z_ucAP9tRB4/maxresdefault.jpg
 tags: [melodic_death_metal, Sweden, 00s]
 title: "Amon Amarth: #melodic_death_metal #Sweden #00s "
 ---

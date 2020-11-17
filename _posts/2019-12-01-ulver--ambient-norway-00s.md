@@ -1,6 +1,7 @@
 ---
 date: 2019-12-01T12:31:01
 layout: post
+photo: https://f4.bcbits.com/img/a0332013540_5.jpg
 tags: [ambient, Norway, 00s]
 title: "Ulver: #ambient #Norway #00s"
 ---

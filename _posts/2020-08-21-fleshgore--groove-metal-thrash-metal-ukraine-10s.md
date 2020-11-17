@@ -1,6 +1,7 @@
 ---
 date: 2020-08-21T02:42:09
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1041_21-08-2020_02-42-09.jpg
 tags: [groove_metal, thrash_metal, Ukraine, 10s]
 title: "Fleshgore: #groove_metal #thrash_metal #Ukraine #10s"
 ---

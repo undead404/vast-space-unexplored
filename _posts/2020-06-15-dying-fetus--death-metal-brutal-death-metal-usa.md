@@ -1,6 +1,7 @@
 ---
 date: 2020-06-15T10:36:35
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_995_15-06-2020_10-36-35.jpg
 tags: [death_metal, brutal_death_metal, USA, Maryland, 10s, death_metal]
 title: "Dying Fetus: #death_metal #brutal_death_metal #USA"
 ---

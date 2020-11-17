@@ -1,6 +1,7 @@
 ---
 date: 2020-07-28T14:15:58
 layout: post
+photo: https://i.ytimg.com/vi/pHxnSmyj4S8/maxresdefault.jpg
 tags: [cyber_metal, groove_metal, Switzerland, 10s]
 title: "Sybreed: #cyber_metal #groove_metal #Switzerland #10s"
 ---

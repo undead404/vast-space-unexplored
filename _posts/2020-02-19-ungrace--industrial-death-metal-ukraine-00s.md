@@ -1,6 +1,7 @@
 ---
 date: 2020-02-19T14:56:34
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_897_19-02-2020_14-56-34.jpg
 tags: [industrial_death_metal, Ukraine, 00s]
 title: "Ungrace: #industrial_death_metal #Ukraine #00s"
 ---

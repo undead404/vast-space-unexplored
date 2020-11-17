@@ -1,6 +1,7 @@
 ---
 date: 2020-06-13T21:31:25
 layout: post
+photo: https://i.ytimg.com/vi/QQnyx7sCcmY/hqdefault.jpg
 tags: [indie_rock, USA, New_Jersey, 10s]
 title: "Thursday: #indie_rock #USA #New_Jersey #10s "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-09T12:46:14
 layout: post
+photo: https://i.ytimg.com/vi/PYCEXywvWrg/hqdefault.jpg
 tags: [hardcore, USA, New_Jersey, 10s, hip_hop, black_metal]
 title: "Suburban Scum: #hardcore #USA #New_Jersey #10s "
 ---

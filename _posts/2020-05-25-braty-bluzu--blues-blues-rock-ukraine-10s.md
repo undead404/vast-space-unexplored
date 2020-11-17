@@ -1,6 +1,7 @@
 ---
 date: 2020-05-25T15:46:13
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_975_25-05-2020_15-46-13.jpg
 tags: [blues, blues_rock, Ukraine, 10s]
 title: "Braty Bluzu: #blues #blues_rock #Ukraine #10s"
 ---

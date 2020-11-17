@@ -1,6 +1,7 @@
 ---
 date: 2019-11-05T11:15:20
 layout: post
+photo: https://i.ytimg.com/vi/iqipODWqJL0/hqdefault.jpg
 tags: [brutal_death_metal, deathgrind, USA, California, 00s]
 title: "Exhumed: #brutal_death_metal #deathgrind #USA #California"
 ---

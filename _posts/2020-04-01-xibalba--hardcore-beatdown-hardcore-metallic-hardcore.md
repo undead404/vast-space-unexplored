@@ -1,6 +1,7 @@
 ---
 date: 2020-04-01T12:57:15
 layout: post
+photo: https://i.ytimg.com/vi/bXoMinb_nbw/maxresdefault.jpg
 tags: [hardcore, beatdown_hardcore, metallic_hardcore, USA, California, 10s]
 title: "Xibalba: #hardcore #beatdown_hardcore #metallic_hardcore"
 ---

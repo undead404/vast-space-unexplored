@@ -1,6 +1,7 @@
 ---
 date: 2019-11-25T10:28:13
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_810_25-11-2019_10-28-13.jpg
 tags: [metallic_hardcore, crossover, USA, New_York, 00s]
 title: "Sworn Enemy: #metallic_hardcore #crossover #USA #New_York"
 ---

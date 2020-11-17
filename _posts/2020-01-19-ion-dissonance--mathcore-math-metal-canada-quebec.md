@@ -1,6 +1,7 @@
 ---
 date: 2020-01-19T15:59:28
 layout: post
+photo: https://i.ytimg.com/vi/bo4jjOsQA9k/hqdefault.jpg
 tags: [mathcore, math_metal, Canada, Quebec, 00s]
 title: "Ion Dissonance: #mathcore #math_metal #Canada #Quebec"
 ---

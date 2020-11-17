@@ -1,6 +1,7 @@
 ---
 date: 2020-01-21T15:38:29
 layout: post
+photo: https://f4.bcbits.com/img/a0996041898_5.jpg
 tags: [grindcore, deathgrind, USA, Texas, 00s]
 title: "Insect Warfare: #grindcore #deathgrind #USA #Texas"
 ---

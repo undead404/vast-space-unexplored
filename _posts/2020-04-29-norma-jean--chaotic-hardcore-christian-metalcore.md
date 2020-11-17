@@ -1,6 +1,7 @@
 ---
 date: 2020-04-29T12:55:20
 layout: post
+photo: https://i.ytimg.com/vi/ned8zt0DspY/maxresdefault.jpg
 tags: [chaotic_hardcore, Christian_metalcore, USA, Georgia, 10s]
 title: "Norma Jean: #chaotic_hardcore #Christian_metalcore"
 ---

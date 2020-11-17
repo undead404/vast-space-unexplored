@@ -1,6 +1,7 @@
 ---
 date: 2020-06-25T10:56:22
 layout: post
+photo: https://f4.bcbits.com/img/a4273222958_5.jpg
 tags: [atmospheric_death_metal, death_metal, Ukraine, 10s]
 title: "Rattenfänger: #atmospheric_death_metal #death_metal"
 ---

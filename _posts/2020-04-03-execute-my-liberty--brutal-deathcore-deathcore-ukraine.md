@@ -1,6 +1,7 @@
 ---
 date: 2020-04-03T22:02:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_933_03-04-2020_22-02-25.jpg
 tags: [brutal_deathcore, deathcore, Ukraine, Crimea, 10s]
 title: "Execute My Liberty: #brutal_deathcore #deathcore #Ukraine"
 ---

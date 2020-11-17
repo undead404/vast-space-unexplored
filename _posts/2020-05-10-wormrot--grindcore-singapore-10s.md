@@ -1,6 +1,7 @@
 ---
 date: 2020-05-10T13:21:14
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_964_10-05-2020_13-21-14.jpg
 tags: [grindcore, Singapore, 10s]
 title: "Wormrot: #grindcore #Singapore #10s"
 ---

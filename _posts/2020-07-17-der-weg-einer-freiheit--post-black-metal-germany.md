@@ -1,6 +1,7 @@
 ---
 date: 2020-07-17T12:09:49
 layout: post
+photo: https://i.ytimg.com/vi/bKioMYoP2sk/hqdefault.jpg
 tags: [post_black_metal, Germany, German, 10s]
 title: "Der Weg einer Freiheit: #post_black_metal #Germany"
 ---

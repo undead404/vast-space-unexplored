@@ -1,6 +1,7 @@
 ---
 date: 2019-10-14T17:16:24
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_768_14-10-2019_17-16-24.jpg
 tags: [crust_punk, d_beat, Sweden, 90s]
 title: "Disfear: #crust_punk #d_beat #Sweden #90s"
 ---

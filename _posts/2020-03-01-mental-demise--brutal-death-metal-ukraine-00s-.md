@@ -1,6 +1,7 @@
 ---
 date: 2020-03-01T10:40:13
 layout: post
+photo: https://i.ytimg.com/vi/ulhbJA17jb0/hqdefault.jpg
 tags: [brutal_death_metal, Ukraine, 00s]
 title: "Mental Demise: #brutal_death_metal #Ukraine #00s "
 ---

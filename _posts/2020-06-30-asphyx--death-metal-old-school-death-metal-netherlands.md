@@ -1,6 +1,7 @@
 ---
 date: 2020-06-30T10:19:23
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1009_30-06-2020_10-19-23.jpg
 tags: [death_metal, old_school_death_metal, Netherlands, 10s]
 title: "Asphyx: #death_metal #old_school_death_metal #Netherlands"
 ---

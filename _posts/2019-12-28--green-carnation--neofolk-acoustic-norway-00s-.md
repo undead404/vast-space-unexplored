@@ -1,6 +1,7 @@
 ---
 date: 2019-12-28T23:12:26
 layout: post
+photo: https://i.ytimg.com/vi/VC6MGHMwFEc/hqdefault.jpg
 tags: [neofolk, acoustic, Norway, 00s]
 title: ":Green Carnation: #neofolk #acoustic #Norway #00s "
 ---

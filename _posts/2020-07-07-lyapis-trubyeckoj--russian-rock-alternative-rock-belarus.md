@@ -1,6 +1,7 @@
 ---
 date: 2020-07-07T13:21:32
 layout: post
+photo: https://i.ytimg.com/vi/UinVvj3KKz0/maxresdefault.jpg
 tags: [Russian_rock, alternative_rock, Belarus, Belarusian, 10s]
 title: "Ляпис Трубецкой: #Russian_rock #alternative_rock #Belarus"
 ---

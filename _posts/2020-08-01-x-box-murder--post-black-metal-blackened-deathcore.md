@@ -1,6 +1,7 @@
 ---
 date: 2020-08-01T23:43:03
 layout: post
+photo: https://i.ytimg.com/vi/4WL0hob_zCY/maxresdefault.jpg
 tags: [post_black_metal, blackened_deathcore, Ukraine, Russian, 10s]
 title: "X-box Murder: #post_black_metal #blackened_deathcore"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-11-09T10:17:50
 layout: post
+photo: https://is1-ssl.mzstatic.com/image/thumb/Music/87/d4/34/mzi.xxhefuyc.tif/1200x630wp.png
 tags: [crust_punk, d_beat, Sweden, Swedish, 00s]
 title: "Skitsystem: #crust_punk #d_beat #Sweden #Swedish #00s"
 ---

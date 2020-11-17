@@ -1,6 +1,7 @@
 ---
 date: 2019-12-21T18:08:22
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_827_21-12-2019_18-08-22.jpg
 tags: [ambient, USA, Tennessee, instrumental, 00s]
 title: "Hammock: #ambient #USA #Tennessee #instrumental #00s"
 ---

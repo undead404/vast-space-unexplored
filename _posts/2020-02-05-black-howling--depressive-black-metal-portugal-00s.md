@@ -1,6 +1,7 @@
 ---
 date: 2020-02-05T08:57:14
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_874_05-02-2020_08-57-14.jpg
 tags: [depressive_black_metal, Portugal, 00s]
 title: "Black Howling: #depressive_black_metal #Portugal #00s"
 ---

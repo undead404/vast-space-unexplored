@@ -1,6 +1,7 @@
 ---
 date: 2020-01-23T17:36:45
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_861_23-01-2020_17-36-45.jpg
 tags: [atmospheric_black_metal, Ukraine, 00s]
 title: "Blood of Kingu: #atmospheric_black_metal #Ukraine "
 ---

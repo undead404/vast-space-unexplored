@@ -1,6 +1,7 @@
 ---
 date: 2020-04-03T11:10:32
 layout: post
+photo: https://i.ytimg.com/vi/MFunyYA2m4U/maxresdefault.jpg
 tags: [hardcore, USA, California, 10s]
 title: "First Blood: #hardcore #USA #California #10s "
 ---

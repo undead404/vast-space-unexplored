@@ -1,6 +1,7 @@
 ---
 date: 2019-12-27T11:31:43
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_833_27-12-2019_11-31-43.jpg
 tags: [black_metal, old_school_black_metal, Germany, 00s]
 title: "Desaster: #black_metal #old_school_black_metal #Germany"
 ---

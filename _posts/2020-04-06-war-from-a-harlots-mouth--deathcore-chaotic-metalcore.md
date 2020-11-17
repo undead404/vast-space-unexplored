@@ -1,6 +1,7 @@
 ---
 date: 2020-04-06T17:02:24
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_937_06-04-2020_17-02-24.jpg
 tags: [deathcore, chaotic_metalcore, Germany, 10s]
 title: "War from a Harlots Mouth: #deathcore #chaotic_metalcore"
 ---

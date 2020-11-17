@@ -1,6 +1,7 @@
 ---
 date: 2020-08-15T12:22:01
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1039_15-08-2020_12-22-00.jpg
 tags: [depressive_black_metal, Denmark, 10s]
 title: "Make a Change... Kill Yourself: #depressive_black_metal"
 ---

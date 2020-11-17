@@ -1,6 +1,7 @@
 ---
 date: 2019-11-07T11:39:43
 layout: post
+photo: https://i.ytimg.com/vi/opU1urLhw50/maxresdefault.jpg
 tags: [alternative_metal, nu_metal, USA, Massachusetts, 00s]
 title: "Godsmack: #alternative_metal #nu_metal #USA #Massachusetts"
 ---

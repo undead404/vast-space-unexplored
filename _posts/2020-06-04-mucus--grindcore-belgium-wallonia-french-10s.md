@@ -1,6 +1,7 @@
 ---
 date: 2020-06-04T12:36:37
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_983_04-06-2020_12-36-37.jpg
 tags: [grindcore, Belgium, Wallonia, French, 10s, powerviolence]
 title: "Mucus: #grindcore #Belgium #Wallonia #French #10s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-06-07T21:05:21
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_988_07-06-2020_21-05-21.jpg
 tags: [old_school_death_metal, blackened_death_metal, USA, Texas, 10s]
 title: "Blaspherian: #old_school_death_metal #blackened_death_metal"
 ---

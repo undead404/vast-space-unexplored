@@ -1,6 +1,7 @@
 ---
 date: 2020-06-20T11:16:14
 layout: post
+photo: https://i.ytimg.com/vi/1d3so6aV878/maxresdefault.jpg
 tags: [gothic_metal, female_fronted_metal, female_vocalists, Ukraine, Ukrainian, 10s]
 title: "Delia: #gothic_metal #female_fronted_metal #female_vocalists"
 ---

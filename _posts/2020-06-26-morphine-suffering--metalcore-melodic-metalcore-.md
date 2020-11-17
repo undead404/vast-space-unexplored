@@ -1,6 +1,7 @@
 ---
 date: 2020-06-26T10:53:31
 layout: post
+photo: https://i.ytimg.com/vi/-mUnKcHzAJk/maxresdefault.jpg
 tags: [metalcore, melodic_metalcore, Ukraine, Ukrainian, 10s]
 title: "Morphine Suffering: #metalcore #melodic_metalcore "
 ---

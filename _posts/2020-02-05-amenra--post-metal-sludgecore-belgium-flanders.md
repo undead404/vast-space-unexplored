@@ -1,6 +1,7 @@
 ---
 date: 2020-02-05T17:02:34
 layout: post
+photo: https://i.ytimg.com/vi/PGag3OG41QQ/hqdefault.jpg
 tags: [post_metal, sludgecore, Belgium, Flanders, 00s]
 title: "Amenra: #post_metal #sludgecore #Belgium #Flanders"
 ---

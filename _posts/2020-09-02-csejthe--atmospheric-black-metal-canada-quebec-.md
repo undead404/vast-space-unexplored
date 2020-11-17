@@ -1,6 +1,7 @@
 ---
 date: 2020-09-02T13:47:14
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1045_02-09-2020_13-47-14.jpg
 tags: [atmospheric_black_metal, Canada, Quebec, French, 10s]
 title: "Csejthe: #atmospheric_black_metal #Canada #Quebec "
 ---

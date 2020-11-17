@@ -1,6 +1,7 @@
 ---
 date: 2020-01-13T16:15:56
 layout: post
+photo: https://i.ytimg.com/vi/nkARbDMEMEQ/hqdefault.jpg
 tags: [metalcore, USA, Massachusetts, 00s]
 title: "Shadows Fall: #metalcore #USA #Massachusetts #00s "
 ---

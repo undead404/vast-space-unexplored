@@ -1,6 +1,7 @@
 ---
 date: 2019-12-23T10:41:48
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_828_23-12-2019_10-41-48.jpg
 tags: [depressive_black_metal, Sweden, Swedish, 00s]
 title: "Hypothermia: #depressive_black_metal #Sweden #Swedish"
 ---

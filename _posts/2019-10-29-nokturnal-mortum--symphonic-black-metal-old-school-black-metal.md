@@ -1,6 +1,7 @@
 ---
 date: 2019-10-29T15:27:58
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_790_29-10-2019_15-27-58.jpg
 tags: [symphonic_black_metal, old_school_black_metal, Ukraine, 90s]
 title: "Nokturnal Mortum: #symphonic_black_metal #old_school_black_metal"
 ---

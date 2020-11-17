@@ -1,6 +1,7 @@
 ---
 date: 2019-10-29T17:21:54
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_791_29-10-2019_17-21-54.jpg
 tags: [post_metal, melodic_hardcore, Sweden, 90s]
 title: "Burst: #post_metal #melodic_hardcore #Sweden #90s"
 ---

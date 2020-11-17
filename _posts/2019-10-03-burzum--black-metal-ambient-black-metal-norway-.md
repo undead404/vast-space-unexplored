@@ -1,6 +1,7 @@
 ---
 date: 2019-10-03T15:55:35
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_749_03-10-2019_15-55-35.jpg
 tags: [black_metal, ambient_black_metal, Norway, Norwegian, 90s]
 title: "Burzum: #black_metal #ambient_black_metal #Norway "
 ---

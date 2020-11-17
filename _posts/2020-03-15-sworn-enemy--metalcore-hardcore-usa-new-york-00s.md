@@ -1,6 +1,7 @@
 ---
 date: 2020-03-15T09:52:50
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_921_15-03-2020_09-52-50.jpg
 tags: [metalcore, hardcore, USA, New_York, 00s]
 title: "Sworn Enemy: #metalcore #hardcore #USA #New_York #00s"
 ---

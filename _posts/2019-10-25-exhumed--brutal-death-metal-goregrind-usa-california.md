@@ -1,6 +1,7 @@
 ---
 date: 2019-10-25T12:07:00
 layout: post
+photo: https://i.ytimg.com/vi/j2rXPWMXg3I/hqdefault.jpg
 tags: [brutal_death_metal, goregrind, USA, California, 90s]
 title: "Exhumed: #brutal_death_metal #goregrind #USA #California"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-01-08T11:15:30
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_847_08-01-2020_11-15-30.jpg
 tags: [post_black_metal, black_metal, United_Kingdom, England, 00s]
 title: "Niroth: #post_black_metal #black_metal #United_Kingdom"
 ---

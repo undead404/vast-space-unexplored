@@ -1,6 +1,7 @@
 ---
 date: 2020-06-29T19:31:34
 layout: post
+photo: https://i.ytimg.com/vi/8pT4xAh35h0/maxresdefault.jpg
 tags: [death_metal, United_Kingdom, England, 10s]
 title: "Dyscarnate: #death_metal #United_Kingdom #England "
 ---

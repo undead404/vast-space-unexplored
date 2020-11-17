@@ -1,6 +1,7 @@
 ---
 date: 2019-12-06T17:48:50
 layout: post
+photo: https://i.ytimg.com/vi/Bs7cI_XS__k/hqdefault.jpg
 tags: [melodic_death_metal, death_metal, Sweden, 00s]
 title: "Hypocrisy: #melodic_death_metal #death_metal #Sweden"
 ---

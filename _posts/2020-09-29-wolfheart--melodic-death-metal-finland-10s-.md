@@ -1,6 +1,7 @@
 ---
 date: 2020-09-29T12:05:09
 layout: post
+photo: https://i.ytimg.com/vi/O9XkMO_Q6IA/maxresdefault.jpg
 tags: [melodic_death_metal, Finland, 10s]
 title: "Wolfheart: #melodic_death_metal #Finland #10s "
 ---

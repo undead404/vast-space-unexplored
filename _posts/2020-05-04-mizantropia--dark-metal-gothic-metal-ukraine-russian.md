@@ -1,6 +1,7 @@
 ---
 date: 2020-05-04T23:01:29
 layout: post
+photo: https://i.ytimg.com/vi/kvpxB18WG74/hqdefault.jpg
 tags: [dark_metal, gothic_metal, Ukraine, Russian, 10s]
 title: "Mizantropia: #dark_metal #gothic_metal #Ukraine #Russian"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-11-29T12:08:08
 layout: post
+photo: https://i.ytimg.com/vi/Jk1eHexVD2s/hqdefault.jpg
 tags: [gothic_metal, progressive_metal, Norway, 00s]
 title: ":Green Carnation: #gothic_metal #progressive_metal"
 ---

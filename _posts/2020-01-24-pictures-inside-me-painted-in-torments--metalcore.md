@@ -1,6 +1,7 @@
 ---
 date: 2020-01-24T11:30:16
 layout: post
+photo: https://i.ytimg.com/vi/AZCjGIbexNU/hqdefault.jpg
 tags: [metalcore, melodic_metalcore, Ukraine, Russian, 00s]
 title: "Pictures Inside Me Painted in Torments: #metalcore"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-26T13:41:16
 layout: post
+photo: https://i.ytimg.com/vi/uFZsjz-fTGQ/maxresdefault.jpg
 tags: [atmospheric_black_metal, United_Kingdom, England, 10s]
 title: "Winterfylleth: #atmospheric_black_metal #United_Kingdom"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-09T11:19:47
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1017_09-07-2020_11-19-47.jpg
 tags: [raw_black_metal, USA, California, 10s]
 title: "The Haunting Presence: #raw_black_metal #USA #California"
 ---

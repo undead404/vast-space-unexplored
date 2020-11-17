@@ -1,6 +1,7 @@
 ---
 date: 2020-07-05T08:42:11
 layout: post
+photo: https://i.ytimg.com/vi/wyyeXMwUBWA/maxresdefault.jpg
 tags: [post_black_metal, sludge_metal, Ukraine, Ukrainian, 10s]
 title: "Agruss: #post_black_metal #sludge_metal #Ukraine #Ukrainian"
 ---

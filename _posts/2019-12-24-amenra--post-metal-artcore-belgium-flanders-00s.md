@@ -1,6 +1,7 @@
 ---
 date: 2019-12-24T16:42:05
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_831_24-12-2019_16-42-05.jpg
 tags: [post_metal, artcore, Belgium, Flanders, 00s]
 title: "Amenra: #post_metal #artcore #Belgium #Flanders #00s"
 ---

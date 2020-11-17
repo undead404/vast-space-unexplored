@@ -1,6 +1,7 @@
 ---
 date: 2020-05-09T16:57:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_962_09-05-2020_16-57-33.jpg
 tags: [metalcore, progressive_metalcore, USA, Arizona, 10s]
 title: "The Word Alive: #metalcore #progressive_metalcore "
 ---

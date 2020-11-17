@@ -1,6 +1,7 @@
 ---
 date: 2019-10-11T22:40:46
 layout: post
+photo: https://i.ytimg.com/vi/tyrc7Fl2myA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLCvqIlH_pn-8xB99C6lgiUdJrmsLA&amp;days_since_epoch=18583
 tags: []
 title: "Привіт, друзі, вас побільшало, тому розповім, що це за канал і як я добираю музику."
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-06-22T12:56:11
 layout: post
+photo: https://i.ytimg.com/vi/ehx3V7Mcsuo/maxresdefault.jpg
 tags: [deathcore, Australia, 10s]
 title: "Boris the Blade: #deathcore #Australia #10s "
 ---

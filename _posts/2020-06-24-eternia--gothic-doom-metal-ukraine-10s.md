@@ -1,6 +1,7 @@
 ---
 date: 2020-06-24T16:02:20
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1003_24-06-2020_16-02-20.jpg
 tags: [gothic_doom_metal, Ukraine, 10s]
 title: "Eternia: #gothic_doom_metal #Ukraine #10s"
 ---

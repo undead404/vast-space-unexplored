@@ -1,6 +1,7 @@
 ---
 date: 2020-03-10T17:13:50
 layout: post
+photo: https://i.ytimg.com/vi/A-inasl0sxU/hqdefault.jpg
 tags: [depressive_black_metal, atmospheric_black_metal, USA, California, 00s]
 title: "Kuxan Suum: #depressive_black_metal #atmospheric_black_metal"
 ---

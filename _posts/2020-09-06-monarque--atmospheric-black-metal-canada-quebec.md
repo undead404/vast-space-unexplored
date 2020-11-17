@@ -1,6 +1,7 @@
 ---
 date: 2020-09-06T10:58:54
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1047_06-09-2020_10-58-54.jpg
 tags: [atmospheric_black_metal, Canada, Quebec, French, 10s]
 title: "Monarque: #atmospheric_black_metal #Canada #Quebec"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-02-09T14:49:01
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_880_09-02-2020_14-01-47.jpg
 tags: [symphonic_black_metal, Ukraine, 00s]
 title: "Capitollium: #symphonic_black_metal #Ukraine #00s"
 ---

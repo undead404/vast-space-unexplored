@@ -1,6 +1,7 @@
 ---
 date: 2020-09-23T21:29:22
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1055_23-09-2020_21-29-22.jpg
 tags: [dark_hardcore, Germany, 10s]
 title: "Henry Fonda: #dark_hardcore #Germany #10s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-31T20:22:24
 layout: post
+photo: https://i.ytimg.com/vi/Nzm-4u2fpN4/hqdefault.jpg
 tags: [atmospheric_doom_metal, blackened_doom_metal, Ukraine, 10s]
 title: "Raventale: #atmospheric_doom_metal #blackened_doom_metal"
 ---

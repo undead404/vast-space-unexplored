@@ -1,6 +1,7 @@
 ---
 date: 2020-07-21T10:10:04
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1025_21-07-2020_10-10-04.jpg
 tags: [artcore, progressive_rock, sludgecore, USA, New_York, Texas, 10s]
 title: "City of Ships: #artcore #progressive_rock #sludgecore"
 ---

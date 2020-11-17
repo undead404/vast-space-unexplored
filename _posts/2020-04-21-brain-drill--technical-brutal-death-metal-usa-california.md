@@ -1,6 +1,7 @@
 ---
 date: 2020-04-21T15:00:23
 layout: post
+photo: https://i.ytimg.com/vi/aV4n8fJGip0/maxresdefault.jpg
 tags: [technical_brutal_death_metal, USA, California, 10s]
 title: "Brain Drill: #technical_brutal_death_metal #USA #California"
 ---

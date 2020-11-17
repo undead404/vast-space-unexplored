@@ -1,6 +1,7 @@
 ---
 date: 2019-10-05T10:47:38
 layout: post
+photo: https://i.ytimg.com/vi/QapkGK-6G90/maxresdefault.jpg
 tags: [heavy_metal, hard_rock, United_Kingdom, England, 90s]
 title: "Ozzy Osbourne: #heavy_metal #hard_rock #United_Kingdom"
 ---

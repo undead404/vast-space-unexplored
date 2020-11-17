@@ -1,6 +1,7 @@
 ---
 date: 2020-04-23T15:33:19
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_946_23-04-2020_15-33-19.jpg
 tags: [hardcore, Germany, 10s]
 title: "New Hate Rising: #hardcore #Germany #10s"
 ---

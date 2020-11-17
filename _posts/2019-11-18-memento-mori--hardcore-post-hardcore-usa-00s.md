@@ -1,6 +1,7 @@
 ---
 date: 2019-11-18T11:43:28
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_807_18-11-2019_11-43-28.jpg
 tags: [hardcore, post_hardcore, USA, 00s]
 title: "Memento Mori: #hardcore #post_hardcore #USA #00s"
 ---

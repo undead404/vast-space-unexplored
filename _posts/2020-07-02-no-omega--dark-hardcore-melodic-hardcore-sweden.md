@@ -1,6 +1,7 @@
 ---
 date: 2020-07-02T15:24:02
 layout: post
+photo: https://i.ytimg.com/vi/YdtbrsFZoMc/maxresdefault.jpg
 tags: [dark_hardcore, melodic_hardcore, Sweden, 10s]
 title: "No Omega: #dark_hardcore #melodic_hardcore #Sweden"
 ---

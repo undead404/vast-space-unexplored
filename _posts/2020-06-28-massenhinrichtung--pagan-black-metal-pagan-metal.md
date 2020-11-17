@@ -1,6 +1,7 @@
 ---
 date: 2020-06-28T16:07:15
 layout: post
+photo: https://i.ytimg.com/vi/I3Nbj3Lj3LA/hqdefault.jpg
 tags: [pagan_black_metal, pagan_metal, Belarus, Belarusian, 10s]
 title: "Massenhinrichtung: #pagan_black_metal #pagan_metal"
 ---

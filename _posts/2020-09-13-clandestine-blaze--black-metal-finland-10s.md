@@ -1,6 +1,7 @@
 ---
 date: 2020-09-13T14:23:04
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1050_13-09-2020_14-23-04.jpg
 tags: [black_metal, Finland, 10s]
 title: "Clandestine Blaze: #black_metal #Finland #10s"
 ---

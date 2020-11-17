@@ -1,6 +1,7 @@
 ---
 date: 2020-07-04T10:31:22
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1013_04-07-2020_10-31-22.jpg
 tags: [screamo, melodic_hardcore, Italy, 10s]
 title: "Minus Tree: #screamo #melodic_hardcore #Italy #10s"
 ---

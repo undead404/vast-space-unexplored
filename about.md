@@ -1,5 +1,6 @@
 ---
 layout: page
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photo5204221884588207887.jpg
 title: Про цей сайт
 ---
 

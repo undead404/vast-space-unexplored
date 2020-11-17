@@ -1,6 +1,7 @@
 ---
 date: 2019-11-11T10:05:54
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_803_11-11-2019_10-05-54.jpg
 tags: [screamo, real_screamo, USA, Delaware, 00s]
 title: "Joshua Fit for Battle: #screamo #real_screamo #USA"
 ---

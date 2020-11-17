@@ -1,6 +1,7 @@
 ---
 date: 2019-12-15T13:33:58
 layout: post
+photo: https://i.ytimg.com/vi/SP6k1wiLXLk/hqdefault.jpg
 tags: [artcore, progressive_metal, USA, Georgia, 00s]
 title: "Mastodon: #artcore #progressive_metal #USA #Georgia"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-02-29T13:52:58
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_908_29-02-2020_13-52-58.jpg
 tags: [atmospheric_black_metal, black_metal, Ukraine, 00s]
 title: "Shadows Ground: #atmospheric_black_metal #black_metal"
 ---

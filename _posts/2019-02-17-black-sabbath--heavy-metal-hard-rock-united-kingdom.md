@@ -1,6 +1,7 @@
 ---
 date: 2019-02-17T13:21:38
 layout: post
+photo: https://i.ytimg.com/vi/mfTpjrzas5E/hqdefault.jpg
 tags: [heavy_metal, hard_rock, United_Kingdom, England, 70s]
 title: "Black Sabbath: #heavy_metal #hard_rock #United_Kingdom"
 ---

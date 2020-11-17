@@ -1,6 +1,7 @@
 ---
 date: 2020-01-02T09:30:44
 layout: post
+photo: https://f4.bcbits.com/img/a0691075269_5.jpg
 tags: [black_metal, Ukraine, Russian, 00s]
 title: "Лютомисл: #black_metal #Ukraine #Russian #00s"
 ---

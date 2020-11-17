@@ -1,6 +1,7 @@
 ---
 date: 2020-02-12T11:16:42
 layout: post
+photo: https://i.ytimg.com/vi/UwXSHnb7XnA/hqdefault.jpg
 tags: [metalcore, deathcore, United_Kingdom, England, 00s]
 title: "Bring Me the Horizon: #metalcore #deathcore #United_Kingdom"
 ---

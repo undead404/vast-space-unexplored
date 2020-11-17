@@ -1,6 +1,7 @@
 ---
 date: 2020-08-08T09:15:43
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1034_08-08-2020_09-15-43.jpg
 tags: [street_punk, oi, punk_rock, Ukraine, Russian, 10s]
 title: "Cios: #street_punk #oi #punk_rock #Ukraine #Russian"
 ---

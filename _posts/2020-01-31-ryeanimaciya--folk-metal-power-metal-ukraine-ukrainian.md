@@ -1,6 +1,7 @@
 ---
 date: 2020-01-31T08:19:14
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_869_31-01-2020_08-19-14.jpg
 tags: [folk_metal, power_metal, Ukraine, Ukrainian, 00s]
 title: "Реанимация: #folk_metal #power_metal #Ukraine #Ukrainian"
 ---

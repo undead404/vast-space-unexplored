@@ -1,6 +1,7 @@
 ---
 date: 2020-10-02T16:35:58
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1060_02-10-2020_16-35-58.jpg
 tags: []
 title: "Друзі, я учора пропустив важливу річницю. 1 жовтня ..."
 ---

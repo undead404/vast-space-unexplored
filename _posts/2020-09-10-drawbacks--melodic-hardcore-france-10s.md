@@ -1,6 +1,7 @@
 ---
 date: 2020-09-10T10:05:16
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1049_10-09-2020_10-05-16.jpg
 tags: [melodic_hardcore, France, 10s]
 title: "Drawbacks: #melodic_hardcore #France #10s"
 ---

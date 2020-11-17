@@ -1,6 +1,7 @@
 ---
 date: 2019-12-17T16:05:27
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_819_17-12-2019_16-05-27.jpg
 tags: [black_metal, Finland, 00s]
 title: "Baptism: #black_metal #Finland #00s"
 ---

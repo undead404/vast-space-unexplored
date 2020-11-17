@@ -1,6 +1,7 @@
 ---
 date: 2020-09-16T23:03:39
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1052_16-09-2020_23-03-39.jpg
 tags: [progressive_metal, oriental_metal, Ukraine, 10s]
 title: "Parallax: #progressive_metal #oriental_metal #Ukraine"
 ---

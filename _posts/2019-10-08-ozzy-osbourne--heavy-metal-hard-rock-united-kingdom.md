@@ -1,6 +1,7 @@
 ---
 date: 2019-10-08T11:06:08
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_757_08-10-2019_11-06-08.jpg
 tags: [heavy_metal, hard_rock, United_Kingdom, England, 90s]
 title: "Ozzy Osbourne: #heavy_metal #hard_rock #United_Kingdom"
 ---

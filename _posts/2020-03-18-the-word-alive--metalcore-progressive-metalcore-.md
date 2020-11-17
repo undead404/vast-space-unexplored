@@ -1,6 +1,7 @@
 ---
 date: 2020-03-18T13:37:47
 layout: post
+photo: https://i.ytimg.com/vi/auFhWyZd93o/hqdefault.jpg
 tags: [metalcore, progressive_metalcore, USA, Arizona, 00s]
 title: "The Word Alive: #metalcore #progressive_metalcore "
 ---

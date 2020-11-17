@@ -1,6 +1,7 @@
 ---
 date: 2019-10-30T17:23:13
 layout: post
+photo: https://i.ytimg.com/vi/Up1wuoMA-84/hqdefault.jpg
 tags: [death_metal, Ukrainian, Ukraine, 00s]
 title: "Reactor: #death_metal #Ukrainian #Ukraine #00s "
 ---

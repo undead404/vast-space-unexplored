@@ -1,6 +1,7 @@
 ---
 date: 2020-06-28T10:57:31
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1007_28-06-2020_10-57-31.jpg
 tags: [hardcore, USA, New_York, 10s, NYHC]
 title: "Incendiary: #hardcore #USA #New_York #10s"
 ---

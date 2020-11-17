@@ -1,6 +1,7 @@
 ---
 date: 2019-10-14T08:59:42
 layout: post
+photo: https://i.ytimg.com/vi/FzZUhsg47Pc/hqdefault.jpg
 tags: [industrial_metal, Sweden, 90s]
 title: "Pain: #industrial_metal #Sweden #90s "
 ---

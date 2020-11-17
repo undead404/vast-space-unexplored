@@ -1,6 +1,7 @@
 ---
 date: 2019-11-20T11:10:04
 layout: post
+photo: https://i.ytimg.com/vi/2IF9Q7MCWxs/hqdefault.jpg
 tags: [neofolk, cardio_wave, female_vocalists, 00s]
 title: "Flёur: #neofolk #cardio_wave #female_vocalists #00s"
 ---

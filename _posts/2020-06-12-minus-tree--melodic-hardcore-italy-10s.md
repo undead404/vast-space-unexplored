@@ -1,6 +1,7 @@
 ---
 date: 2020-06-12T10:01:07
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_993_12-06-2020_10-01-07.jpg
 tags: [melodic_hardcore, Italy, 10s]
 title: "Minus Tree: #melodic_hardcore #Italy #10s"
 ---

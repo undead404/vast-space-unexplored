@@ -1,6 +1,7 @@
 ---
 date: 2020-05-02T13:13:13
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_957_02-05-2020_13-13-13.jpg
 tags: [blackened_death_metal, International, Canada, Ireland, 10s]
 title: "Blood Revolt: #blackened_death_metal #International"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-01-23T11:46:06
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_860_23-01-2020_11-46-06.jpg
 tags: [ambient, sadcore, USA, California, 00s]
 title: "MGR: #ambient #sadcore #USA #California #00s"
 ---

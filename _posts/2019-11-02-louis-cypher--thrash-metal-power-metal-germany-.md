@@ -1,6 +1,7 @@
 ---
 date: 2019-11-02T20:13:42
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_796_02-11-2019_20-13-42.jpg
 tags: [thrash_metal, power_metal, Germany, 00s]
 title: "Louis Cypher: #thrash_metal #power_metal #Germany "
 ---

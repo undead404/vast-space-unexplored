@@ -1,6 +1,7 @@
 ---
 date: 2020-07-22T15:20:03
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1026_22-07-2020_15-20-03.jpg
 tags: [atmospheric_black_metal, post_black_metal, USA, Pennsylvania, 10s]
 title: "Esoterica: #atmospheric_black_metal #post_black_metal"
 ---

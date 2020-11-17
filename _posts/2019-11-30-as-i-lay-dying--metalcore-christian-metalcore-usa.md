@@ -1,6 +1,7 @@
 ---
 date: 2019-11-30T10:15:14
 layout: post
+photo: https://i.ytimg.com/vi/9WxGfjs0kvc/hqdefault.jpg
 tags: [metalcore, christian_metalcore, USA, California, 00s]
 title: "As I Lay Dying: #metalcore #christian_metalcore #USA"
 ---

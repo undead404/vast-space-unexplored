@@ -1,6 +1,7 @@
 ---
 date: 2020-07-16T14:19:04
 layout: post
+photo: https://i.ytimg.com/vi/r_sKqNFOdYI/hqdefault.jpg
 tags: [sludge_metal, post_metal, Ukraine, Ukrainian, 10s]
 title: "Octopus Kraft: #sludge_metal #post_metal #Ukraine "
 ---

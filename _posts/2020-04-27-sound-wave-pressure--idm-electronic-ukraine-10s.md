@@ -1,6 +1,7 @@
 ---
 date: 2020-04-27T11:56:03
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_949_27-04-2020_11-56-03.jpg
 tags: [IDM, electronic, Ukraine, 10s]
 title: "Sound Wave Pressure: #IDM #electronic #Ukraine #10s"
 ---

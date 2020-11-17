@@ -1,10 +1,11 @@
 ---
 date: 2020-03-19T10:23:27
 layout: post
+photo: https://cdn4.telesco.pe/file/FZLVOpf47W7aDDV0xKV8NRoafiAwhIjBVcLMCoD4nuHOHsSuFNM-uYf2HsjOjx3ZUKNmlM-JptDT9A0S72QoYX7ktlhB6wB88bznGsfbm0kT0WpMJWzFPaq1i2XltXP4cSE_rzT6kWE-y1_6KuD-f0OIuNfB9C-Vzm0DvTqnxZgLG6yT3Yj7GtnGUEG5uaFi5uPl8ig7nF4x-1QWk9ZrZ7LfF37v36MiiD4eGQq6C0ArIoJPBhNbIPwSycDKVbN9itoKDpWj3PecJ-f__bm4JcXBIIYAKh0Osi7s-JbR3lrRR8_Z9H6iZziwVj1WWIZLc3ogSOMOUTBVi5ZHDdfU7Q.jpg
 tags: [depressive_black_metal, Ukraine, 00s]
 title: "Darktrance: #depressive_black_metal #Ukraine #00s"
 ---
-![Darktrance: #depressive_black_metal #Ukraine #00s](https://cdn4.telesco.pe/file/SXlvxMt3KO_vc_vBY1p0wP30vitnXvJ5NaPkxNYsEByCM4OClNpsbz1dEF3TzoKbSmIFXbYc4ATcn-v7cvN65Rd14LSZwxdmzrFk1s13peZFBz1tqyLBYct1fMo4c1kzprZllDSnCBFbTuXJZz4nTuLq_RAYCVHogfUK_UxsgAMJzfXGSRImNw-kphRI4WkFxROKv-AuP23v3teVtz7sXFTt4Ml9H77cpCKhO-i6hCxdF67fa8OEGiRXknjwY4rNNLcnOYPV1ukxF9OsvdWzfNT0Utl208GvMF57Hveb0ZjCjHF4xbxvIgUoVkI--42MlyfE6EcBZfEo0vIt3mofoA.jpg)
+![Darktrance: #depressive_black_metal #Ukraine #00s](https://cdn4.telesco.pe/file/FZLVOpf47W7aDDV0xKV8NRoafiAwhIjBVcLMCoD4nuHOHsSuFNM-uYf2HsjOjx3ZUKNmlM-JptDT9A0S72QoYX7ktlhB6wB88bznGsfbm0kT0WpMJWzFPaq1i2XltXP4cSE_rzT6kWE-y1_6KuD-f0OIuNfB9C-Vzm0DvTqnxZgLG6yT3Yj7GtnGUEG5uaFi5uPl8ig7nF4x-1QWk9ZrZ7LfF37v36MiiD4eGQq6C0ArIoJPBhNbIPwSycDKVbN9itoKDpWj3PecJ-f__bm4JcXBIIYAKh0Osi7s-JbR3lrRR8_Z9H6iZziwVj1WWIZLc3ogSOMOUTBVi5ZHDdfU7Q.jpg)
 Darktrance: [#depressive_black_metal](/tags/#depressive_black_metal) [#Ukraine](/tags/#Ukraine) [#00s](/tags/#00s)
 
 Раніше я шанував тільки [перший альбом Дмитра](/2020-02-08-darktrance--depressive-black-metal-industrial-black-metal), однак другий альбом &quot;За брамою безумства&quot; виявився даремно недооціненим. Фактично все разом це пост-блековий альбом, однак перший трек (доданий) - по депресиву, деякі - по пост-металу, деякі - по депресив-року.

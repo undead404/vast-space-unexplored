@@ -1,6 +1,7 @@
 ---
 date: 2020-02-01T12:25:53
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_871_01-02-2020_12-25-53.jpg
 tags: [raw_black_metal, black_metal, 00s]
 title: "Ritual Suicide: #raw_black_metal #black_metal #00s"
 ---

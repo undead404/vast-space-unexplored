@@ -1,6 +1,7 @@
 ---
 date: 2020-01-04T08:49:07
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_843_04-01-2020_08-49-07.jpg
 tags: [depressive_black_metal, International, Sweden, Czechia, 00s]
 title: "Life Is Pain: #depressive_black_metal #International"
 ---

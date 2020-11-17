@@ -1,6 +1,7 @@
 ---
 date: 2020-05-14T12:35:14
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_966_14-05-2020_12-35-14.jpg
 tags: [black_metal, raw_black_metal, Ukraine, Russian, 10s]
 title: "Заводь: #black_metal #raw_black_metal #Ukraine #Russian"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-16T17:57:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_970_16-05-2020_17-57-25.jpg
 tags: [progressive_deathcore, technical_death_metal, Germany, 10s]
 title: "War from a Harlots Mouth: #progressive_deathcore #technical_death_metal"
 ---

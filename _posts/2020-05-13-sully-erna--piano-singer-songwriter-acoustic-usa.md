@@ -1,6 +1,7 @@
 ---
 date: 2020-05-13T12:02:32
 layout: post
+photo: https://i.ytimg.com/vi/9fwmxhDdGI4/maxresdefault.jpg
 tags: [piano, singer_songwriter, acoustic, USA, Massachusetts, 10s]
 title: "Sully Erna: #piano #singer_songwriter #acoustic #USA"
 ---

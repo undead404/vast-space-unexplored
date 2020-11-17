@@ -1,6 +1,7 @@
 ---
 date: 2020-01-20T17:29:31
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_857_20-01-2020_17-29-31.jpg
 tags: [sludge_metal, instrumental, Germany, 00s]
 title: "Omega Massif: #sludge_metal #instrumental #Germany"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-10-04T00:00:08
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1061_04-10-2020_00-00-08.jpg
 tags: [power_metal, technical_thrash_metal, Denmark, 10s]
 title: "Artillery: #power_metal #technical_thrash_metal #Denmark"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-15T12:15:00
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1023_15-07-2020_12-14-59.jpg
 tags: [industrial_metal, cyber_metal, Slovenia, female_vocalists, 10s]
 title: "Neurotech: #industrial_metal #cyber_metal #Slovenia"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-08-27T21:22:04
 layout: post
+photo: https://i.ytimg.com/vi/XguzH8T0FWM/hqdefault.jpg
 tags: [sludgecore, sludge_metal, United_Kingdom, Northern_Ireland, 10s]
 title: "7.5 Tonnes of Beard: #sludgecore #sludge_metal #United_Kingdom"
 ---

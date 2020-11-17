@@ -1,6 +1,7 @@
 ---
 date: 2019-12-16T11:15:29
 layout: post
+photo: https://is4-ssl.mzstatic.com/image/thumb/Music/y2004/m08/d10/h19/s05.kvffwfix.tif/1200x630wp.png
 tags: [cyber_metal, groove_metal, Switzerland, 00s]
 title: "Sybreed: #cyber_metal #groove_metal #Switzerland #00s"
 ---

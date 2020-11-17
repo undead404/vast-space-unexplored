@@ -1,6 +1,7 @@
 ---
 date: 2019-10-26T15:28:33
 layout: post
+photo: https://f4.bcbits.com/img/a2963630640_5.jpg
 tags: [symphonic_black_metal, Ukraine, 90s]
 title: "Nokturnal Mortum: #symphonic_black_metal #Ukraine "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-08-06T20:32:37
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1032_06-08-2020_18-36-57.jpg
 tags: [raw_black_metal, USA, Minnesota, 10s]
 title: "El-Ahrairah: #raw_black_metal #USA #Minnesota #10s"
 ---

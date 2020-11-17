@@ -1,6 +1,7 @@
 ---
 date: 2020-05-11T10:02:47
 layout: post
+photo: https://i.ytimg.com/vi/z41CxnGa9A8/maxresdefault.jpg
 tags: [Ukrainian_rock, Ukraine, Ukrainian, 10s]
 title: "Собаки в космосі і Сергій Жадан: #Ukrainian_rock #Ukraine"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-18T22:31:34
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_944_18-04-2020_22-31-34.jpg
 tags: [death_metal, brutal_death_metal, United_Kingdom, England, 10s]
 title: "Dyscarnate: #death_metal #brutal_death_metal #United_Kingdom"
 ---

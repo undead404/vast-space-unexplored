@@ -1,6 +1,7 @@
 ---
 date: 2019-10-30T11:17:47
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_792_30-10-2019_11-17-47.jpg
 tags: [black_metal, Norway, 90s]
 title: "Gaahlskagg: #black_metal #Norway #90s"
 ---

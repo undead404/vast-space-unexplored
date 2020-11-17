@@ -1,6 +1,7 @@
 ---
 date: 2019-10-28T18:36:55
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_788_28-10-2019_18-36-55.jpg
 tags: [black_metal, Swedish_black_metal, Sweden, 90s]
 title: "Setherial: #black_metal #Swedish_black_metal #Sweden"
 ---

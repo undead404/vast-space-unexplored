@@ -1,6 +1,7 @@
 ---
 date: 2019-10-18T10:27:11
 layout: post
+photo: https://i.ytimg.com/vi/wKCfVLQ1EXQ/maxresdefault.jpg
 tags: [industrial_metal, Germany, German, 90s]
 title: "Oomph!: #industrial_metal #Germany #German #90s "
 ---

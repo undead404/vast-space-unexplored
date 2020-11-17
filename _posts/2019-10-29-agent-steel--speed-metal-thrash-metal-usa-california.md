@@ -1,6 +1,7 @@
 ---
 date: 2019-10-29T11:07:24
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_789_29-10-2019_11-07-24.jpg
 tags: [speed_metal, thrash_metal, USA, California, 90s]
 title: "Agent Steel: #speed_metal #thrash_metal #USA #California"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-06-14T18:56:17
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_994_14-06-2020_18-56-17.jpg
 tags: [ambient_black_metal, symphonic_black_metal, USA, California, 10s]
 title: "Mare Cognitum: #ambient_black_metal #symphonic_black_metal"
 ---

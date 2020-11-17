@@ -1,6 +1,7 @@
 ---
 date: 2020-01-04T14:41:53
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_844_04-01-2020_14-41-53.jpg
 tags: [post_rock, instrumental, Ireland, 00s]
 title: "God Is an Astronaut: #post_rock #instrumental #Ireland"
 ---

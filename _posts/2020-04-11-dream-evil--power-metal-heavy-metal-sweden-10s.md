@@ -1,6 +1,7 @@
 ---
 date: 2020-04-11T10:02:04
 layout: post
+photo: https://i.ytimg.com/vi/ZY9LccwUJpg/hqdefault.jpg
 tags: [power_metal, heavy_metal, Sweden, 10s]
 title: "Dream Evil: #power_metal #heavy_metal #Sweden #10s"
 ---

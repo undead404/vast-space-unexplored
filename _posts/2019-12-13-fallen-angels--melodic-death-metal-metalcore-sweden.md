@@ -1,6 +1,7 @@
 ---
 date: 2019-12-13T11:54:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_816_13-12-2019_11-54-33.jpg
 tags: [melodic_death_metal, metalcore, Sweden, 00s]
 title: "Fallen Angels: #melodic_death_metal #metalcore #Sweden"
 ---

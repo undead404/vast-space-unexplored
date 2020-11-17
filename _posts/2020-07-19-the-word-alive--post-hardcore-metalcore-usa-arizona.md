@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19T22:46:58
 layout: post
+photo: https://i.ytimg.com/vi/klXw6YKwLzI/maxresdefault.jpg
 tags: [post_hardcore, metalcore, USA, Arizona, 10s]
 title: "The Word Alive: #post_hardcore #metalcore #USA #Arizona"
 ---

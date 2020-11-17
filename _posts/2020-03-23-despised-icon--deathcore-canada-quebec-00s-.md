@@ -1,6 +1,7 @@
 ---
 date: 2020-03-23T10:45:56
 layout: post
+photo: https://i.ytimg.com/vi/iEM9W14TsWQ/hqdefault.jpg
 tags: [deathcore, Canada, Quebec, 00s]
 title: "Despised Icon: #deathcore #Canada #Quebec #00s "
 ---

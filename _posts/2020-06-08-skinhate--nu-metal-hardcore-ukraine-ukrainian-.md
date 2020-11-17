@@ -1,6 +1,7 @@
 ---
 date: 2020-06-08T10:48:27
 layout: post
+photo: https://i.ytimg.com/vi/MhM0AnO-jCY/maxresdefault.jpg
 tags: [nu_metal, hardcore, Ukraine, Ukrainian, 10s]
 title: "Skinhate: #nu_metal #hardcore #Ukraine #Ukrainian "
 ---

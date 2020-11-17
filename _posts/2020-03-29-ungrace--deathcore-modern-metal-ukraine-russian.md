@@ -1,6 +1,7 @@
 ---
 date: 2020-03-29T17:42:40
 layout: post
+photo: https://i.ytimg.com/vi/gVFnpt7NJfM/hqdefault.jpg
 tags: [deathcore, modern_metal, Ukraine, Russian, 10s]
 title: "Ungrace: #deathcore #modern_metal #Ukraine #Russian"
 ---

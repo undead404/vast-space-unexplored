@@ -1,6 +1,7 @@
 ---
 date: 2020-02-07T14:50:14
 layout: post
+photo: https://i.ytimg.com/vi/7yrgcOIS7HU/hqdefault.jpg
 tags: [metalcore, nu_metal, post_hardcore, USA, Oregon, 00s]
 title: "36 Crazyfists: #metalcore #nu_metal #post_hardcore"
 ---

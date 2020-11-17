@@ -1,6 +1,7 @@
 ---
 date: 2019-12-30T14:00:34
 layout: post
+photo: https://facebook.com/security/hsts-pixel.gif?c=3.2.5
 tags: []
 title: "написав маленький особистий звіт за рік, доступний моїм ФБ-друзям отут "
 ---

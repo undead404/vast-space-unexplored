@@ -1,6 +1,7 @@
 ---
 date: 2020-03-13T12:02:29
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_920_13-03-2020_12-02-29.jpg
 tags: [post_hardcore, emocore, USA, Colorado, 00s]
 title: "Drop Dead, Gorgeous: #post_hardcore #emocore #USA "
 ---

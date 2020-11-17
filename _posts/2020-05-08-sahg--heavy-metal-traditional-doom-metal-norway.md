@@ -1,6 +1,7 @@
 ---
 date: 2020-05-08T11:16:48
 layout: post
+photo: https://i.ytimg.com/vi/xeVBiGWbrYg/maxresdefault.jpg
 tags: [heavy_metal, traditional_doom_metal, Norway, 10s]
 title: "Sahg: #heavy_metal #traditional_doom_metal #Norway"
 ---

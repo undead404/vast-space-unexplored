@@ -1,6 +1,7 @@
 ---
 date: 2019-10-12T08:20:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_764_12-10-2019_08-20-25.jpg
 tags: [thrash_metal, Germany, 90s]
 title: "Desaster: #thrash_metal #Germany #90s"
 ---

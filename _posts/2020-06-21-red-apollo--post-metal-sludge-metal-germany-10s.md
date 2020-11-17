@@ -1,6 +1,7 @@
 ---
 date: 2020-06-21T14:41:34
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1001_21-06-2020_14-41-34.jpg
 tags: [post_metal, sludge_metal, Germany, 10s]
 title: "Red Apollo: #post_metal #sludge_metal #Germany #10s"
 ---

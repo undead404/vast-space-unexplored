@@ -1,6 +1,7 @@
 ---
 date: 2019-11-03T10:01:32
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_797_03-11-2019_10-01-32.jpg
 tags: [death_metal, USA, California, 90s]
 title: "Coffin Texts: #death_metal #USA #California #90s"
 ---

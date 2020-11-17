@@ -1,10 +1,11 @@
 ---
 date: 2020-01-17T17:41:53
 layout: post
+photo: https://cdn4.telesco.pe/file/swSEn0lw1HAVHfS1YbvExPMtPOeJf1eD4LKlRDAAkp3qm-87UiXLZ-5GdYCfIrFDTOPbTyZC0BDP7Lgkc41JpGgU2x75XzLGnNzKkMtl9iqlG-EVdqUT25uPfnpY5FNa1aIPs00IFUHOsPU3X0GKDTpZIkzDGMqLiROOCNB4BzF5gKmnHION5wYOfxHt-7k9xvEtpIGMdd_gwHkU-iCPZwTRvxfWfSkDn4BQyaVprDwG0lOBCQQZsuftCck7BKbhj4bbl0QnRrnp1ow2PVLmC33fo6NFRbX3zhPrkpdAeTFe1CQjkjIdzAwSCL-_FAtkfDDyr3vwm5RJtCBgGlHcAw.jpg
 tags: [black_metal, Ukraine, 10s]
 title: "Grave Circles: #black_metal #Ukraine #10s "
 ---
-![Grave Circles: #black_metal #Ukraine #10s ](https://cdn4.telesco.pe/file/ZUrfLz3AYJq4WdAdCJ0mHSjpCXKLHFq1Q5isP3oePI0DeI95aXOV9BVoqK29N_arGsTeijM_aF0CG2V3EqugmzLtWZwt-VCOMEcBtZEgwR8FqtW2UA86xHUuOgkTCT-M3auEttbCZpcwfa1_R-W4uFPBxvUrwcWlJfWauumJVP1LLYEroG-Mn7rldbox3X8MdCOrX3cFbrEmt0ZIHfgpYpDzXNjfzqtGw-qtED_gj-eanukdam9Ug4eTaCs4nrzK8zW9zHpCLNSlmaDwALZGkhEPGZAOjlPGwetd7uh4r-ry9GZX8w_kCyHXv_fAFEz_XA9uLeDSuXzPVqAk74ngzA.jpg)
+![Grave Circles: #black_metal #Ukraine #10s ](https://cdn4.telesco.pe/file/swSEn0lw1HAVHfS1YbvExPMtPOeJf1eD4LKlRDAAkp3qm-87UiXLZ-5GdYCfIrFDTOPbTyZC0BDP7Lgkc41JpGgU2x75XzLGnNzKkMtl9iqlG-EVdqUT25uPfnpY5FNa1aIPs00IFUHOsPU3X0GKDTpZIkzDGMqLiROOCNB4BzF5gKmnHION5wYOfxHt-7k9xvEtpIGMdd_gwHkU-iCPZwTRvxfWfSkDn4BQyaVprDwG0lOBCQQZsuftCck7BKbhj4bbl0QnRrnp1ow2PVLmC33fo6NFRbX3zhPrkpdAeTFe1CQjkjIdzAwSCL-_FAtkfDDyr3vwm5RJtCBgGlHcAw.jpg)
 Grave Circles: [#black_metal](/tags/#black_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s) 
 
 **Могильні кола** все-таки надихнули мене послухати їх новий альбом наприкінці минулого 2019 року, і найбільше сподобався трек &quot;Абстрактне життя, абстрактна смерть&quot;. [Почали вони суперово](/2020-01-15-grave-circles--black-metal-ukraine-00s), і давайте сподіватись, що їх ентузіазм вкладати сили і кошти в створення настільки некомерційного продукту, як блек-метал, - це надовго.

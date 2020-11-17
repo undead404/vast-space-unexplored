@@ -1,6 +1,7 @@
 ---
 date: 2020-02-03T10:20:22
 layout: post
+photo: https://i.ytimg.com/vi/0xyxtzD54rM/hqdefault.jpg
 tags: [alternative_rock, USA, California, 00s]
 title: "Linkin Park: #alternative_rock #USA #California #00s"
 ---

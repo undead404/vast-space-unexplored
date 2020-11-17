@@ -1,6 +1,7 @@
 ---
 date: 2020-02-21T10:26:20
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_899_21-02-2020_10-26-20.jpg
 tags: [hardcore, USA, Pennsylvania]
 title: "Reign Supreme: #hardcore #USA #Pennsylvania"
 ---

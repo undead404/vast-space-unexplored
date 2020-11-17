@@ -1,6 +1,7 @@
 ---
 date: 2019-10-07T13:16:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_755_07-10-2019_13-16-25.jpg
 tags: [old_school_black_metal, black_metal, Norway, 90s]
 title: "Carpathian Forest: #old_school_black_metal #black_metal"
 ---

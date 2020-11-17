@@ -1,6 +1,7 @@
 ---
 date: 2020-04-08T18:43:10
 layout: post
+photo: https://i.ytimg.com/vi/mtZuFPk8xqU/maxresdefault.jpg
 tags: [d_beat, crust_punk, Ukraine, 10s]
 title: "Displease: #d_beat #crust_punk #Ukraine #10s "
 ---

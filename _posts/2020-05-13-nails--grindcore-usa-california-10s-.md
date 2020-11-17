@@ -1,6 +1,7 @@
 ---
 date: 2020-05-13T16:58:44
 layout: post
+photo: https://i.ytimg.com/vi/KE4kNkfZFOQ/maxresdefault.jpg
 tags: [grindcore, USA, California, 10s]
 title: "Nails: #grindcore #USA #California #10s "
 ---

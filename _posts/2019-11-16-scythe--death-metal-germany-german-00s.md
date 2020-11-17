@@ -1,6 +1,7 @@
 ---
 date: 2019-11-16T22:55:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_806_16-11-2019_22-55-25.jpg
 tags: [death_metal, Germany, German, 00s]
 title: "Scythe: #death_metal #Germany #German #00s"
 ---

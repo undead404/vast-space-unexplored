@@ -1,6 +1,7 @@
 ---
 date: 2020-05-17T12:54:57
 layout: post
+photo: https://i.ytimg.com/vi/NgOl_5witzk/hqdefault.jpg
 tags: [post_metal, sludge_metal, Germany, 10s]
 title: "Planks: #post_metal #sludge_metal #Germany #10s "
 ---

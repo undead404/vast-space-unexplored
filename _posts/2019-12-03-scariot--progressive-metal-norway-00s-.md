@@ -1,6 +1,7 @@
 ---
 date: 2019-12-03T16:25:23
 layout: post
+photo: https://i.scdn.co/image/ab67616d0000b273ca644c1b6356d00b1c371c67
 tags: [progressive_metal, Norway, 00s]
 title: "Scariot: #progressive_metal #Norway #00s "
 ---

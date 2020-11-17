@@ -1,6 +1,7 @@
 ---
 date: 2020-05-24T10:40:48
 layout: post
+photo: https://i.ytimg.com/vi/toXzf-Pu-Ns/maxresdefault.jpg
 tags: [porngrind, goregrind, Czechia, 10s]
 title: "Spasm: #porngrind #goregrind #Czechia #10s "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-10-31T08:02:43
 layout: post
+photo: https://i.ytimg.com/vi/DOkq0W0vcR4/hqdefault.jpg
 tags: [industrial_metal, industrial_rock, Sweden, 00s]
 title: "Pain: #industrial_metal #industrial_rock #Sweden #00s"
 ---

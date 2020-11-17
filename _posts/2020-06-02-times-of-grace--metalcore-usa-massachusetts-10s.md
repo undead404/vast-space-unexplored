@@ -1,6 +1,7 @@
 ---
 date: 2020-06-02T10:36:23
 layout: post
+photo: https://i.ytimg.com/vi/VW6GtKeRo00/hqdefault.jpg
 tags: [metalcore, USA, Massachusetts, 10s]
 title: "Times of Grace: #metalcore #USA #Massachusetts #10s"
 ---

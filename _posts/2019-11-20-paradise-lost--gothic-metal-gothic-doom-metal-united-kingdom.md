@@ -1,6 +1,7 @@
 ---
 date: 2019-11-20T15:17:39
 layout: post
+photo: https://i.ytimg.com/vi/HknTgWLqUkI/maxresdefault.jpg
 tags: [gothic_metal, gothic_doom_metal, United_Kingdom, England, 00s]
 title: "Paradise Lost: #gothic_metal #gothic_doom_metal #United_Kingdom"
 ---

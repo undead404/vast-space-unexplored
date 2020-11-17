@@ -1,6 +1,7 @@
 ---
 date: 2020-01-11T22:24:27
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_851_11-01-2020_22-24-27.jpg
 tags: [metalcore, modern_motel, Ukraine, Russian, 00s]
 title: "Snuff: #metalcore #modern_motel #Ukraine #Russian "
 ---

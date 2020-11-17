@@ -1,6 +1,7 @@
 ---
 date: 2020-01-09T18:23:06
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_850_09-01-2020_18-23-06.jpg
 tags: [mathcore, deathcore, Germany, 00s]
 title: "War from a Harlots Mouth: #mathcore #deathcore #Germany"
 ---

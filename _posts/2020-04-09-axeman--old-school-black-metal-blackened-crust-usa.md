@@ -1,6 +1,7 @@
 ---
 date: 2020-04-09T16:47:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_940_09-04-2020_16-47-36.jpg
 tags: [old_school_black_metal, blackened_crust, USA, California, 10s]
 title: "Axeman: #old_school_black_metal #blackened_crust #USA"
 ---

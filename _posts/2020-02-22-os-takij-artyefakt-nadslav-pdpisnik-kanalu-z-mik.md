@@ -1,6 +1,7 @@
 ---
 date: 2020-02-22T16:40:42
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_902_22-02-2020_16-40-42.jpg
 tags: []
 title: "Ось такий артефакт надіслав підписник каналу із Мик"
 ---

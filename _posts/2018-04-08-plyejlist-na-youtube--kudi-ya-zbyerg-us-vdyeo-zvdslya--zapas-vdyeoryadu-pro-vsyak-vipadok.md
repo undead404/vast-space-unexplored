@@ -1,6 +1,7 @@
 ---
 date: 2018-04-08T09:29:45
 layout: post
+photo: https://i.ytimg.com/vi/tyrc7Fl2myA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLCvqIlH_pn-8xB99C6lgiUdJrmsLA&amp;days_since_epoch=18583
 tags: []
 title: "Плейлист на YouTube  куди я зберіг усі відео звідсіля. Запас відеоряду про всяк випадок"
 ---

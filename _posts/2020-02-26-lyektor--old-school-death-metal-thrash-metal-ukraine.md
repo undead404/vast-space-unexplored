@@ -1,6 +1,7 @@
 ---
 date: 2020-02-26T11:21:40
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_904_26-02-2020_11-21-40.jpg
 tags: [old_school_death_metal, thrash_metal, Ukraine, Russian, 00s]
 title: "Лектор: #old_school_death_metal #thrash_metal #Ukraine"
 ---

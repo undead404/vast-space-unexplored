@@ -1,6 +1,7 @@
 ---
 date: 2020-03-23T13:48:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_924_23-03-2020_13-48-33.jpg
 tags: [hardcore, USA, Connecticut, 00s]
 title: "Hatebreed: #hardcore #USA #Connecticut #00s"
 ---

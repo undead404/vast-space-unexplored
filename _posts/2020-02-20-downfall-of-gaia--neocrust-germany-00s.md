@@ -1,6 +1,7 @@
 ---
 date: 2020-02-20T11:29:38
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_898_20-02-2020_11-29-38.jpg
 tags: [neocrust, Germany, 00s]
 title: "Downfall of Gaia: #neocrust #Germany #00s"
 ---

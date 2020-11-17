@@ -1,6 +1,7 @@
 ---
 date: 2020-05-20T12:11:08
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_973_20-05-2020_12-11-08.jpg
 tags: [grindcore, crustgrind, Indonesia, 10s]
 title: "GATT: #grindcore #crustgrind #Indonesia #10s"
 ---

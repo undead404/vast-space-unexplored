@@ -1,6 +1,7 @@
 ---
 date: 2019-11-26T12:06:26
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_811_26-11-2019_12-06-25.jpg
 tags: [nu_metal, rapcore, USA, California, 00s]
 title: "Linkin Park: #nu_metal #rapcore #USA #California #00s"
 ---

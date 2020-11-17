@@ -1,6 +1,7 @@
 ---
 date: 2020-03-06T10:44:19
 layout: post
+photo: https://i.ytimg.com/vi/qw4eVEucEiw/maxresdefault.jpg
 tags: [metalcore, melodic_metalcore, Ukraine, Russian, 00s]
 title: "Pictures Inside Me: #metalcore #melodic_metalcore "
 ---

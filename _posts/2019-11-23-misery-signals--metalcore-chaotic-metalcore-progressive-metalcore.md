@@ -1,6 +1,7 @@
 ---
 date: 2019-11-23T10:12:40
 layout: post
+photo: https://i.ytimg.com/vi/5XlccGu58Bc/hqdefault.jpg
 tags: [metalcore, chaotic_metalcore, progressive_metalcore, USA, Canada, Wisconsin, International, 00s]
 title: "Misery Signals: #metalcore #chaotic_metalcore #progressive_metalcore"
 ---

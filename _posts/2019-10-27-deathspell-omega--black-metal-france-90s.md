@@ -1,6 +1,7 @@
 ---
 date: 2019-10-27T17:04:05
 layout: post
+photo: https://f4.bcbits.com/img/a2966987933_5.jpg
 tags: [black_metal, France, 90s]
 title: "Deathspell Omega: #black_metal #France #90s"
 ---

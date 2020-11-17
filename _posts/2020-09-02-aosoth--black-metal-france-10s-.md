@@ -1,6 +1,7 @@
 ---
 date: 2020-09-02T23:04:39
 layout: post
+photo: https://i.ytimg.com/vi/me6jwsEPKXc/maxresdefault.jpg
 tags: [black_metal, France, 10s]
 title: "Aosoth: #black_metal #France #10s "
 ---

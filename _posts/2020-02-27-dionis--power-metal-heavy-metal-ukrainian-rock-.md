@@ -1,6 +1,7 @@
 ---
 date: 2020-02-27T11:10:52
 layout: post
+photo: https://i.ytimg.com/vi/YbAfkS_4Aig/hqdefault.jpg
 tags: [power_metal, heavy_metal, Ukrainian_rock, Ukrainian, Ukraine, 00s]
 title: "Dionis: #power_metal #heavy_metal #Ukrainian_rock "
 ---

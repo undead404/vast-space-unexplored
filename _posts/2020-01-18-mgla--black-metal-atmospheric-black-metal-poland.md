@@ -1,10 +1,11 @@
 ---
 date: 2020-01-18T16:27:12
 layout: post
+photo: https://cdn4.telesco.pe/file/sgtPLS3EMDFH7wUCG-G-H7_35yMRWljLkoAMa_wCZgbylBjQxGp_tDvDCcLNIFgK72pxEMKH3K3As6elcA_Q1zv_q7MsZ3KAawhs0bbggR62h-g9k0oqVsBiWhV_cYFCeBsTmnOeNVlNSb5WxJkGK2-uv6alQlSYXWcjiN7V8I7PVdx0ZyAL9BnGhlg7mSaO1dxIUsT_3plo-JCrBwrn1x1wI9fUVTFNNVbVJYdVDT1KERTqmzmn2ZDD71-ei2Y80dwNXMw4X1DQErIZ-ykiWnSRa8SM-VnTPTS5z8gYocaQ42Js8bbYOctMJOh6F1bzMimC-P9lD9V5LNzecSE7Aw.jpg
 tags: [black_metal, atmospheric_black_metal, Poland, 00s]
 title: "Mgła: #black_metal #atmospheric_black_metal #Poland"
 ---
-![Mgła: #black_metal #atmospheric_black_metal #Poland](https://cdn4.telesco.pe/file/KrGjlqhKfmujIHJ60KkqJnt8zmKeK9ZBOMLy4oVhzDqzrIntjIZAjxvqGP2RPrNxlMCI8Yo-vHz4DgQxR4kUpcJDvJPxKUOF-3F4w9KI7TJKFMQzgiceXsbHJEwECTtk4vUFJlJiy_07B9rVDxi6ILQoQqGRFKJ21pv19rJg8tiyjH2li2SHC-G3GvNEEu3u38_JbBUCcDdqy9XlXihBpUw3--AU9K1IS688bYWUD32fgxzGaovBv_x0lpdQkEYlwIr7C4i1poEpNymzS3rVIUBCDJ0zH2bpKVaACqqCix6RUjRQgqGYVEYhwBkD6M19nuU7cXiIPI1rrPvYNHo16w.jpg)
+![Mgła: #black_metal #atmospheric_black_metal #Poland](https://cdn4.telesco.pe/file/sgtPLS3EMDFH7wUCG-G-H7_35yMRWljLkoAMa_wCZgbylBjQxGp_tDvDCcLNIFgK72pxEMKH3K3As6elcA_Q1zv_q7MsZ3KAawhs0bbggR62h-g9k0oqVsBiWhV_cYFCeBsTmnOeNVlNSb5WxJkGK2-uv6alQlSYXWcjiN7V8I7PVdx0ZyAL9BnGhlg7mSaO1dxIUsT_3plo-JCrBwrn1x1wI9fUVTFNNVbVJYdVDT1KERTqmzmn2ZDD71-ei2Y80dwNXMw4X1DQErIZ-ykiWnSRa8SM-VnTPTS5z8gYocaQ42Js8bbYOctMJOh6F1bzMimC-P9lD9V5LNzecSE7Aw.jpg)
 Mgła: [#black_metal](/tags/#black_metal) [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Poland](/tags/#Poland) [#00s](/tags/#00s) [https://lastfm.freetls.fastly.net/i/u/770x0/74bb54003e7c6b5656bee8dc97ffbb72.webp#74bb54003e7c6b5656bee8dc97ffbb72](https://lastfm.freetls.fastly.net/i/u/770x0/74bb54003e7c6b5656bee8dc97ffbb72.webp#74bb54003e7c6b5656bee8dc97ffbb72)
 
 **Туман** - видатний польський проект із Кракова. Створений був у 2000 році мультиінструменталістом-звукоінженером-співаком Міколаєм &quot;М&quot; Зентарою та барабанником Мацеєм &quot;Темним боком&quot; Ковальським. Міколай Зентара - син видатного польського актора Едварда Зентари, котрий може бути знайомим знавцям науково-фантастичної класики за головною роллю в фільмі &quot;Важко бути богом&quot; (знімався в Криму та Таджикистані за участі ФРН, Франції, СРСР, Швейцарії). Міколай Зентара до того займався тільки електронно-ембієнтною музикою.

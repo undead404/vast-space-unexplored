@@ -1,6 +1,7 @@
 ---
 date: 2020-02-24T16:58:09
 layout: post
+photo: https://i.ytimg.com/vi/LdMeOLReO1I/hqdefault.jpg
 tags: [a_capella, neofolk, Ukraine, Ukrainian, 00s]
 title: "Піккардійська терція: #a_capella #neofolk #Ukraine"
 ---

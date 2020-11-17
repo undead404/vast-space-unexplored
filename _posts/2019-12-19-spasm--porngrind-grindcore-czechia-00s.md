@@ -1,6 +1,7 @@
 ---
 date: 2019-12-19T10:33:02
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_824_19-12-2019_10-33-02.jpg
 tags: [porngrind, grindcore, Czechia, 00s]
 title: "Spasm: #porngrind #grindcore #Czechia #00s"
 ---

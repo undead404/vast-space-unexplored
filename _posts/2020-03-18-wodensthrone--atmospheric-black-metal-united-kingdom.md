@@ -1,6 +1,7 @@
 ---
 date: 2020-03-18T18:01:57
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_923_18-03-2020_18-01-57.jpg
 tags: [atmospheric_black_metal, United_Kingdom, England, 00s]
 title: "Wodensthrone: #atmospheric_black_metal #United_Kingdom"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-01-05T12:06:03
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_845_05-01-2020_12-06-03.jpg
 tags: [progressive_metalcore, metalcore, international, Canada, USA, Wisconsin, 00s]
 title: "Misery Signals: #progressive_metalcore #metalcore "
 ---

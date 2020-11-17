@@ -1,6 +1,7 @@
 ---
 date: 2019-10-03T12:12:02
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_748_03-10-2019_12-12-02.jpg
 tags: [black_metal, atmospheric_black_metal, Norway, 90s]
 title: "Darkthrone: #black_metal #atmospheric_black_metal "
 ---

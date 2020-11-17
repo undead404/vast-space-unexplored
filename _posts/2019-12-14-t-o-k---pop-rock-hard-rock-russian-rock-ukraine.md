@@ -1,6 +1,7 @@
 ---
 date: 2019-12-14T08:59:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_817_14-12-2019_08-59-33.jpg
 tags: [pop_rock, hard_rock, Russian_rock, Ukraine, Russian, 00s, heavy_metal]
 title: "Т.О.К.: #pop_rock #hard_rock #Russian_rock #Ukraine"
 ---

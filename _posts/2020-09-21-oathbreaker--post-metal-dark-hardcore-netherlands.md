@@ -1,6 +1,7 @@
 ---
 date: 2020-09-21T23:24:49
 layout: post
+photo: https://i.ytimg.com/vi/MGmDl6GQLAU/maxresdefault.jpg
 tags: [post_metal, dark_hardcore, Netherlands, 10s]
 title: "Oathbreaker: #post_metal #dark_hardcore #Netherlands"
 ---

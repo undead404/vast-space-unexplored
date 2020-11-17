@@ -1,6 +1,7 @@
 ---
 date: 2020-09-26T14:46:30
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1057_26-09-2020_14-46-30.jpg
 tags: [atmospheric_black_metal, melodic_black_metal, Finland, 10s]
 title: "Cosmic Church: #atmospheric_black_metal #melodic_black_metal"
 ---

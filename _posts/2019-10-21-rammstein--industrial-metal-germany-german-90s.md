@@ -1,6 +1,7 @@
 ---
 date: 2019-10-21T10:32:21
 layout: post
+photo: https://i.ytimg.com/vi/rrmsJhf89MY/maxresdefault.jpg
 tags: [industrial_metal, Germany, German, 90s]
 title: "Rammstein: #industrial_metal #Germany #German #90s"
 ---

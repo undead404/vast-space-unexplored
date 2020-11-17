@@ -1,6 +1,7 @@
 ---
 date: 2020-01-15T12:08:35
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_853_15-01-2020_12-08-35.jpg
 tags: [black_metal, Ukraine, 00s]
 title: "Grave Circles: #black_metal #Ukraine #00s"
 ---

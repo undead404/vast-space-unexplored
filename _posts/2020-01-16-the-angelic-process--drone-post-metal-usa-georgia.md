@@ -1,6 +1,7 @@
 ---
 date: 2020-01-16T11:46:43
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_855_16-01-2020_11-46-43.jpg
 tags: [drone, post_metal, USA, Georgia, 00s]
 title: "The Angelic Process: #drone #post_metal #USA #Georgia"
 ---

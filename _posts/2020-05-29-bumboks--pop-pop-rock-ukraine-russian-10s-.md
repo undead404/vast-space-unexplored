@@ -1,6 +1,7 @@
 ---
 date: 2020-05-29T14:38:18
 layout: post
+photo: https://i.ytimg.com/vi/Wjh7RovhSJM/maxresdefault.jpg
 tags: [pop, pop_rock, Ukraine, Russian, 10s]
 title: "Бумбокс: #pop #pop_rock #Ukraine #Russian #10s "
 ---

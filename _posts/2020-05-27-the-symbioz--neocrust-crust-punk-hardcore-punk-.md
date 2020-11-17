@@ -1,6 +1,7 @@
 ---
 date: 2020-05-27T18:15:55
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_978_27-05-2020_18-15-55.jpg
 tags: [neocrust, crust_punk, hardcore_punk, Ukraine, Ukrainian, 10s]
 title: "The Symbioz: #neocrust #crust_punk #hardcore_punk "
 ---

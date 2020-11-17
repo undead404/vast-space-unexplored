@@ -1,6 +1,7 @@
 ---
 date: 2020-02-18T17:58:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_895_18-02-2020_17-58-36.jpg
 tags: [melodic_death_metal, Ukraine, 00s]
 title: "Infinite Tales: #melodic_death_metal #Ukraine #00s"
 ---

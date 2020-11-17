@@ -1,6 +1,7 @@
 ---
 date: 2020-01-13T10:54:34
 layout: post
+photo: https://i.ytimg.com/vi/Ft8QWXrPHTE/hqdefault.jpg
 tags: [technical_brutal_death_metal, Canada, Quebec, 00s]
 title: "Beneath the Massacre: #technical_brutal_death_metal"
 ---

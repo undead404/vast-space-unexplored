@@ -1,6 +1,7 @@
 ---
 date: 2019-12-16T16:42:45
 layout: post
+photo: https://i.ytimg.com/vi/eVoVt-CUCiw/maxresdefault.jpg
 tags: [post_metal, Sweden, 00s]
 title: "Cult of Luna: #post_metal #Sweden #00s "
 ---

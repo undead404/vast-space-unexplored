@@ -1,6 +1,7 @@
 ---
 date: 2019-10-14T16:56:47
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_767_14-10-2019_16-56-47.jpg
 tags: [black_metal, Ukraine, 90s]
 title: "Lucifugum: #black_metal #Ukraine #90s"
 ---

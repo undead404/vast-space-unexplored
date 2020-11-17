@@ -1,6 +1,7 @@
 ---
 date: 2020-01-20T12:27:35
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_856_20-01-2020_12-27-35.jpg
 tags: [black_n_roll, black_metal, Sweden, 00s]
 title: "IXXI: #black_n_roll #black_metal #Sweden #00s"
 ---

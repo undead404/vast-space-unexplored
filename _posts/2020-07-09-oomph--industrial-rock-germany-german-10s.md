@@ -1,6 +1,7 @@
 ---
 date: 2020-07-09T19:36:05
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1019_09-07-2020_19-36-05.jpg
 tags: [industrial_rock, Germany, German, 10s]
 title: "Oomph!: #industrial_rock #Germany #German #10s"
 ---

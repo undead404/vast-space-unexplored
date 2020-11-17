@@ -1,6 +1,7 @@
 ---
 date: 2019-10-09T10:49:57
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_758_09-10-2019_10-49-57.jpg
 tags: [heavy_metal, thrash_metal, Ukraine, Russian, 90s]
 title: "Крестовый поход: #heavy_metal #thrash_metal #Ukraine"
 ---

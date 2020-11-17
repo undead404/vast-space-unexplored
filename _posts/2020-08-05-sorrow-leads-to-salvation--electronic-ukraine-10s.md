@@ -1,6 +1,7 @@
 ---
 date: 2020-08-05T11:39:48
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1031_05-08-2020_11-39-48.jpg
 tags: [electronic, Ukraine, 10s]
 title: "Sorrow Leads to Salvation: #electronic #Ukraine #10s"
 ---

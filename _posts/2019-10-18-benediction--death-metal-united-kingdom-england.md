@@ -1,6 +1,7 @@
 ---
 date: 2019-10-18T17:43:28
 layout: post
+photo: https://i.ytimg.com/vi/_k-qP9deeAw/hqdefault.jpg
 tags: [death_metal, United_Kingdom, England, 90s]
 title: "Benediction: #death_metal #United_Kingdom #England"
 ---

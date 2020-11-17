@@ -1,6 +1,7 @@
 ---
 date: 2020-04-28T17:33:19
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_950_28-04-2020_17-33-19.jpg
 tags: [depressive_black_metal, Ukraine, 10s]
 title: "Hexenmeister: #depressive_black_metal #Ukraine #10s"
 ---

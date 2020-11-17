@@ -1,6 +1,7 @@
 ---
 date: 2020-03-28T12:32:12
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_927_28-03-2020_12-32-12.jpg
 tags: [instrumental_hip_hop, electronic, Ukraine, 10s]
 title: "Buccc: #instrumental_hip_hop #electronic #Ukraine "
 ---

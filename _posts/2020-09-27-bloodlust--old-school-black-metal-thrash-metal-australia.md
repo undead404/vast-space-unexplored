@@ -1,6 +1,7 @@
 ---
 date: 2020-09-27T12:35:16
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1058_27-09-2020_12-35-16.jpg
 tags: [old_school_black_metal, thrash_metal, Australia, 10s]
 title: "Bloodlust: #old_school_black_metal #thrash_metal #Australia"
 ---

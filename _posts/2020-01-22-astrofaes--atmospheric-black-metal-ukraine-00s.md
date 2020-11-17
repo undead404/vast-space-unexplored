@@ -1,6 +1,7 @@
 ---
 date: 2020-01-22T16:02:04
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_859_22-01-2020_16-02-04.jpg
 tags: [atmospheric_black_metal, Ukraine, 00s]
 title: "Astrofaes: #atmospheric_black_metal #Ukraine #00s"
 ---

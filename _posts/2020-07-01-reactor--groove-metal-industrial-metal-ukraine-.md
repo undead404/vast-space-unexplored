@@ -1,6 +1,7 @@
 ---
 date: 2020-07-01T11:34:15
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1010_01-07-2020_11-34-15.jpg
 tags: [groove_metal, industrial_metal, Ukraine, 10s]
 title: "Reactor: #groove_metal #industrial_metal #Ukraine "
 ---

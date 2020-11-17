@@ -1,6 +1,7 @@
 ---
 date: 2020-04-11T23:22:03
 layout: post
+photo: https://i.ytimg.com/vi/ryt1LCNZKzg/hqdefault.jpg
 tags: [melodic_death_metal, death_metal, Ukraine, 10s]
 title: "Flying: #melodic_death_metal #death_metal #Ukraine"
 ---

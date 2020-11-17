@@ -1,6 +1,7 @@
 ---
 date: 2020-06-19T14:08:37
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1000_19-06-2020_14-08-37.jpg
 tags: [raw_black_metal, ambient_black_metal, USA, California, 10s]
 title: "Rhinocervs: #raw_black_metal #ambient_black_metal "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-03-14T09:05:45
 layout: post
+photo: https://i.ytimg.com/vi/l38JxFUCh0I/hqdefault.jpg
 tags: [symphonic_death_metal, Canada, Quebec, 00s]
 title: "Ex Deo: #symphonic_death_metal #Canada #Quebec #00s"
 ---

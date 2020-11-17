@@ -1,6 +1,7 @@
 ---
 date: 2020-08-30T12:25:20
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1044_30-08-2020_12-06-16.jpg
 tags: [black_metal, Finland, Finnish, 10s]
 title: "Horna: #black_metal #Finland #Finnish #10s"
 ---

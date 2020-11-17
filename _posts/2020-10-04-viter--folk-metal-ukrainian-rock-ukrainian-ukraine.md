@@ -1,6 +1,7 @@
 ---
 date: 2020-10-04T21:50:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1062_04-10-2020_21-50-25.jpg
 tags: [folk_metal, Ukrainian_rock, Ukrainian, Ukraine, 10s]
 title: "Viter: #folk_metal #Ukrainian_rock #Ukrainian #Ukraine"
 ---

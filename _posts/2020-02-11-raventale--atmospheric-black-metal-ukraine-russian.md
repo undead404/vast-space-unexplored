@@ -1,6 +1,7 @@
 ---
 date: 2020-02-11T18:12:24
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_883_11-02-2020_18-12-23.jpg
 tags: [atmospheric_black_metal, Ukraine, Russian, 00s]
 title: "Raventale: #atmospheric_black_metal #Ukraine #Russian"
 ---

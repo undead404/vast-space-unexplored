@@ -1,6 +1,7 @@
 ---
 date: 2020-07-30T09:56:53
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1029_30-07-2020_09-56-53.jpg
 tags: [dark_ambient, Ukraine, 10s]
 title: "Moloch: #dark_ambient #Ukraine #10s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-03-03T11:19:05
 layout: post
+photo: https://i.ytimg.com/vi/s6WGNd8QR-U/maxresdefault.jpg
 tags: [alternative_metal, progressive_metal, USA, Georgia, 00s]
 title: "Mastodon: #alternative_metal #progressive_metal #USA"
 ---

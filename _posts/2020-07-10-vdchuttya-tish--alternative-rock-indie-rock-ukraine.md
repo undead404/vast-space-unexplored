@@ -1,6 +1,7 @@
 ---
 date: 2020-07-10T10:29:28
 layout: post
+photo: https://i.ytimg.com/vi/YQMey1Dy8bE/maxresdefault.jpg
 tags: [alternative_rock, indie_rock, Ukraine, Japanese, 10s]
 title: "Відчуття.Тиші: #alternative_rock #indie_rock #Ukraine"
 ---

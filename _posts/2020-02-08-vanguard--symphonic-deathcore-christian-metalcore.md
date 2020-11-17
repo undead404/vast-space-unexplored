@@ -1,6 +1,7 @@
 ---
 date: 2020-02-08T16:37:12
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_879_08-02-2020_16-37-12.jpg
 tags: [symphonic_deathcore, christian_metalcore, USA, California, 00s]
 title: "Vanguard: #symphonic_deathcore #christian_metalcore"
 ---

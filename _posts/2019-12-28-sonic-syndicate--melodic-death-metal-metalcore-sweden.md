@@ -1,6 +1,7 @@
 ---
 date: 2019-12-28T10:55:21
 layout: post
+photo: https://i.ytimg.com/vi/YYIdkC7N_pI/hqdefault.jpg
 tags: [melodic_death_metal, metalcore, Sweden, 00s]
 title: "Sonic Syndicate: #melodic_death_metal #metalcore #Sweden"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-11-01T09:24:08
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_794_01-11-2019_09-24-08.jpg
 tags: [neocrust, post_metal, USA, Tennessee, 00s]
 title: "Tragedy: #neocrust #post_metal #USA #Tennessee #00s"
 ---

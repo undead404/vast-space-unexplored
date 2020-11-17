@@ -1,6 +1,7 @@
 ---
 date: 2020-02-10T11:27:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_882_10-02-2020_11-27-25.jpg
 tags: [piano, Canada, Quebec, 00s]
 title: "Csejthe: #piano #Canada #Quebec #00s"
 ---

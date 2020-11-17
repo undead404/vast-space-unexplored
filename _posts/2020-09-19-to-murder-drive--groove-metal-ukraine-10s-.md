@@ -1,6 +1,7 @@
 ---
 date: 2020-09-19T00:00:36
 layout: post
+photo: https://i.ytimg.com/vi/WoTblx1-dvk/hqdefault.jpg
 tags: [groove_metal, Ukraine, 10s]
 title: "To Murder Drive: #groove_metal #Ukraine #10s "
 ---

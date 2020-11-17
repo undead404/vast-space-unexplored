@@ -1,6 +1,7 @@
 ---
 date: 2020-02-18T10:06:41
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_894_18-02-2020_10-06-40.jpg
 tags: [black_metal, Ukraine, Russian, 00s]
 title: "Святогор: #black_metal #Ukraine #Russian #00s"
 ---

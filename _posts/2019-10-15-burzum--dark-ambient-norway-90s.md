@@ -1,6 +1,7 @@
 ---
 date: 2019-10-15T09:00:26
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_769_15-10-2019_09-00-26.jpg
 tags: [dark_ambient, Norway, 90s]
 title: "Burzum: #dark_ambient #Norway #90s"
 ---

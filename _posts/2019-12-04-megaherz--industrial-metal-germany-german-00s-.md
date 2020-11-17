@@ -1,6 +1,7 @@
 ---
 date: 2019-12-04T12:02:29
 layout: post
+photo: https://i.scdn.co/image/ab67616d0000b2737605fd0e8650184e61558427
 tags: [industrial_metal, Germany, German, 00s]
 title: "Megaherz: #industrial_metal #Germany #German #00s "
 ---

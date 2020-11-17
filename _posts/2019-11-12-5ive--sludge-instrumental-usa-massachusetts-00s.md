@@ -1,6 +1,7 @@
 ---
 date: 2019-11-12T19:38:38
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_805_12-11-2019_19-38-38.jpg
 tags: [sludge, instrumental, USA, Massachusetts, 00s]
 title: "5ive: #sludge #instrumental #USA #Massachusetts #00s"
 ---

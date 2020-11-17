@@ -1,6 +1,7 @@
 ---
 date: 2019-11-01T16:52:35
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_795_01-11-2019_16-52-35.jpg
 tags: [brutal_death_metal, deathgrind, Ukraine, Russian, 00s]
 title: "Datura: #brutal_death_metal #deathgrind #Ukraine #Russian"
 ---

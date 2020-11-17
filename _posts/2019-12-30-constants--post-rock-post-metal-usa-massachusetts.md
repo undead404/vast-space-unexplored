@@ -1,6 +1,7 @@
 ---
 date: 2019-12-30T17:10:20
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_836_30-12-2019_17-10-20.jpg
 tags: [post_rock, post_metal, USA, Massachusetts, 00s]
 title: "Constants: #post_rock #post_metal #USA #Massachusetts"
 ---

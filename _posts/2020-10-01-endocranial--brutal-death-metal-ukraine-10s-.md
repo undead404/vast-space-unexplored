@@ -1,6 +1,7 @@
 ---
 date: 2020-10-01T10:53:48
 layout: post
+photo: https://i.ytimg.com/vi/y4x3BQqZbbw/maxresdefault.jpg
 tags: [brutal_death_metal, Ukraine, 10s]
 title: "Endocranial: #brutal_death_metal #Ukraine #10s "
 ---

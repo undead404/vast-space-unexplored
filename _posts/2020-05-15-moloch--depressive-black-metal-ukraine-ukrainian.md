@@ -1,6 +1,7 @@
 ---
 date: 2020-05-15T13:34:47
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_968_15-05-2020_13-34-46.jpg
 tags: [depressive_black_metal, Ukraine, Ukrainian, 10s]
 title: "Moloch: #depressive_black_metal #Ukraine #Ukrainian"
 ---

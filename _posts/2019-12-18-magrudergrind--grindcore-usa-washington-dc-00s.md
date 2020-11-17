@@ -1,6 +1,7 @@
 ---
 date: 2019-12-18T22:46:55
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_822_18-12-2019_22-46-55.jpg
 tags: [grindcore, USA, Washington_DC, 00s]
 title: "Magrudergrind: #grindcore #USA #Washington_DC #00s"
 ---

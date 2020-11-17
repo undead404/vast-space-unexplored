@@ -1,6 +1,7 @@
 ---
 date: 2017-11-02T13:53:59
 layout: post
+photo: https://yt3.ggpht.com/a/AATXAJxlC5A1A_HoxsFyOODEpg05HeDuTUX68M3F4GY2=s900-c-k-c0x00ffffff-no-rj
 tags: []
 title: "YouTube-канал мого гурту Ellan, якщо що мені хочеться волать від офігенності оцього от крєатіва. "
 ---

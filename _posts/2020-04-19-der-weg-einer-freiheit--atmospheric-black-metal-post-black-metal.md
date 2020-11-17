@@ -1,6 +1,7 @@
 ---
 date: 2020-04-19T17:39:37
 layout: post
+photo: https://i.ytimg.com/vi/wWv-gRLuOPM/maxresdefault.jpg
 tags: [atmospheric_black_metal, post_black_metal, Germany, German, 10s]
 title: "Der Weg einer Freiheit: #atmospheric_black_metal #post_black_metal"
 ---

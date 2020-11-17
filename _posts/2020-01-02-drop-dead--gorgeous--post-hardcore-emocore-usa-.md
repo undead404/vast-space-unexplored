@@ -1,6 +1,7 @@
 ---
 date: 2020-01-02T14:25:01
 layout: post
+photo: https://i.ytimg.com/vi/Lr6W4ebMd6A/hqdefault.jpg
 tags: [post_hardcore, emocore, USA, Colorado, 00s]
 title: "Drop Dead, Gorgeous: #post_hardcore #emocore #USA "
 ---

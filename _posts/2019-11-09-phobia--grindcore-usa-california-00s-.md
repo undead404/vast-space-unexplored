@@ -1,6 +1,7 @@
 ---
 date: 2019-11-09T22:00:06
 layout: post
+photo: https://i.ytimg.com/vi/waj8s4HWXxI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLDbmkxgEpUSQjtGBKDuUBRgWuab3w&amp;days_since_epoch=18583
 tags: [grindcore, USA, California, 00s]
 title: "Phobia: #grindcore #USA #California #00s "
 ---

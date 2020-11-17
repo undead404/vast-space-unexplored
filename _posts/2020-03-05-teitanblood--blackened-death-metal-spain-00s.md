@@ -1,6 +1,7 @@
 ---
 date: 2020-03-05T11:33:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_912_05-03-2020_11-33-36.jpg
 tags: [blackened_death_metal, Spain, 00s]
 title: "Teitanblood: #blackened_death_metal #Spain #00s"
 ---

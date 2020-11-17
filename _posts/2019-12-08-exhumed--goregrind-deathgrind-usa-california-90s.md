@@ -1,6 +1,7 @@
 ---
 date: 2019-12-08T09:13:07
 layout: post
+photo: https://f4.bcbits.com/img/a3266205496_5.jpg
 tags: [goregrind, deathgrind, USA, California, 90s]
 title: "Exhumed: #goregrind #deathgrind #USA #California #90s"
 ---

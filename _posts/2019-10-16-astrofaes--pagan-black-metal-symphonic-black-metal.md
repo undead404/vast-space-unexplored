@@ -1,6 +1,7 @@
 ---
 date: 2019-10-16T09:26:58
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_770_16-10-2019_09-26-58.jpg
 tags: [pagan_black_metal, symphonic_black_metal, Ukraine, 90s, pagan_metal]
 title: "Astrofaes: #pagan_black_metal #symphonic_black_metal"
 ---

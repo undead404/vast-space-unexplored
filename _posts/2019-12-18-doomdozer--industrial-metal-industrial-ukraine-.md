@@ -1,6 +1,7 @@
 ---
 date: 2019-12-18T14:25:42
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_821_18-12-2019_14-25-42.jpg
 tags: [industrial_metal, industrial, Ukraine, 00s]
 title: "Doomdozer: #industrial_metal #industrial #Ukraine "
 ---

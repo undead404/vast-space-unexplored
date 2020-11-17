@@ -1,6 +1,7 @@
 ---
 date: 2019-12-07T10:23:15
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_814_07-12-2019_10-23-15.jpg
 tags: [metalcore, USA, New_Jersey, 00s]
 title: "God Forbid: #metalcore #USA #New_Jersey #00s"
 ---

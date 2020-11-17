@@ -1,6 +1,7 @@
 ---
 date: 2020-08-18T13:17:48
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1040_18-08-2020_13-17-48.jpg
 tags: [melodic_death_metal, Ukraine, 10s]
 title: "Cold Resistance: #melodic_death_metal #Ukraine #10s"
 ---

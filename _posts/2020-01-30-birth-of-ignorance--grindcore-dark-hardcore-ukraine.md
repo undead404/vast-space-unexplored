@@ -1,6 +1,7 @@
 ---
 date: 2020-01-30T10:23:38
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_867_30-01-2020_10-23-38.jpg
 tags: [grindcore, dark_hardcore, Ukraine, Russian, 00s]
 title: "Birth of Ignorance: #grindcore #dark_hardcore #Ukraine"
 ---

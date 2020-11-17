@@ -1,6 +1,7 @@
 ---
 date: 2020-02-28T10:34:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_906_28-02-2020_10-34-36.jpg
 tags: [ska_punk, punk_rock, Ukraine, Russian, 00s]
 title: "Диван: #ska_punk #punk_rock #Ukraine #Russian #00s"
 ---

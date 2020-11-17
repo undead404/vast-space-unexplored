@@ -1,6 +1,7 @@
 ---
 date: 2020-02-07T09:51:46
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_877_07-02-2020_09-51-46.jpg
 tags: [black_metal, symphonic_black_metal, Sweden, 00s]
 title: "Blackwinds: #black_metal #symphonic_black_metal #Sweden"
 ---

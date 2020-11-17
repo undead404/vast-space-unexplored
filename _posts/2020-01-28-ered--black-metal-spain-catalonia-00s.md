@@ -1,6 +1,7 @@
 ---
 date: 2020-01-28T10:46:18
 layout: post
+photo: https://f4.bcbits.com/img/a0405904153_5.jpg
 tags: [black_metal, Spain, Catalonia, 00s]
 title: "Ered: #black_metal #Spain #Catalonia #00s"
 ---

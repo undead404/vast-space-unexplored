@@ -1,6 +1,7 @@
 ---
 date: 2019-11-02T14:04:20
 layout: post
+photo: https://i.ytimg.com/vi/SdswFY0xUz8/hqdefault.jpg
 tags: [alternative_rock, Ukraine, Ukrainian, 00s]
 title: "Океан Ельзи: #alternative_rock #Ukraine #Ukrainian"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-12-31T21:34:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_839_31-12-2019_21-34-36.jpg
 tags: []
 title: "Усе-таки на честь свят 🎅🏻 повернусь у теперішній ча..."
 ---

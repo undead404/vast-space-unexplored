@@ -1,6 +1,7 @@
 ---
 date: 2020-02-08T08:55:45
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_878_08-02-2020_08-55-45.jpg
 tags: [depressive_black_metal, industrial_black_metal, Ukraine, 00s]
 title: "Darktrance: #depressive_black_metal #industrial_black_metal"
 ---

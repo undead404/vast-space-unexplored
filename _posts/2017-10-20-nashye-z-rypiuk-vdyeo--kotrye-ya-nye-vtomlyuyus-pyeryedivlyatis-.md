@@ -1,6 +1,7 @@
 ---
 date: 2017-10-20T14:04:02
 layout: post
+photo: https://i.ytimg.com/vi/U32A9rt0D80/maxresdefault.jpg
 tags: []
 title: "наше з @rypiuk відео, котре я не втомлююсь передивлятись "
 ---

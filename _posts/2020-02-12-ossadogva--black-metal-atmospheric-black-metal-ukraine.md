@@ -1,6 +1,7 @@
 ---
 date: 2020-02-12T15:38:30
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_884_12-02-2020_15-38-30.jpg
 tags: [black_metal, atmospheric_black_metal, Ukraine, 00s]
 title: "Ossadogva: #black_metal #atmospheric_black_metal #Ukraine"
 ---

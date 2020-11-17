@@ -1,6 +1,7 @@
 ---
 date: 2020-01-10T17:32:20
 layout: post
+photo: https://i.ytimg.com/vi/Z4m8Wgl4eWk/hqdefault.jpg
 tags: [metalcore, post_hardcore, United_Kingdom, England, 00s]
 title: "Bury Tomorrow: #metalcore #post_hardcore #United_Kingdom"
 ---

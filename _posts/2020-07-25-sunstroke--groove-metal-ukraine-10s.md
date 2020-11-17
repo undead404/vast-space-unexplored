@@ -1,6 +1,7 @@
 ---
 date: 2020-07-25T19:08:15
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1028_25-07-2020_19-08-15.jpg
 tags: [groove_metal, Ukraine, 10s]
 title: "Sunstroke: #groove_metal #Ukraine #10s"
 ---

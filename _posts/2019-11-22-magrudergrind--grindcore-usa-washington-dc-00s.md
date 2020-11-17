@@ -1,6 +1,7 @@
 ---
 date: 2019-11-22T10:09:05
 layout: post
+photo: https://i.ytimg.com/vi/T-rKAQ-5wSA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLDWF7RPtacAlyVxHkBC_I5VqenLYg&amp;days_since_epoch=18583
 tags: [grindcore, USA, Washington_DC, 00s]
 title: "Magrudergrind: #grindcore #USA #Washington_DC #00s"
 ---

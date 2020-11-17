@@ -1,6 +1,7 @@
 ---
 date: 2020-06-01T11:34:19
 layout: post
+photo: https://i.ytimg.com/vi/PKzhO4NS4is/hqdefault.jpg
 tags: [symphonic_death_metal, USA, Illinois, 10s]
 title: "Mechina: #symphonic_death_metal #USA #Illinois #10s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-02-24T12:19:53
 layout: post
+photo: https://i.ytimg.com/vi/TBMY-q7jy8M/hqdefault.jpg
 tags: [grunge, Ukrainian_rock, Ukraine, Ukrainian, 00s]
 title: "Димна суміш: #grunge #Ukrainian_rock #Ukraine #Ukrainian"
 ---

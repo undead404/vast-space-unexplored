@@ -1,6 +1,7 @@
 ---
 date: 2020-05-06T21:14:57
 layout: post
+photo: https://i.ytimg.com/vi/-aM5Lf6Pvi8/maxresdefault.jpg
 tags: [cardio_wave, ethereal, Ukraine, 10s]
 title: "Amurekimuri: #cardio_wave #ethereal #Ukraine #10s "
 ---

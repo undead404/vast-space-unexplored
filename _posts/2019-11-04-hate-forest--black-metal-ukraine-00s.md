@@ -1,6 +1,7 @@
 ---
 date: 2019-11-04T17:33:09
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_799_04-11-2019_17-33-09.jpg
 tags: [black_metal, Ukraine, 00s]
 title: "Hate Forest: #black_metal #Ukraine #00s"
 ---

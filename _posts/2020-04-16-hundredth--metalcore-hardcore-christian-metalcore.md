@@ -1,6 +1,7 @@
 ---
 date: 2020-04-16T10:20:24
 layout: post
+photo: https://i.ytimg.com/vi/zHsxr-EKBK8/maxresdefault.jpg
 tags: [metalcore, hardcore, christian_metalcore, USA, South_Carolina, 10s]
 title: "Hundredth: #metalcore #hardcore #christian_metalcore"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-18T19:46:10
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1024_18-07-2020_19-46-09.jpg
 tags: [atmospheric_black_metal, Greece, 10s]
 title: "Darchon: #atmospheric_black_metal #Greece #10s"
 ---

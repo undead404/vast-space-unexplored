@@ -1,6 +1,7 @@
 ---
 date: 2019-11-08T17:38:21
 layout: post
+photo: https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/e2/6e/f6/e26ef6e0-daeb-a1eb-5a03-bf9befe6ae93/artwork.jpg/1200x630wp.png
 tags: [real_screamo, screamo, USA, Massachusetts, 00s, emo_violence]
 title: "Orchid: #real_screamo #screamo #USA #Massachusetts"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-24T11:01:40
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1027_24-07-2020_11-01-40.jpg
 tags: [black_metal, Ukraine, Russian, 10s]
 title: "ForestGrave: #black_metal #Ukraine #Russian #10s"
 ---

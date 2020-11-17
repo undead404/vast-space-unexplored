@@ -1,6 +1,7 @@
 ---
 date: 2020-05-14T17:53:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_967_14-05-2020_17-53-36.jpg
 tags: [deathcore, USA, New_Jersey, 10s]
 title: "Lorna Shore: #deathcore #USA #New_Jersey #10s"
 ---

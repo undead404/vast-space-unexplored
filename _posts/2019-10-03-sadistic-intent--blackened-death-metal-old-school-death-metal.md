@@ -1,6 +1,7 @@
 ---
 date: 2019-10-03T11:38:21
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_747_03-10-2019_11-38-21.jpg
 tags: [blackened_death_metal, old_school_death_metal, USA, California, 90s]
 title: "Sadistic Intent: #blackened_death_metal #old_school_death_metal"
 ---

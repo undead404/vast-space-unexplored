@@ -1,6 +1,7 @@
 ---
 date: 2020-01-09T11:27:53
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_849_09-01-2020_11-27-53.jpg
 tags: [deathcore, grindcore, USA, Nevada, 00s]
 title: "Molotov Solution: #deathcore #grindcore #USA #Nevada"
 ---

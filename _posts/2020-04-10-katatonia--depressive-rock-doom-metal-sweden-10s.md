@@ -1,6 +1,7 @@
 ---
 date: 2020-04-10T17:40:52
 layout: post
+photo: https://i.ytimg.com/vi/GP-ZGAs3M8o/maxresdefault.jpg
 tags: [depressive_rock, doom_metal, Sweden, 10s]
 title: "Katatonia: #depressive_rock #doom_metal #Sweden #10s"
 ---

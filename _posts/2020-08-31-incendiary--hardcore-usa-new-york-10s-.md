@@ -1,6 +1,7 @@
 ---
 date: 2020-08-31T11:01:44
 layout: post
+photo: https://i.ytimg.com/vi/lvqJ1az33M0/maxresdefault.jpg
 tags: [hardcore, USA, New_York, 10s]
 title: "Incendiary: #hardcore #USA #New_York #10s "
 ---

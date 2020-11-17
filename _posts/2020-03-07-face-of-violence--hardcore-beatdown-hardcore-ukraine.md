@@ -1,6 +1,7 @@
 ---
 date: 2020-03-07T10:45:25
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_913_07-03-2020_10-45-25.jpg
 tags: [hardcore, beatdown_hardcore, Ukraine, Russian, 00s]
 title: "Face of Violence: #hardcore #beatdown_hardcore #Ukraine"
 ---

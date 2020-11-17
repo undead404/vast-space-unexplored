@@ -1,6 +1,7 @@
 ---
 date: 2020-06-18T16:28:27
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_999_18-06-2020_16-28-27.jpg
 tags: [black_metal, instrumental, France, 10s]
 title: "Aosoth: #black_metal #instrumental #France #10s"
 ---

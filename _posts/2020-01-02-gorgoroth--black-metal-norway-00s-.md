@@ -1,6 +1,7 @@
 ---
 date: 2020-01-02T21:42:26
 layout: post
+photo: https://i.ytimg.com/vi/Cv4tEUqKAeI/maxresdefault.jpg
 tags: [black_metal, Norway, 00s]
 title: "Gorgoroth: #black_metal #Norway #00s "
 ---

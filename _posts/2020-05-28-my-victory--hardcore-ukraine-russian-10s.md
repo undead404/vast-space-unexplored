@@ -1,6 +1,7 @@
 ---
 date: 2020-05-28T13:01:46
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_979_28-05-2020_13-01-46.jpg
 tags: [hardcore, Ukraine, Russian, 10s]
 title: "My Victory: #hardcore #Ukraine #Russian #10s"
 ---

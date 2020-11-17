@@ -1,6 +1,7 @@
 ---
 date: 2020-08-08T02:06:41
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1033_08-08-2020_02-06-41.jpg
 tags: [stoner_metal, post_metal, United_Kingdom, England, 10s]
 title: "Blackstorm: #stoner_metal #post_metal #United_Kingdom"
 ---

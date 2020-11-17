@@ -1,6 +1,7 @@
 ---
 date: 2020-06-23T19:04:57
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1002_23-06-2020_19-04-56.jpg
 tags: [death_doom_metal, United_Kingdom, England, 10s, funeral_doom_metal]
 title: "Esoteric: #death_doom_metal #United_Kingdom #England"
 ---

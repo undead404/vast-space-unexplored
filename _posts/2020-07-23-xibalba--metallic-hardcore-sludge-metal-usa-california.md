@@ -1,6 +1,7 @@
 ---
 date: 2020-07-23T13:08:30
 layout: post
+photo: https://i.ytimg.com/vi/hs3uePUqFf8/maxresdefault.jpg
 tags: [metallic_hardcore, sludge_metal, USA, California, 10s]
 title: "Xibalba: #metallic_hardcore #sludge_metal #USA #California"
 ---

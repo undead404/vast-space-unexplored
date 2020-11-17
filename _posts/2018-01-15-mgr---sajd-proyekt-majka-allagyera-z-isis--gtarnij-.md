@@ -1,6 +1,7 @@
 ---
 date: 2018-01-15T13:09:07
 layout: post
+photo: 
 tags: []
 title: "MGR - сайд проект Майка Ґаллагера з Isis, гітарний "
 ---

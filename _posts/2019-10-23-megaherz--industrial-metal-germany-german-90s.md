@@ -1,6 +1,7 @@
 ---
 date: 2019-10-23T12:58:05
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_786_23-10-2019_12-58-05.jpg
 tags: [industrial_metal, Germany, German, 90s]
 title: "Megaherz: #industrial_metal #Germany #German #90s"
 ---

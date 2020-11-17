@@ -1,6 +1,7 @@
 ---
 date: 2019-12-18T00:37:10
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_820_18-12-2019_00-37-09.jpg
 tags: [post_metal, drone, United_Kingdom, England, 00s]
 title: "Jesu: #post_metal #drone #United_Kingdom #England "
 ---

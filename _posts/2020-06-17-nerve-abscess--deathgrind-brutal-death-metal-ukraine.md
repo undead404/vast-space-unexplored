@@ -1,6 +1,7 @@
 ---
 date: 2020-06-17T11:58:44
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_997_17-06-2020_11-58-44.jpg
 tags: [deathgrind, brutal_death_metal, Ukraine, 10s]
 title: "Nerve Abscess: #deathgrind #brutal_death_metal #Ukraine"
 ---

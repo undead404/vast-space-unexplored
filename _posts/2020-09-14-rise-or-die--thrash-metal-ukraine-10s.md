@@ -1,6 +1,7 @@
 ---
 date: 2020-09-14T10:37:57
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1051_14-09-2020_10-37-57.jpg
 tags: [thrash_metal, Ukraine, 10s]
 title: "Rise or Die: #thrash_metal #Ukraine #10s"
 ---

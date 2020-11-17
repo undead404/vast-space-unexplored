@@ -1,6 +1,7 @@
 ---
 date: 2019-10-26T17:39:29
 layout: post
+photo: https://f4.bcbits.com/img/a3130025525_5.jpg
 tags: [brutal_death_metal, USA, California, 90s]
 title: "Disgorge: #brutal_death_metal #USA #California #90s"
 ---

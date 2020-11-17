@@ -1,6 +1,7 @@
 ---
 date: 2020-06-27T10:40:55
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1006_27-06-2020_10-40-55.jpg
 tags: [grindcore, goregrind, Ukraine, Russian, 10s]
 title: "MoreGore: #grindcore #goregrind #Ukraine #Russian "
 ---

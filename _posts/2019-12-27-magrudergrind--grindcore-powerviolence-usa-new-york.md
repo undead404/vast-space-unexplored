@@ -1,6 +1,7 @@
 ---
 date: 2019-12-27T00:42:43
 layout: post
+photo: https://i.ytimg.com/vi/YkVrAENmURM/hqdefault.jpg
 tags: [grindcore, powerviolence, USA, New_York, 00s]
 title: "Magrudergrind: #grindcore #powerviolence #USA #New_York"
 ---

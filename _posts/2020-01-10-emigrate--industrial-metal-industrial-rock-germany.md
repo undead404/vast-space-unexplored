@@ -1,6 +1,7 @@
 ---
 date: 2020-01-10T11:25:51
 layout: post
+photo: https://i.ytimg.com/vi/hhyQaN95_KI/hqdefault.jpg
 tags: [industrial_metal, industrial_rock, Germany, 00s]
 title: "Emigrate: #industrial_metal #industrial_rock #Germany"
 ---

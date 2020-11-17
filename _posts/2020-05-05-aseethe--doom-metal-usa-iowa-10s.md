@@ -1,6 +1,7 @@
 ---
 date: 2020-05-05T14:27:33
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_959_05-05-2020_14-27-33.jpg
 tags: [doom_metal, USA, Iowa, 10s]
 title: "Aseethe: #doom_metal #USA #Iowa #10s"
 ---

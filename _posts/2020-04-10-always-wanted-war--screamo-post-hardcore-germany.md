@@ -1,6 +1,7 @@
 ---
 date: 2020-04-10T12:49:19
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_941_10-04-2020_12-49-19.jpg
 tags: [screamo, post_hardcore, Germany, 10s]
 title: "Always Wanted War: #screamo #post_hardcore #Germany"
 ---

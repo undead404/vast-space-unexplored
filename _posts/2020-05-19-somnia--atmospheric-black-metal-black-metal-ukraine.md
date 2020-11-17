@@ -1,6 +1,7 @@
 ---
 date: 2020-05-19T10:53:36
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_971_19-05-2020_10-53-36.jpg
 tags: [atmospheric_black_metal, black_metal, Ukraine, Ukrainian, 10s]
 title: "Somnia: #atmospheric_black_metal #black_metal #Ukraine"
 ---

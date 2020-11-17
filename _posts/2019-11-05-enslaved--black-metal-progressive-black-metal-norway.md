@@ -1,6 +1,7 @@
 ---
 date: 2019-11-05T17:49:40
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_800_05-11-2019_17-49-40.jpg
 tags: [black_metal, progressive_black_metal, Norway, 00s]
 title: "Enslaved: #black_metal #progressive_black_metal #Norway"
 ---

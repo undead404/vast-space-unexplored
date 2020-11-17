@@ -1,6 +1,7 @@
 ---
 date: 2019-10-17T12:00:15
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_773_17-10-2019_12-00-15.jpg
 tags: [pagan_metal, symphonic_black_metal, Ukraine, 90s]
 title: "Great Horn: #pagan_metal #symphonic_black_metal #Ukraine"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-12-23T23:59:52
 layout: post
+photo: https://f4.bcbits.com/img/a1873499889_5.jpg
 tags: [black_metal, symphonic_black_metal, Ukraine, 00s]
 title: "Semargl: #black_metal #symphonic_black_metal #Ukraine"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2019-10-16T18:08:24
 layout: post
+photo: https://i.ytimg.com/vi/47cf6r9WJP4/hqdefault.jpg
 tags: [black_metal, Norway, 90s]
 title: "Mayhem: #black_metal #Norway #90s "
 ---

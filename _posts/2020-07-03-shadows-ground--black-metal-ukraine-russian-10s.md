@@ -1,6 +1,7 @@
 ---
 date: 2020-07-03T11:43:29
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1012_03-07-2020_11-43-29.jpg
 tags: [black_metal, Ukraine, Russian, 10s]
 title: "Shadows Ground: #black_metal #Ukraine #Russian #10s"
 ---

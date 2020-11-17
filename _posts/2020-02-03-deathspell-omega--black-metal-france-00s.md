@@ -1,6 +1,7 @@
 ---
 date: 2020-02-03T15:46:31
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_872_03-02-2020_15-46-31.jpg
 tags: [black_metal, France, 00s]
 title: "Deathspell Omega: #black_metal #France #00s"
 ---

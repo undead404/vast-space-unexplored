@@ -1,6 +1,7 @@
 ---
 date: 2020-08-02T13:01:40
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1030_02-08-2020_12-58-21.jpg
 tags: [blackened_death_metal, industrial_black_metal, United_Kingdom, England, 10s]
 title: "Anaal Nathrakh: #blackened_death_metal #industrial_black_metal"
 ---

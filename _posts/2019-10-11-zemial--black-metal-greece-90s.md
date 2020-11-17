@@ -1,6 +1,7 @@
 ---
 date: 2019-10-11T10:56:18
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_762_11-10-2019_10-56-18.jpg
 tags: [black_metal, Greece, 90s]
 title: "Zemial: #black_metal #Greece #90s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-06-23T12:48:14
 layout: post
+photo: https://i.ytimg.com/vi/Qpvc4YENsvA/hqdefault.jpg
 tags: [country, Germany, 10s]
 title: "The BossHoss: #country #Germany #10s "
 ---

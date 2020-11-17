@@ -1,6 +1,7 @@
 ---
 date: 2020-02-16T09:01:44
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_891_16-02-2020_09-01-44.jpg
 tags: [mathcore, Ukraine, Crimea, 00s]
 title: "Imhora: #mathcore #Ukraine #Crimea #00s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-06T10:26:27
 layout: post
+photo: https://f4.bcbits.com/img/a1963706497_5.jpg
 tags: [grindcore, Lithuania, Lithuanian, 10s]
 title: "Stranguliatorius: #grindcore #Lithuania #Lithuanian"
 ---

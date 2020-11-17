@@ -1,6 +1,7 @@
 ---
 date: 2020-04-18T10:48:04
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_943_18-04-2020_10-48-04.jpg
 tags: [metalcore, Australia, 10s]
 title: "Feed Her to the Sharks: #metalcore #Australia #10s"
 ---

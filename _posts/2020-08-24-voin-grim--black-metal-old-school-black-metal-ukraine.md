@@ -1,6 +1,7 @@
 ---
 date: 2020-08-24T12:53:51
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1042_24-08-2020_12-53-51.jpg
 tags: [black_metal, old_school_black_metal, Ukraine, Crimea, Russian, 10s]
 title: "Voin Grim: #black_metal #old_school_black_metal #Ukraine"
 ---

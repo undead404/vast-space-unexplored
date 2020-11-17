@@ -1,6 +1,7 @@
 ---
 date: 2020-09-22T12:01:27
 layout: post
+photo: https://i.ytimg.com/vi/kSTAzgtps7Q/maxresdefault.jpg
 tags: [metallic_hardcore, USA, California, 10s]
 title: "Twitching Tongues: #metallic_hardcore #USA #California"
 ---

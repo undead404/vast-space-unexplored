@@ -1,6 +1,7 @@
 ---
 date: 2019-10-31T01:38:57
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_793_31-10-2019_01-38-57.jpg
 tags: [progressive_metalcore, progressive_metal, sludge, USA, Georgia, 00s]
 title: "Mastodon: #progressive_metalcore #progressive_metal"
 ---

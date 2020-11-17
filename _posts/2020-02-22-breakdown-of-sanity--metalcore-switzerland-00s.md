@@ -1,6 +1,7 @@
 ---
 date: 2020-02-22T16:37:23
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_900_22-02-2020_16-37-23.jpg
 tags: [metalcore, Switzerland, 00s]
 title: "Breakdown of Sanity: #metalcore #Switzerland #00s"
 ---

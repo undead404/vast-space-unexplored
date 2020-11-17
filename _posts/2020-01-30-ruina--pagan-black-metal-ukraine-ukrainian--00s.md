@@ -1,6 +1,7 @@
 ---
 date: 2020-01-30T17:18:00
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_868_30-01-2020_17-18-00.jpg
 tags: [pagan_black_metal, Ukraine, Ukrainian, 00s]
 title: "Ruina: #pagan_black_metal #Ukraine #Ukrainian 🇺🇦 #00s"
 ---

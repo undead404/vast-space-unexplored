@@ -1,6 +1,7 @@
 ---
 date: 2020-01-03T14:48:48
 layout: post
+photo: https://i.ytimg.com/vi/vX33ndvS9SE/hqdefault.jpg
 tags: [pop, funk, Ukraine, Ukrainian, 00s]
 title: "Бумбокс: #pop #funk #Ukraine #Ukrainian #00s "
 ---

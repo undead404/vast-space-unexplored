@@ -1,6 +1,7 @@
 ---
 date: 2020-03-27T18:34:04
 layout: post
+photo: https://i.ytimg.com/vi/UYBONgSCXzw/hqdefault.jpg
 tags: [post_rock, instrumental, violin, Ukraine, 00s]
 title: "Nice Wings, Icarus!: #post_rock #instrumental #violin"
 ---

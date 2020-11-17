@@ -1,6 +1,7 @@
 ---
 date: 2020-03-20T10:48:34
 layout: post
+photo: https://i.ytimg.com/vi/i8Jjy3Zy7kk/maxresdefault.jpg
 tags: [brutal_death_metal, death_metal, USA, Maryland, 00s]
 title: "Dying Fetus: #brutal_death_metal #death_metal #USA"
 ---

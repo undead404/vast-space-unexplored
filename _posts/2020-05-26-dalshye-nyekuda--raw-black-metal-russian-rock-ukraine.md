@@ -1,6 +1,7 @@
 ---
 date: 2020-05-26T16:55:01
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_977_26-05-2020_16-55-01.jpg
 tags: [raw_black_metal, Russian_rock, Ukraine, Russian, 10s, old_school_black_metal]
 title: "Дальше некуда: #raw_black_metal #Russian_rock #Ukraine"
 ---

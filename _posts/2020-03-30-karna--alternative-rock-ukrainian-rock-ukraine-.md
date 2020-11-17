@@ -1,6 +1,7 @@
 ---
 date: 2020-03-30T11:09:26
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_930_30-03-2020_11-09-25.jpg
 tags: [alternative_rock, Ukrainian_rock, Ukraine, Ukrainian, 10s]
 title: "Карна: #alternative_rock #Ukrainian_rock #Ukraine "
 ---

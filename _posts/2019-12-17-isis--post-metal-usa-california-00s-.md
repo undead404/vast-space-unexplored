@@ -1,6 +1,7 @@
 ---
 date: 2019-12-17T10:47:35
 layout: post
+photo: https://i.ytimg.com/vi/y6Ux2W4CkBk/maxresdefault.jpg
 tags: [post_metal, USA, California, 00s]
 title: "Isis: #post_metal #USA #California #00s "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-20T16:18:26
 layout: post
+photo: https://i.ytimg.com/vi/ekOmTLoat9Y/maxresdefault.jpg
 tags: [metalcore, USA, California, 10s]
 title: "As I Lay Dying: #metalcore #USA #California #10s "
 ---

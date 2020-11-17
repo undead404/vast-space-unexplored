@@ -1,6 +1,7 @@
 ---
 date: 2020-02-04T17:28:04
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_873_04-02-2020_17-28-04.jpg
 tags: [progressive_death_metal, death_metal, Ukraine, 00s]
 title: "No Emotions: #progressive_death_metal #death_metal"
 ---

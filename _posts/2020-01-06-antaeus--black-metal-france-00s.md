@@ -1,10 +1,11 @@
 ---
 date: 2020-01-06T15:05:55
 layout: post
+photo: https://cdn4.telesco.pe/file/FuHpd-Z2jpO2p-6csHgbaahwJ2t06J6uTBr_eZ8vnSIPPK262nCqQSu08T4siq-kg7mxB5OLgwvLtiLyVcd-s7eM306ra8JYvHYAdQhNYiYnTABSws6-AYFoZODZkOH2kQVlFIG37s_5zdq7XYELix3KIQDGg313JLFonGiCdBJGuxk2ZKkxvImZhAnm0Mm1231o_TDNuBlPR2VeH9FYeUy4-e0EG68YWYC93lw4WK8wBYIGmS3YV3oVpalIUK0iMF6FTa0vcenseHryTHDjBTEHf1ZOS0HTd38E32N0foweEQM5ITIaOqxT_4jwqJ_dJBd1lyvPF7U-lHX22GfW3w.jpg
 tags: [black_metal, France, 00s]
 title: "Antaeus: #black_metal #France #00s"
 ---
-![Antaeus: #black_metal #France #00s](https://cdn4.telesco.pe/file/d5vb3o0bSzrt-pAWRVmr7wmGuP-Bs0ftTzb9D1f19xlc43AbyGhXKaHQ62OUPjoz55PKtQWTRDnGGT_CoU0_RAu0DGSXFu2awxMuZO9A1l16lqXlOj-573yVsdAAGsOC3zxi5tJV57e9ZF5QYCdOJMqpD__Q8DlINGORfjQx7Zhghiv9bYbD5hzmvDXFOLVuVJHrknAKYIR8MuKB8SL4us_zvH-IGfCXnBOOawGkkCNRDxP5gD7aqyhxo5UyNpFM3meSiJRi34nT-JQCuxGO2MBcSl1yQCweV9PDca68UnnpwqSyMcdhvxRGdRhi1Dd_C5u1UYlMMc3WEObJv-DoNg.jpg)
+![Antaeus: #black_metal #France #00s](https://cdn4.telesco.pe/file/FuHpd-Z2jpO2p-6csHgbaahwJ2t06J6uTBr_eZ8vnSIPPK262nCqQSu08T4siq-kg7mxB5OLgwvLtiLyVcd-s7eM306ra8JYvHYAdQhNYiYnTABSws6-AYFoZODZkOH2kQVlFIG37s_5zdq7XYELix3KIQDGg313JLFonGiCdBJGuxk2ZKkxvImZhAnm0Mm1231o_TDNuBlPR2VeH9FYeUy4-e0EG68YWYC93lw4WK8wBYIGmS3YV3oVpalIUK0iMF6FTa0vcenseHryTHDjBTEHf1ZOS0HTd38E32N0foweEQM5ITIaOqxT_4jwqJ_dJBd1lyvPF7U-lHX22GfW3w.jpg)
 Antaeus: [#black_metal](/tags/#black_metal) [#France](/tags/#France) [#00s](/tags/#00s)
 
 **Антей** - кулеметний блек-метал із Франції, про котрого уже був пост про [спліт із Aosoth](/2019-12-31-antaeus--black-metal-france-00s). Того ж 2006 року вийшов їх альбом &quot;Кривавий наклеп&quot;, звук для якого робив BST (Aborted, Aosoth).

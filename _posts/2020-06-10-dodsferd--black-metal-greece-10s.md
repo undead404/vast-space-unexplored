@@ -1,6 +1,7 @@
 ---
 date: 2020-06-10T11:03:37
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_990_10-06-2020_11-03-37.jpg
 tags: [black_metal, Greece, 10s]
 title: "Dødsferd: #black_metal #Greece #10s"
 ---

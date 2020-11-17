@@ -1,6 +1,7 @@
 ---
 date: 2020-05-18T16:29:29
 layout: post
+photo: https://i.ytimg.com/vi/osIcu-k8M4M/maxresdefault.jpg
 tags: [piano, instrumental, Ukraine, 10s]
 title: "Roman Kolyada: #piano #instrumental #Ukraine #10s "
 ---

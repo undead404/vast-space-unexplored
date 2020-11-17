@@ -1,6 +1,7 @@
 ---
 date: 2020-06-18T11:57:34
 layout: post
+photo: https://i.ytimg.com/vi/Fj5arUjZ0U4/hqdefault.jpg
 tags: [crossover, Ukraine, 10s]
 title: "Backchat: #crossover #Ukraine #10s "
 ---

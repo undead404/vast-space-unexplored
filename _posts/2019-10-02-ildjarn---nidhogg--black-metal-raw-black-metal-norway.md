@@ -1,6 +1,7 @@
 ---
 date: 2019-10-02T20:34:08
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_746_02-10-2019_20-34-08.jpg
 tags: [black_metal, raw_black_metal, Norway, Norwegian, 90s]
 title: "Ildjarn - Nidhogg: #black_metal #raw_black_metal #Norway"
 ---

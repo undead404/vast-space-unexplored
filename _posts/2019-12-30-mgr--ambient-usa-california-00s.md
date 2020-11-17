@@ -1,6 +1,7 @@
 ---
 date: 2019-12-30T10:55:13
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_835_30-12-2019_10-55-13.jpg
 tags: [ambient, USA, California, 00s]
 title: "MGR: #ambient #USA #California #00s"
 ---

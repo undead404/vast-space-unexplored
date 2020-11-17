@@ -1,6 +1,7 @@
 ---
 date: 2020-03-26T17:06:20
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_926_26-03-2020_17-06-20.jpg
 tags: [doom_metal, atmospheric_doom_metal, Ukraine, 00s]
 title: "Raventale: #doom_metal #atmospheric_doom_metal #Ukraine"
 ---

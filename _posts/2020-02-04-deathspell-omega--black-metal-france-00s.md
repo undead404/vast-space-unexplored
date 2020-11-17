@@ -1,10 +1,11 @@
 ---
 date: 2020-02-04T10:40:45
 layout: post
+photo: https://cdn4.telesco.pe/file/DbVcK7YSic0XPvhawX25-xiQGFbqpC3X0O4jkWFb_d3iP9vcwPpM4FSrpzS2cphkaDGf3cFLy-kcaIaxLg8DUyapYMaJZ4oYHMkrL-KVF7aZcQ9kdC96a0LgR1Cjwreh0kZRFbXZg_Cp92-lP9NIe7_i-jLws9p132as7jYqh-T9y6PqWib-Czb__UKduM4gWK8VJitKn-oxPzEJa681VPYssx54n6A3GjErraS2AH9XNoEnDvk3gb-SbG18LIpwhO8vVqcqieIisOI0BTu9nsKy5zMxNwb68ILSPMO1qU3nuKYVXipedwwHh9ggP2G99XpgPUpLPEMp3p1Vc8CGeQ.jpg
 tags: [black_metal, France, 00s]
 title: "Deathspell Omega: #black_metal #France #00s"
 ---
-![Deathspell Omega: #black_metal #France #00s](https://cdn4.telesco.pe/file/uga1QK2hy9eHO-w7Un8SI1PJOiB8RRvszzl0f6Q0ARFlJ37C_h37YuAoHBFhFNgZHXwSgio8SaLwnCtmh8Se7agAlC0IhVaErRdvuC4XKwkuLvAu8fXWQ9hD2jBv8VIiqOPkK-uh11uFEPsyXVg2bkn7-j19sE6SqHog8hWK2Dq6kioUPmLLZj_Gf-y1njbr_l54vBr_OUBeZ1mcmVwEStbNA4mMJyM3MAHvpcvE4PlPHNYLZ5b6D-08-NaKlOniN3SbpSR7wUyiqZ46MYOruCj_DZ6w7WnAAwjRVuBfrbndtQfvufkvJriKb9x-FEZnFff9R-DBKKiVyE9Q9h-qKg.jpg)
+![Deathspell Omega: #black_metal #France #00s](https://cdn4.telesco.pe/file/DbVcK7YSic0XPvhawX25-xiQGFbqpC3X0O4jkWFb_d3iP9vcwPpM4FSrpzS2cphkaDGf3cFLy-kcaIaxLg8DUyapYMaJZ4oYHMkrL-KVF7aZcQ9kdC96a0LgR1Cjwreh0kZRFbXZg_Cp92-lP9NIe7_i-jLws9p132as7jYqh-T9y6PqWib-Czb__UKduM4gWK8VJitKn-oxPzEJa681VPYssx54n6A3GjErraS2AH9XNoEnDvk3gb-SbG18LIpwhO8vVqcqieIisOI0BTu9nsKy5zMxNwb68ILSPMO1qU3nuKYVXipedwwHh9ggP2G99XpgPUpLPEMp3p1Vc8CGeQ.jpg)
 Deathspell Omega: [#black_metal](/tags/#black_metal) [#France](/tags/#France) [#00s](/tags/#00s)
 
 Коротше, в один з [першою збіркою](/2020-02-03-deathspell-omega--black-metal-france-00s) в 2008 році вийшла друга. Це просто розрив звізди. Вісім пісень, записаних **Літерою смерті Омегою** невдовзі після &quot;Інквізиторів Сатани&quot;, тобто це останній матеріал з Шаґзулом (отак псевдонім Фредеріка правильно вимовляється, я перевірив). Матеріалу цілком достатньо для цілого третього альбому, але очікувалось, що ці пісні розпихають по сплітах, чого так і не склалося, і вісім захопливих бойовиків перебували у пітьмі шість років.

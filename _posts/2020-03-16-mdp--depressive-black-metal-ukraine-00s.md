@@ -1,6 +1,7 @@
 ---
 date: 2020-03-16T10:19:45
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_922_16-03-2020_10-19-45.jpg
 tags: [depressive_black_metal, Ukraine, 00s]
 title: "MDP: #depressive_black_metal #Ukraine #00s"
 ---

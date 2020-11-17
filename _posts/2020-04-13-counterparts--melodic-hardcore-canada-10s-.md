@@ -1,6 +1,7 @@
 ---
 date: 2020-04-13T10:27:00
 layout: post
+photo: https://i.ytimg.com/vi/yCpNLpHB3J0/maxresdefault.jpg
 tags: [melodic_hardcore, Canada, 10s]
 title: "Counterparts: #melodic_hardcore #Canada #10s "
 ---

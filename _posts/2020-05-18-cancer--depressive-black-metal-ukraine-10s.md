@@ -1,10 +1,11 @@
 ---
 date: 2020-05-18T11:33:37
 layout: post
+photo: https://cdn4.telesco.pe/file/ROP6ZluP_go4TAiEkyVMy-m6kmbsuBNPczbVBw2bEAWHogGkrAxOFgCpMWqdNOrJyK3-AFC22v9PbN_FRxlrphrcosFGMsKQQtBBvr0qV3V-71I4es13nWiBwH_XwHqCEHN1o-Nkn_8E9yeoZW9_EmYsPKm_ESHZNoVfcvYgQpUp3wrdau_9MNkALX0ltxQ7UfhwpriapRbADbMSyI14brEWIBHmDNne7B4Mzm1RlNHRQrKR1RP_JIhgPg9MGu1LSnVTql0OiGTM05TD6dKXLyq-jt07EcvikKKEczoTcijFCcEN_8oxO0ApPDz4cYe92jVaWXRzqZCQ-j1hAGxzdw.jpg
 tags: [depressive_black_metal, Ukraine, 10s]
 title: "Cancer: #depressive_black_metal #Ukraine #10s"
 ---
-![Cancer: #depressive_black_metal #Ukraine #10s](https://cdn4.telesco.pe/file/BV8wSggxfuteZ2w7PMQNZFVUolQNKVyGDdTvM0LBqSMah2GYqUVPIbKGBODjPhK-EYhdAxIeg7NM1YzvuiS3eWsWTbl2HLVz82JSeiT7Y9-4iHG_AJycBDgg8j2QmtvR3CHpydfVbLMz5XICK98amaocUiBUlhiga12coO_HoxX1bQjeeE3h4tbOAF9hz8_L5_9zH1aUxXkjaXmr_WiYqXPUXltzq7Oj_mjVA5bi5XPNqQ9iO8LKXlyWhW6DGDnNiIFTMEysNmjesQBA0sQXSo78PaBouR6XuLED2dLu5JZ0WO1pY7aeFekYBFhZkkuj7jo7SRDvfbXwtAfYa7DotQ.jpg)
+![Cancer: #depressive_black_metal #Ukraine #10s](https://cdn4.telesco.pe/file/ROP6ZluP_go4TAiEkyVMy-m6kmbsuBNPczbVBw2bEAWHogGkrAxOFgCpMWqdNOrJyK3-AFC22v9PbN_FRxlrphrcosFGMsKQQtBBvr0qV3V-71I4es13nWiBwH_XwHqCEHN1o-Nkn_8E9yeoZW9_EmYsPKm_ESHZNoVfcvYgQpUp3wrdau_9MNkALX0ltxQ7UfhwpriapRbADbMSyI14brEWIBHmDNne7B4Mzm1RlNHRQrKR1RP_JIhgPg9MGu1LSnVTql0OiGTM05TD6dKXLyq-jt07EcvikKKEczoTcijFCcEN_8oxO0ApPDz4cYe92jVaWXRzqZCQ-j1hAGxzdw.jpg)
 Cancer: [#depressive_black_metal](/tags/#depressive_black_metal) [#Ukraine](/tags/#Ukraine) [#10s](/tags/#10s)
 
 Другий із релізів цього депресивно-талановитого киянина (першим було [шеститрекове демо](/2020-01-27-cancer--depressive-black-metal-ukraine-00s) в 2008 році) такий же зашибісь, як і перший. На селф-релізі **Lugburz Sleed** найменше сподобались саме **Lugburz Sleed** (цей спліт, схоже, був виданий саме силами чернігівчан).

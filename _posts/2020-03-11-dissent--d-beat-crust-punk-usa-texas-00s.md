@@ -1,6 +1,7 @@
 ---
 date: 2020-03-11T11:21:46
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_918_11-03-2020_11-21-46.jpg
 tags: [d_beat, crust_punk, USA, Texas, 00s]
 title: "Dissent: #d_beat #crust_punk #USA #Texas #00s"
 ---

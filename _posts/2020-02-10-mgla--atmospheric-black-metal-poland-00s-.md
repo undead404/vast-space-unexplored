@@ -1,10 +1,11 @@
 ---
 date: 2020-02-10T16:57:36
 layout: post
+photo: https://cdn4.telesco.pe/file/gur-AjMdVJfjwjuB88RKi1a-2srT6TCGiftuC9M21dw2sQNn-Taw9SDFcXovkMSCMU_zcP2Rk2pkHUL7BqUGUzNquNa9Dulp6WRe9P12CnW71yc__SYOuLZizm-1agJxTShhoTh4dhYHr0YdnPttUMtjKH7G8wsDgmK9i0wgtnsBofDABHakMxgZHTR8FXKGWW9ffVgBUM1HPV-PLIEO9MVzpj_8LwxCe5S7fMoQZg1YIWgsc7IDdWSQKhUQybraK5CnxdwcbFXBx9jLZW0h9hCvDRalLohUuQHbSosyqV0w1En6g5bC1HJx99OP7NjLG5RHi16ALJ-cDeAoJ9zfJQ.jpg
 tags: [atmospheric_black_metal, Poland, 00s]
 title: "Mgła: #atmospheric_black_metal #Poland #00s "
 ---
-![Mgła: #atmospheric_black_metal #Poland #00s ](https://cdn4.telesco.pe/file/BFLXKhnbcdiHPGlmHF2gKWGybjQTuWmCQV83rMqYDxt79-wp9J6nFCxUd_ahASWS4-bJtwf-rpP4cgZEONcmLqopcXzTTOvEz8iJffaRBHsF9BEU_VvLBKGNjkVs2Teb--1YJA7PLqfBBqZGilDQVWXLvheHO5kNADO4nBTm0dL5VjdXmHQh7VPqABrxxZaxICDV97cdouFTJvL-7ItbSBoXPPbdOePk5ZOyEES9pLxMT5oEXhqlZ6r-iODKw0Dv7ekVtLtykWKCK1u531-KsOxGIpMMIHfHFHw4OZWPYSrSkitk_aQJi8tkFVIoOZHYZ8G2mjFRA0A9SGEf9HNjaA.jpg)
+![Mgła: #atmospheric_black_metal #Poland #00s ](https://cdn4.telesco.pe/file/gur-AjMdVJfjwjuB88RKi1a-2srT6TCGiftuC9M21dw2sQNn-Taw9SDFcXovkMSCMU_zcP2Rk2pkHUL7BqUGUzNquNa9Dulp6WRe9P12CnW71yc__SYOuLZizm-1agJxTShhoTh4dhYHr0YdnPttUMtjKH7G8wsDgmK9i0wgtnsBofDABHakMxgZHTR8FXKGWW9ffVgBUM1HPV-PLIEO9MVzpj_8LwxCe5S7fMoQZg1YIWgsc7IDdWSQKhUQybraK5CnxdwcbFXBx9jLZW0h9hCvDRalLohUuQHbSosyqV0w1En6g5bC1HJx99OP7NjLG5RHi16ALJ-cDeAoJ9zfJQ.jpg)
 Mgła: [#atmospheric_black_metal](/tags/#atmospheric_black_metal) [#Poland](/tags/#Poland) [#00s](/tags/#00s) [https://lastfm.freetls.fastly.net/i/u/770x0/c1269ae727d54fe183df0e1ec18dbd08.webp#c1269ae727d54fe183df0e1ec18dbd08](https://lastfm.freetls.fastly.net/i/u/770x0/c1269ae727d54fe183df0e1ec18dbd08.webp#c1269ae727d54fe183df0e1ec18dbd08)
 
 2008 року М. та Темний бік продовжили [свою чорну справу](/2020-01-18-mgla--black-metal-atmospheric-black-metal-poland) першим повноформатним альбомом &quot;Жах&quot;. Обкладинка зображає обличчя, неначе розкришене ударом скелі в мить, коли відчувало саме страшенний жах.

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-06T12:34:44
 layout: post
+photo: https://i.ytimg.com/vi/yeta7ou9bMA/hqdefault.jpg
 tags: [sludge_metal, instrumental, USA, Illinois, 10s]
 title: "Bongripper: #sludge_metal #instrumental #USA #Illinois"
 ---

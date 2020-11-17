@@ -1,6 +1,7 @@
 ---
 date: 2019-10-02T16:35:07
 layout: post
+photo: https://i.ytimg.com/vi/34gCf3Yvi5w/hqdefault.jpg
 tags: [black_metal, symphonic_black_metal, Norway, 90s]
 title: "Satyricon: #black_metal #symphonic_black_metal #Norway"
 ---

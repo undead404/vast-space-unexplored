@@ -1,6 +1,7 @@
 ---
 date: 2020-08-12T23:10:29
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1037_12-08-2020_23-10-29.jpg
 tags: [old_school_black_metal, USA, Texas, 10s]
 title: "Peasant: #old_school_black_metal #USA #Texas #10s"
 ---

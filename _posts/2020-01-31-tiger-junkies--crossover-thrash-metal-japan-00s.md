@@ -1,6 +1,7 @@
 ---
 date: 2020-01-31T13:20:19
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_870_31-01-2020_13-20-19.jpg
 tags: [crossover, thrash_metal, Japan, 00s]
 title: "Tiger Junkies: #crossover #thrash_metal #Japan #00s"
 ---

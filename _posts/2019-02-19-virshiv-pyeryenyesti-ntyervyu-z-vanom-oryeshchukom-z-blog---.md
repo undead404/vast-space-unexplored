@@ -1,6 +1,7 @@
 ---
 date: 2019-02-19T12:29:17
 layout: post
+photo: https://miro.medium.com/max/1200/1*tLYHqJCd16T7ULkep5uWbw.jpeg
 tags: []
 title: "вирішив перенести інтерв&#39;ю з Іваном Орещуком з Блог..."
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-04T16:11:44
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_934_04-04-2020_16-11-44.jpg
 tags: [hardcore_punk, grindcore, Ukraine, 10s]
 title: "The Symbioz: #hardcore_punk #grindcore #Ukraine #10s"
 ---

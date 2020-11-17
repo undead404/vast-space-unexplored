@@ -1,6 +1,7 @@
 ---
 date: 2020-09-25T11:53:54
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1056_25-09-2020_11-53-54.jpg
 tags: [melodic_metalcore, Christian_metalcore, USA, Ohio, 10s]
 title: "The Devil Wears Prada: #melodic_metalcore #Christian_metalcore"
 ---

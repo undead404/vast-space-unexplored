@@ -1,6 +1,7 @@
 ---
 date: 2018-01-15T12:33:59
 layout: post
+photo: https://i.ytimg.com/vi/5RDQQXZwrj8/hqdefault.jpg
 tags: [death_metal]
 title: "Autopsy - не лише гурт із співаючим барабанником, а ще й дуже гідна "
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-26T12:03:06
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_976_26-05-2020_12-03-05.jpg
 tags: [pagan_black_metal, Ukraine, Ukrainian, 10s]
 title: "Dragobrath: #pagan_black_metal #Ukraine #Ukrainian"
 ---

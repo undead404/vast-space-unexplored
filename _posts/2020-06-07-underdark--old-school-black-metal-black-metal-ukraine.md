@@ -1,6 +1,7 @@
 ---
 date: 2020-06-07T12:46:32
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_987_07-06-2020_12-46-32.jpg
 tags: [old_school_black_metal, black_metal, Ukraine, Russian, 10s]
 title: "Underdark: #old_school_black_metal #black_metal #Ukraine"
 ---

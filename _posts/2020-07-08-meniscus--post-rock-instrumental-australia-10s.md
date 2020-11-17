@@ -1,6 +1,7 @@
 ---
 date: 2020-07-08T14:36:31
 layout: post
+photo: https://i.ytimg.com/vi/cu4q0Nvp5E8/maxresdefault.jpg
 tags: [post_rock, instrumental, Australia, 10s]
 title: "Meniscus: #post_rock #instrumental #Australia #10s"
 ---

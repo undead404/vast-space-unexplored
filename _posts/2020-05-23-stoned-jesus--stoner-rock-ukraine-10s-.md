@@ -1,6 +1,7 @@
 ---
 date: 2020-05-23T19:52:59
 layout: post
+photo: https://i.ytimg.com/vi/s3sb51dWy_E/hqdefault.jpg
 tags: [stoner_rock, Ukraine, 10s, stoner_metal, brutal_death_metal, sludgecore]
 title: "Stoned Jesus: #stoner_rock #Ukraine #10s "
 ---

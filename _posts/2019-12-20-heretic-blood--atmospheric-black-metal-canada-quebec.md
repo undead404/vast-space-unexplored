@@ -1,6 +1,7 @@
 ---
 date: 2019-12-20T10:31:52
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_825_20-12-2019_10-31-52.jpg
 tags: [atmospheric_black_metal, Canada, Quebec, 00s]
 title: "Heretic Blood: #atmospheric_black_metal #Canada #Quebec"
 ---

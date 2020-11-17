@@ -1,6 +1,7 @@
 ---
 date: 2019-10-04T11:19:50
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_750_04-10-2019_11-19-50.jpg
 tags: [brutal_death_metal, Mexico, 90s]
 title: "Disgorge: #brutal_death_metal #Mexico #90s"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2020-08-19T11:34:45
 layout: post
+photo: https://i.ytimg.com/vi/Sr1pIN7D2W4/maxresdefault.jpg
 tags: [dark_hardcore, Ukraine, Ukrainian, 10s]
 title: "The Symbioz: #dark_hardcore #Ukraine #Ukrainian #10s"
 ---

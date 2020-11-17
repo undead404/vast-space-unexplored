@@ -1,6 +1,7 @@
 ---
 date: 2020-07-10T12:43:47
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_1020_10-07-2020_12-43-47.jpg
 tags: [neocrust, post_metal, d_beat, USA, Oregon, 10s]
 title: "Tragedy: #neocrust #post_metal #d_beat #USA #Oregon"
 ---

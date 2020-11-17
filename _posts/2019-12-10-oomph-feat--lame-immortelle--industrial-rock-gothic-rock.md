@@ -1,6 +1,7 @@
 ---
 date: 2019-12-10T09:57:15
 layout: post
+photo: https://i.ytimg.com/vi/kQ75n89DS_0/hqdefault.jpg
 tags: [industrial_rock, gothic_rock, Germany, Austria, German, 00s]
 title: "Oomph! feat. L&#39;Âme Immortelle: #industrial_rock #gothic_rock"
 ---

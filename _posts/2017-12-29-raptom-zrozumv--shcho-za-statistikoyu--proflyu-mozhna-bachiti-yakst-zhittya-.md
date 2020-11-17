@@ -1,6 +1,7 @@
 ---
 date: 2017-12-29T14:40:57
 layout: post
+photo: https://www.last.fm/static/images/lastfm_logo_facebook.15d8133be114.png
 tags: []
 title: "Раптом зрозумів, що за статистикою  профілю можна бачити якість життя."
 ---

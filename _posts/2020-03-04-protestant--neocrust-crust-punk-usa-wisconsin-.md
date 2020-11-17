@@ -1,6 +1,7 @@
 ---
 date: 2020-03-04T11:54:32
 layout: post
+photo: https://res.cloudinary.com/vast-space-unexplored/image/upload/q_auto,dpr_auto,w_auto/photos/photo_911_04-03-2020_11-54-32.jpg
 tags: [neocrust, crust_punk, USA, Wisconsin, 00s]
 title: "Protestant: #neocrust #crust_punk #USA #Wisconsin "
 ---
