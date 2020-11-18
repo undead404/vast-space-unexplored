@@ -1,0 +1,3 @@
+User-agent: *
+Noindex: /page*
+Sitemap: https://neprostir.site/sitemap.xml
